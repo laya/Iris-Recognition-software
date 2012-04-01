@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="advanced_colors"
+	 type="python:findit"
+	 section="/discovery/colors_group"
+	 mode="*"
+	 difficulty="6"
+	 icon="advanced_colors.svg"
+	 author="Pascal Georges (pascal.georges1@free.fr)"
+	 boarddir="advanced_colors"
+	 demo="1">
+	 <_title>Advanced colors</_title>
+	 <_description>Click on the correct color</_description>
+	 <_prerequisite>Can read</_prerequisite>
+	 <_goal>Learn to recognize unusual colors.</_goal>
+	 <_manual>Click on the correct colored box.</_manual>
+  </Board>
+</GCompris>

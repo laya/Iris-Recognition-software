@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="computer"
+	 type="menu"
+	 section="/"
+	 icon="computer.svg"
+	 author="">
+	 <_title>Discover the Computer</_title>
+	 <_description>Play with computer peripherals.</_description>
+  </Board>
+</GCompris>

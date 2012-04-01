@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShapeGame>
+  <Title x="600" y="20" justification="GTK_JUSTIFY_CENTER">
+    <_name>Transportation</_name>
+  </Title>
+  <Title x="360" y="400" justification="GTK_JUSTIFY_CENTER">
+    <_name xml:space="preserve">Place each image in the order and
+on the date it was invented.
+If not sure, research online at wikipedia:
+http://www.wikipedia.org</_name>
+  </Title>
+  <Shape zoomy="1" zoomx="1" y="240" x="520"  position="0" pixmapfile="chronos/fardier.png" name="C"/>
+  <Title y="300" x="510" justification="GTK_JUSTIFY_CENTER"><_name xml:space="preserve">1769 Cugnot's fardier</_name></Title>
+  <Shape zoomy="1" zoomx="1" y="100" x="250"  position="0" pixmapfile="chronos/st_rocket.png" name="G"/>
+  <Title y="205" x="240" justification="GTK_JUSTIFY_CENTER"><_name xml:space="preserve">1829 Stephenson's Rocket
+Steam locomotive</_name></Title>
+</ShapeGame>
+

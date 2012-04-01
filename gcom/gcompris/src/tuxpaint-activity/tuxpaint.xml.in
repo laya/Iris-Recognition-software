@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board type="python:tuxpaint"
+	 section="/fun"
+	 name="tuxpaint"
+	 icon="tuxpaint.svg"
+	 difficulty="1"
+	 boarddir="Tuxpaint"
+	 author="Bill Kendrick (Tuxpaint)">
+	 <_title>Tuxpaint</_title>
+	 <_description>Launch Tuxpaint</_description>
+	 <_prerequisite>mouse and keyboard manipulation</_prerequisite>
+	 <_goal>Drawing activity (pixmap)</_goal>
+	 <_manual>Use Tuxpaint to draw. When Tuxpaint is finished this board will end.</_manual>
+  </Board>
+</GCompris>

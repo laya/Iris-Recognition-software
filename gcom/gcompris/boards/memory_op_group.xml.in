@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="memory_op_group"
+	 type="menu"
+	 section="/math/algebramenu"
+	 icon="mem_solo_calc.svg"
+	 author="">
+	 <_title>Go to mathematics memory activities</_title>
+	 <_description>Memory activities based on operations</_description>
+  </Board>
+</GCompris>

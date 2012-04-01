@@ -1,0 +1,133 @@
+How to build gcompris on Windows
+
+FIXME: http://sources.redhat.com/ml/cygwin/1999-05/msg00249.html
+       tells how to associate Gcompris.ico with Gcompris.exe
+
+1: MINGW
+===========
+
+ * MinGW (www.mingw.org) is the Minimalist GNU for Windows.
+   Unlike cygwin, apps built with MinGW don't require any middleware
+   libraries to run.  That's why I chose it over cygwin for Gcompris.
+ * Download the "MinGW" installer exe and install into c:\mingw\ .
+ * Download the "MSYS" and "MSYS Developer Toolkit" installer exes
+   and install into c:\msys\ .
+ * if msvcrt.dll is not in your Windows/System folder, get it
+   from http://www.simtel.net/simtel.net/win95/dll
+   or by installing Internet Explorer 4.0 or higher
+
+
+2: LIBRARY PREREQUISITES
+========================
+I installed each of the prerequisites in its own directory underneath
+c:\msys\1.0\opt\, so that (1) they're easy to blow away piece-by-piece
+to upgrade to newer versions, and (2) they show up as /opt/gtk, /opt/libxml,
+and so on from msys, which is reasonably clear.  If you choose a different
+hierarchy make sure to tweak your Makefile.mingw.
+
+WARNING: Library Microsoft mscrt71.dll.
+This library is needed only due to python.
+Based on microsoft wev site, it is freely redistributable if you get
+the free Microsoft Visual C++ 2005 Express Edition:
+http://support.microsoft.com/kb/326922/fr
+This library is not free software.
+
+2.1 GTK
+=======
++ gcompris needs gtk to run.
+* Install the latest "GTK Runtime Environment"
+  and "GTK Development Environment" -- *IN THAT ORDER* --
+  from http://sourceforge.net/projects/gtk-win/
+  into c:\msys\1.0\opt\gtk
+* edit /opt/gtk/bin/glib-gettextize, replace "/target" with "/gtk"
+* sanity check: you should now be able to run gtk-demo.exe from msys.
+
+2.2 LIBXML2
+===========
++ gcompris needs libxml2 to run.
+* Snag a tarball from ftp://xmlsoft.org/ and untar it in your msys home directory.
+* ./configure --prefix=/libxml2; make; make install
+
+2.3 OTHER
+=========
+
+Look at the NEEDED_DLLS section in the Makefile.mingw and make sure you have all of those.
+
+2.6 PREREQUISITE SUMMARY
+========================
+Check the file global_win32.mak to know which dependancies must
+be provided and where.
+
+3: BUILDING GCOMPRIS.EXE
+========================
+* On GNU/Linux build GCompris as usually with a /usr/local prefix
+  and run make install to install the translations and the data there.
+  Then recompile for Windows with:
+  make -f Makefile.mingw prep - create the win32-install-dir
+  make -f Makefile.mingw  - compilation step
+  make -f Makefile.mingw  prepack - include all necessary libraries in the installer directory
+  make -f Makefile.mingw install - include the generated code in the installer directory
+
+* Now on the windows system:
+  Preparation on Windows for python:
+  - Install Python on Windows
+  - Copy the pythonxx.dll from the c:\Windows\System32 in c:\Pythonxx
+  - Install py2exe-0.6.9.win32-pyx.x.exe
+  - Intall pycairo-1.8.10.win32-pyx.x.exe from http://ftp.gnome.org/pub/GNOME/binaries/win32
+  - Install pygobject
+  - Install pygtk
+
+  make -f Makefile.mingw python - create an embedded python interpreter
+
+* the win32-install-dir contains anything needed to run and package GCompris.
+  Back to GNU/Linux, create the installer:
+  make -f Makefile.mingw installer
+
+  The installer used is NSIS get it there:
+  http://nsis.sourceforge.net/Main_Page
+
+The GCompris package is created, double click on it from your file manager
+to test it.
+
+
+Additional Conditions for this Windows binary build
+---------------------------------------------------
+
+This program is linked with and uses Microsoft Distributable Code,
+copyrighted by Microsoft Corporation. The Microsoft Distributable Code
+includes the following files:
+
+msvcr90.dll
+msvcp90.dll
+msvcm90.dll
+
+If you further distribute programs that include the Microsoft
+Distributable Code, you must comply with the restrictions on
+distribution specified by Microsoft. In particular, you must require
+distributors and external end users to agree to terms that protect the
+Microsoft Distributable Code at least as much as Microsoft's own
+requirements for the Distributable Code. See Microsoft's documentation
+(included in its developer tools and on its website at microsoft.com)
+for specific details.
+
+Redistribution of the Windows binary build of the Python interpreter
+complies with this agreement, provided that you do not:
+
+- alter any copyright, trademark or patent notice in Microsoft's
+Distributable Code;
+
+- use Microsoft’s trademarks in your programs’ names or in a way that
+suggests your programs come from or are endorsed by Microsoft;
+
+- distribute Microsoft's Distributable Code to run on a platform other
+than Microsoft operating systems, run-time technologies or application
+platforms; or
+
+- include Microsoft Distributable Code in malicious, deceptive or
+unlawful programs.
+
+These restrictions apply only to the Microsoft Distributable Code as
+defined above, not to Python itself or any programs running on the
+Python interpreter. The redistribution of the Python interpreter and
+libraries is governed by the Python Software License included with this
+file, or by other licenses as marked.

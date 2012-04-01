@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board 
+	 name="chess"
+	 type="menu" 
+	 section="/strategy"
+	 icon="chess.svg" 
+	 author="">
+	 <_title>Practice chess</_title>
+	 <_description>Play chess against the computer in a learning mode</_description>
+  </Board>
+</GCompris>

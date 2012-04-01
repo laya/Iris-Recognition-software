@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="fun"
+	 type="menu"
+	 section="/"
+	 icon="fun.svg"
+	 author="">
+	 <_title>Go to Amusement activities</_title>
+	 <_description>Various fun activities.</_description>
+  </Board>
+</GCompris>

@@ -1,0 +1,126 @@
+#
+# Makefile.mingw
+#
+# Description: Makefile for win32 (mingw) version of python plugin and menu2
+#
+
+#
+# PATHS
+#
+
+GCOMPRIS_TOP :=		../..
+CANVAS_TOP :=		$(GCOMPRIS_TOP)/src/goocanvas/src
+
+##
+## VARIABLE DEFINITIONS
+##
+
+# Compiler Options
+
+DEFINES = \
+	 -DPYGOOCANVAS_MAJOR_VERSION=0 \
+	 -DPYGOOCANVAS_MINOR_VERSION=0 \
+	 -DPYGOOCANVAS_MICRO_VERSION=0
+
+
+.SUFFIXES:
+.SUFFIXES: .c .a
+
+##
+## INCLUDE  MAKEFILES
+##
+
+include $(GCOMPRIS_TOP)/global_win32.mak
+
+##
+## INCLUDE PATHS
+##
+
+INCLUDE_PATHS +=	-I. \
+			-I$(GTK_TOP)/include \
+			-I$(GTK_TOP)/include/gtk-2.0 \
+			-I$(GLIB_TOP)/include/glib-2.0 \
+			-I$(GTK_TOP)/include/pango-1.0 \
+			-I$(GTK_TOP)/include/gdk-pixbuf-2.0 \
+			-I$(GLIB_TOP)/lib/glib-2.0/include \
+			-I$(GTK_TOP)/lib/gtk-2.0/include \
+			-I$(GTK_TOP)/include/atk-1.0 \
+			-I$(GTK_TOP)/include/freetype2 \
+			-I$(LIBXML2_TOP)/include \
+			-I$(GCOMPRIS_TOP) \
+			-I$(GCOMPRIS_TOP)/src \
+			-I$(CANVAS_TOP) \
+			-I$(CAIRO_TOP)/include/cairo \
+			-I$(PYTHON_TOP)/include \
+			-I$(PYTHON_TOP)/include/pygtk-2.0 \
+			-I$(PYTHON_TOP)/include/pycairo \
+			-I$(SQLITE_TOP) \
+			-I$(ICONV_TOP)/include \
+			-I$(RSVG_TOP)/include/librsvg-2.0
+
+
+##
+## TARGET DEFINITIONS
+##
+
+.PHONY: all clean
+
+all: libboards
+
+install:
+
+##
+##  SOURCES, OBJECTS
+##
+PYTHON_C_SRC = \
+	     python.c \
+	     goocanvas.c \
+	     goocanvasmodule.c \
+	     py-gcompris-board.c \
+	     py-gcompris-boardconfig.c \
+	     py-gcompris-properties.c \
+	     py-gcompris-profile.c \
+	     py-gcompris-wordlist.c \
+	     py-gcompris-user.c	\
+	     py-gcompris-class.c \
+	     py-gcompris-group.c \
+	     py-mod-gcompris.c \
+	     py-mod-utils.c \
+	     py-mod-admin.c \
+	     py-mod-bonus.c \
+	     py-mod-score.c \
+	     py-mod-timer.c \
+	     py-mod-sound.c \
+	     py-mod-skin.c \
+	     py-mod-anim.c
+
+BOARDS_C_SRC =	\
+	menu2.c \
+	$(PYTHON_C_SRC)
+
+BOARDS_OBJECTS = $(BOARDS_C_SRC:%.c=%.o)
+
+
+#
+# BUILD Boards staticlibrary
+#
+
+# How to make a C file
+%.o: %.c
+	$(CC) $(CFLAGS) $(INCLUDE_PATHS) $(DEFINES) -c $< -o $@
+
+libboards: \
+		libboards.a
+
+libboards.a: $(BOARDS_OBJECTS)
+	-rm -f libboards.a
+	$(AR) cru libboards.a $(BOARDS_OBJECTS)
+	$(RANLIB) libboards.a
+
+##
+## CLEAN RULES
+##
+
+clean:
+	rm -rf *.o
+	rm -rf *.a

@@ -1,0 +1,66 @@
+                           NOTE TO TRANSLATORS
+                           -------------------
+
+You can also get these instructions online there:
+http://gcompris.net/wiki/Translation_addons
+
+WARNING: After a .po update and install, run GCompris with --reread-menu option
+         in order to see your changes. (GCompris caches strings in a database).
+
+To update only you po file, run: intltool-update lang (lang is fr for French).
+
+GCompris is a little bit special in terms of translation needs. The best is
+done to bring back everything to .po files but it is not exhaustive.
+
+Note that in the po file when you encounter string like this:
+#: ../boards/missing_letter/board1.xml.in.h:2
+msgid "apple/appl_/e/h/a"
+
+The number in board1.xml.in means this word will be provided at level 1 of
+this very activity in gcompris.
+
+So here is the format description:
+   The word    The _                    3 proposals
+   to find     is the missing           chose them to
+               letter                   confuse the kid
+   apple       appl_                    / e / h / a
+
+To complete the translation, you must also provide:
+
+- A single word list file for your locale named:
+src/readingh-activity/resources/wordsgame/default-XX.xml
+Where XX is your target locale.
+
+Note that these words must be choosen to be simple in your language,
+don't necessary translate the english. Also, it is important to make sure
+that these words can be written with your keyboard in one key
+(no alt gr stuff or compose key).
+
+In order to be useful, this list must contains about 1000 words.
+If you can, pick the words from a school children book or wiktionary.
+
+The files are XML formatted. There are 5 levels section which contains:
+Level   Word length
+  1     < 4 and very easy to type
+  2     = 4 or < 4 not so easy
+  3     = 5
+  4     = 6
+  5     > 6
+
+- A level description for the click on letter activity in
+  src/click_on_letter/resources/click_on_letter/default-<locale>.desktop
+  This file describes the different levels of this activity and
+  depends on how letters are teached to children in your language
+  (Read the english file introduction to get the instructions).
+
+- A complete voice translation in boards/voices/yy
+The voices are in a separate git branch. If you got the source from the
+git, you can get the voices simply by running 'make update-voices'.
+It is best to choose somebody that speaks and articulate well your language.
+What is great with GCompris is that you can use it to practice a foreign
+language.
+Read the file boards/voices/HOWTO_ENCODE to get more detailed instructions
+
+To check that you completed the translation of all voices and that there are no
+missing files. You can use the tool check_missing_voices.pl located in the tools
+directory.

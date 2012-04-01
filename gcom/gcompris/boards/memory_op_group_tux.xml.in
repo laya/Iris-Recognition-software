@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="memory_op_group_tux"
+	 type="menu"
+	 section="/math/algebramenu"
+	 icon="mem_tux_calc.svg"
+	 author="">
+	 <_title>Go to mathematics memory activities against Tux</_title>
+	 <_description>Memory activities based on operations</_description>
+  </Board>
+</GCompris>

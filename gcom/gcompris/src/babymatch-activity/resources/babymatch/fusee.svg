@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg548"
+   sodipodi:version="0.32"
+   width="120.15611"
+   height="119.59351"
+   sodipodi:docbase="/home/bcoudoin/Projets/gcompris/gcompris-ressources"
+   sodipodi:docname="fusee.svg"
+   inkscape:version="0.46"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <svg:metadata
+     id="metadata16" />
+  <svg:defs
+     id="defs550">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 250 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="500 : 250 : 1"
+       inkscape:persp3d-origin="250 : 166.66667 : 1"
+       id="perspective20" />
+  </svg:defs>
+  <sodipodi:namedview
+     id="base"
+     showgrid="true"
+     inkscape:zoom="4"
+     inkscape:cx="64.545315"
+     inkscape:cy="58.006759"
+     inkscape:window-width="641"
+     inkscape:window-height="719"
+     inkscape:window-x="115"
+     inkscape:window-y="25"
+     inkscape:current-layer="svg548" />
+  <svg:g
+     id="g846"
+     transform="matrix(0.2576836,0,0,0.2576836,-3.2999786,-6.7252894)">
+    <svg:path
+       style="fill:#ff4000;fill-rule:evenodd;stroke-width:3.75"
+       d="M 271.335,362.637 C 271.335,362.637 284.054,399.945 298.468,431.318 C 312.883,462.692 338.321,477.954 341.713,477.954 C 345.104,477.954 348.496,460.148 347.648,449.973 C 346.8,439.798 323.058,419.447 363.759,451.668 C 404.459,483.889 433.288,497.456 430.744,486.433 C 434.984,459.299 387.5,402.489 418.026,412.664 C 448.551,422.839 500.274,446.581 468.053,409.272 C 435.832,371.964 402.763,355.005 430.745,355.853 C 458.726,356.701 485.859,369.42 472.293,344.83 C 458.726,320.24 393.456,281.998 365.475,265.887 C 343.429,276.91 300.165,305.826 271.335,362.637 z"
+       id="path671"
+       sodipodi:nodetypes="cccccccccccc"
+       transform="matrix(1.004098,0,0,1.014736,-1.111864,-7.223473)" />
+    <svg:path
+       style="fill:#ffff33;fill-opacity:0.696296;fill-rule:evenodd;stroke-width:12.5;stroke-linejoin:round"
+       d="M 284.054,339.743 C 284.054,339.743 293.381,384.683 303.556,398.249 C 313.731,411.816 316.275,410.12 318.819,391.466 C 321.363,372.812 303.556,354.157 334.081,374.508 C 364.607,394.858 390.892,420.295 375.63,388.922 C 360.367,357.549 356.127,349.918 377.325,360.941 C 398.523,371.964 418.874,380.443 393.435,349.918 C 373.934,327.872 412.937,321.936 419.721,319.393 C 435.832,321.937 351.04,274.452 342.561,274.452 C 333.233,276.148 287.445,332.959 284.054,339.743 z"
+       id="path672"
+       sodipodi:nodetypes="cccccccccc" />
+    <svg:path
+       style="fill:#d9d9d9;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 43.244,60.7763 C 122.101,62.472 321.362,94.6929 397.675,290.563 C 371.389,295.651 306.948,358.397 296.773,393.161 C 102.599,293.955 47.4836,137.089 43.244,60.7763 z"
+       id="path663"
+       sodipodi:nodetypes="cccc"
+       transform="translate(-25.43768,-29.67728)" />
+    <svg:path
+       style="fill:#bfbfbf;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 189.087,321.936 C 189.087,321.936 192.478,408.424 192.478,409.272 C 192.478,410.12 296.773,457.604 302.708,460.148 L 297.621,392.314 C 288.294,393.162 205.197,339.743 189.087,321.936 z"
+       id="path664"
+       sodipodi:nodetypes="ccccc"
+       transform="translate(-25.43768,-29.67728)" />
+    <svg:path
+       style="fill:#bfbfbf;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 190.761,322.825 C 190.761,322.825 192.478,408.424 192.478,409.272 C 192.478,410.12 296.773,457.604 302.708,460.148 L 297.621,392.314 C 264.809,382.406 210.2,343.258 190.761,322.825 z"
+       id="path665"
+       sodipodi:nodetypes="ccccc"
+       transform="matrix(-2.457462e-2,0.999698,0.999698,2.457462e-2,-13.30614,-47.2839)" />
+    <svg:path
+       style="fill:#bfbfbf;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 235.31677,210.16905 C 235.31677,210.16905 249.57675,244.29165 251.98394,249.85491 C 254.93778,253.60324 329.57296,314.51127 335.05153,317.92908 L 331.87269,296.24835 C 323.87845,288.54971 255.06929,228.23237 235.31677,210.16905 z"
+       id="path666"
+       sodipodi:nodetypes="ccccc" />
+    <svg:path
+       style="fill:#bfbfbf;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 232.63653,209.39949 L 215.86803,233.67972 L 236.51282,269.41364 L 322.26679,337.15802 L 334.6544,318.61254 L 252.66302,249.37251 L 232.63653,209.39949 z"
+       id="path667"
+       sodipodi:nodetypes="ccccccc" />
+    <svg:path
+       style="fill:#bfbfbf;fill-rule:evenodd;stroke:#000000;stroke-width:12.5;stroke-linejoin:round"
+       d="M 124.645,131.154 C 95.8152,170.158 155.169,218.49 183.151,183.725 C 217.068,141.329 158.562,100.629 124.645,131.154 z"
+       id="path668"
+       sodipodi:nodetypes="ccc" />
+    <svg:path
+       style="fill:#aeffff;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 132.276,135.393 C 153.474,115.043 202.653,139.633 180.608,176.094 C 156.018,207.466 105.991,167.615 132.276,135.393 z"
+       id="path669"
+       sodipodi:nodetypes="ccc" />
+    <svg:path
+       style="fill:#ffffff;fill-opacity:0.75;fill-rule:evenodd;stroke-width:12.5;stroke-linejoin:round"
+       d="M 148.386,134.502 C 141.52512,139.23955 123.48549,154.12588 138.211,171.854 C 150.93,175.246 168.736,136.198 148.386,134.502 z"
+       id="path670"
+       sodipodi:nodetypes="ccc" />
+  </svg:g>
+  <svg:metadata
+     id="metadata18">
+    <rdf:RDF
+       id="RDF616">
+      <Work
+         rdf:about="">
+        <dc:title>Clipart by Nicu Buculei - piggybank</dc:title>
+        <dc:rights>
+          <Agent>
+            <dc:title>Nicu Buculei</dc:title>
+          </Agent>
+        </dc:rights>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+      </Work>
+      <License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </License>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+</svg:svg>

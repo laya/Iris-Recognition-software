@@ -1,0 +1,33 @@
+Developer:
+ - Bruno Coudoin <bruno.coudoin@free.fr>
+ - Yves Combe
+ - Yann Dirson (clock board needle angle calculation)
+ - Pascal Georges
+ - Jose JORGE
+ - Olivier Samyn (Python plugin)
+ - Laurent Lacheny (Connect 4)
+ - Joe Neeman (Gnumch)
+
+Web Site:
+ - Bruno Coudoin <bruno.coudoin@free.fr>
+ - Zohra Coudoin for the Spanish translation.
+ - Web site redesign by Aurelie Castie
+
+Graphism:
+ - Franck Doucet
+ - Bruno Coudoin
+ - Animal pictures by Ralf Scmode
+ - Nicu Buculei (Mr.Potato)
+ - LE BERRE Daniel (Animals)
+
+Sounds:
+ - Made by Bruno Coudoin with soundtracker
+
+Validation by:
+ - Bruno Coudoin's family Clément, Clara and Zohra.
+ - Marec Dirson 3 years old.
+
+Additional code:
+ - The plugin system has been borrowed from XMMS:
+     Copyright (C) 1998-2000  Peter Alm, Mikael Alm, Olle Hallnas, 
+     Thomas Nilsson and 4Front Technologies

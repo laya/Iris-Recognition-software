@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShapeGame><!-- Created with GComprisShapegame gimp script -->
+  <title color_skin="gcompris/text button" color_background_skin="gcompris/shadow" justification="GTK_JUSTIFY_CENTER" x="405" y="495">
+    <_name>Michelangelo, Pieta - 1499</_name>
+  </title>
+<shape name="A1" pixmapfile="paintings/Michelangelo_Pieta_a1.png" position="0" x="260.5" y="75.5"/>
+<shape name="B1" pixmapfile="paintings/Michelangelo_Pieta_b1.png" position="0" x="400.0" y="75.5"/>
+<shape name="C1" pixmapfile="paintings/Michelangelo_Pieta_c1.png" position="0" x="539.5" y="75.5"/>
+<shape name="A2" pixmapfile="paintings/Michelangelo_Pieta_a2.png" position="0" x="244.0" y="198.5"/>
+<shape name="B2" pixmapfile="paintings/Michelangelo_Pieta_b2.png" position="0" x="384.0" y="186.0"/>
+<shape name="C2" pixmapfile="paintings/Michelangelo_Pieta_c2.png" position="0" x="539.5" y="186.0"/>
+<shape name="A3" pixmapfile="paintings/Michelangelo_Pieta_a3.png" position="0" x="260.5" y="322.5"/>
+<shape name="B3" pixmapfile="paintings/Michelangelo_Pieta_b3.png" position="0" x="416.5" y="323.5"/>
+<shape name="C3" pixmapfile="paintings/Michelangelo_Pieta_c3.png" position="0" x="555.5" y="323.5"/>
+<shape name="A4" pixmapfile="paintings/Michelangelo_Pieta_a4.png" position="0" x="244.0" y="432.5"/>
+<shape name="B4" pixmapfile="paintings/Michelangelo_Pieta_b4.png" position="0" x="384.0" y="444.5"/>
+<shape name="C4" pixmapfile="paintings/Michelangelo_Pieta_c4.png" position="0" x="539.5" y="444.5"/>
+</ShapeGame>

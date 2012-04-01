@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShapeGame>
+  <Title x="395" y="490" justification="GTK_JUSTIFY_CENTER" color_skin="gcompris/text button" color_background_skin="gcompris/shadow">
+    <_name>Click on an item and listen to its target position</_name>
+  </Title>
+  <Title x="231" y="90" justification="GTK_JUSTIFY_CENTER"><name>1</name></Title>
+  <Title x="137" y="325" justification="GTK_JUSTIFY_CENTER"><name>C</name></Title>
+  <Shape name="A" pixmapfile="doubleentry/d-entry_banane_1.png"  x="231" y="325"  zoomx="1" zoomy="1" position="0" sound="voices/$LOCALE/alphabet/U0063.ogg voices/$LOCALE/alphabet/U0031.ogg"/>
+  <Shape name="B" pixmapfile="doubleentry/d-entry_banane_2.png"  x="321" y="325"  zoomx="1" zoomy="1" position="0" sound="voices/$LOCALE/alphabet/U0063.ogg voices/$LOCALE/alphabet/U0032.ogg"/>
+  <Shape name="C" pixmapfile="doubleentry/d-entry_banane_3.png"  x="418" y="325"  zoomx="1" zoomy="1" position="0" sound="voices/$LOCALE/alphabet/U0063.ogg voices/$LOCALE/alphabet/U0033.ogg"/>
+  <Title x="321" y="90" justification="GTK_JUSTIFY_CENTER"><name>2</name></Title>
+  <Title x="137" y="170" justification="GTK_JUSTIFY_CENTER"><name>A</name></Title>
+  <Shape name="D" pixmapfile="doubleentry/d-entry_pomme_1.png"   x="231" y="170"  zoomx="1" zoomy="1" position="0" sound="voices/$LOCALE/alphabet/U0061.ogg voices/$LOCALE/alphabet/U0031.ogg"/>
+  <Shape name="E" pixmapfile="doubleentry/d-entry_pomme_2.png"   x="321" y="170"  zoomx="1" zoomy="1" position="0" sound="voices/$LOCALE/alphabet/U0061.ogg voices/$LOCALE/alphabet/U0032.ogg"/>
+  <Shape name="F" pixmapfile="doubleentry/d-entry_pomme_3.png"   x="418" y="170"  zoomx="1" zoomy="1" position="0" sound="voices/$LOCALE/alphabet/U0061.ogg voices/$LOCALE/alphabet/U0033.ogg"/>
+  <Title x="418" y="90" justification="GTK_JUSTIFY_CENTER"><name>3</name></Title>
+  <Title x="137" y="245" justification="GTK_JUSTIFY_CENTER"><name>B</name></Title>
+  <Shape name="G" pixmapfile="doubleentry/d-entry_galette_1.png" x="231" y="245"  zoomx="1" zoomy="1" position="0" sound="voices/$LOCALE/alphabet/U0062.ogg voices/$LOCALE/alphabet/U0031.ogg"/>
+  <Shape name="H" pixmapfile="doubleentry/d-entry_galette_2.png" x="321" y="245"  zoomx="1" zoomy="1" position="0" sound="voices/$LOCALE/alphabet/U0062.ogg voices/$LOCALE/alphabet/U0032.ogg"/>
+  <Shape name="I" pixmapfile="doubleentry/d-entry_galette_3.png" x="418" y="245"  zoomx="1" zoomy="1" position="0" sound="voices/$LOCALE/alphabet/U0062.ogg voices/$LOCALE/alphabet/U0033.ogg"/>
+</ShapeGame>

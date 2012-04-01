@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+        name="braille_alphabets"
+        type="python:braille_alphabets"
+        section="/discovery/braille"
+        icon="braille_alphabets.svg"
+        difficulty="5"
+        author="Srishti Sethi (srishakatux@gmail.com)"
+        boarddir=""
+        demo="1">
+        <_title>Discover the Braille system</_title>
+        <_description>Learn and memorize the Braille system.</_description>
+        <_prerequisite></_prerequisite>
+        <_goal>Let kids discover the Braille system.</_goal>
+        <_manual>The screen has 3 sections: an interactive braille cell, an instruction telling you the letter to reproduce, and at the top the Braille letters to use as a reference. Each level teaches a set of 10 letters.</_manual>
+        <_credit></_credit>
+  </Board>
+  <Data directory=""/>
+</GCompris>

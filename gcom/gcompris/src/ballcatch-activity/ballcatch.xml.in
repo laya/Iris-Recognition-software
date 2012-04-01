@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+        name="ballcatch"
+        type="python:ballcatch"
+        section="/computer/keyboard"
+        icon="ballcatch.svg"
+        difficulty="1"
+        author="Bruno Coudoin (bruno.coudoin@free.fr)"
+        boarddir=""
+        >
+        <_title>Make the ball go to Tux</_title>
+        <_description>Press the two shift keys at the same time, to make the ball go in a straight line.</_description>
+        <_prerequisite></_prerequisite>
+        <_goal></_goal>
+        <_manual>Press the two shift keys at the same time, to make the ball go in a straight line.</_manual>
+        <_credit></_credit>
+  </Board>
+  <Data directory=""/>
+</GCompris>

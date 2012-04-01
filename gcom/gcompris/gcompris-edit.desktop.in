@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+_Name=GCompris Administration
+_Comment=Administration for gcompris
+Exec=gcompris -a --nolockcheck
+Icon=gcompris-edit
+Terminal=false
+Type=Application
+Categories=Settings;
+StartupNotify=true
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gcompris
+X-GNOME-Bugzilla-Component=

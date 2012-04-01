@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="missing_letter"
+	 type="missingletter"
+	 section="/reading"
+	 icon="missing_letter.svg"
+	 difficulty="2"
+	 author="Pascal Georges (pascal.georges1@free.fr)"
+	 boarddir="missing_letter"
+	 demo="1">
+	 <_title>Missing Letter</_title>
+	 <_description>Fill in the missing letter</_description>
+	<_prerequisite>Word reading</_prerequisite>
+	<_goal>Training reading skills</_goal>
+	<_manual>An object is displayed in the main area, and an incomplete word is printed under the picture. Select the missing letter to complete the word.</_manual>
+  </Board>
+</GCompris>

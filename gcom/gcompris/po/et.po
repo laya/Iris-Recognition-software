@@ -1,0 +1,6024 @@
+# Gcomprise eesti tõlge
+# Estonian translation of Gcompris
+# 
+# Copyright (C) 2005-2011, Free Software Foundation, Inc
+# This file is distributed under the same license as the Gcompris package.
+# 
+# Priit Laes <amd@store20.com>, 2005
+# Olle Niit <olle@paalalinn.com>, 2005, 2007, 2011.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: gcompris\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=gcompris&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-12-12 22:25+0000\n"
+"PO-Revision-Date: 2011-12-13 00:55+0200\n"
+"Last-Translator: Olle Niit <olle@paalalinn.com>\n"
+"Language-Team:  <gnome-et@linux.ee>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Estonian\n"
+"X-Generator: Emacs\n"
+
+msgid "Go to Algebra activities"
+msgstr "Arvutamisülesanded"
+
+msgid "Left-click the mouse on an activity to select it."
+msgstr "Tegevuse valimiseks klõpsa hiire vasakut klahvi."
+
+msgid "Go to calculation activities"
+msgstr "Arvutamise ülesanded"
+
+msgid "Various calculation activities."
+msgstr "Mitmesugused arvutamise ülesanded."
+
+msgid "Discover the Braille system"
+msgstr "Avasta Braille süsteem"
+
+msgid ""
+"The Braille system is a method that is widely used by blind people to read "
+"and write, and was the first digital form of writing."
+msgstr ""
+"Braille süsteem on laialtkasutatav meetod, mida pimedad inimesed kasutavad "
+"lugemiseks ja kirjutamiseks. See oli esimene digitaalne kirjutamise vorm."
+
+msgid "Play chess against the computer in a learning mode"
+msgstr "Mängi arvutiga malet õppimiserežiimis"
+
+msgid "Practice chess"
+msgstr "Malemängu-harjutused"
+
+msgid "Colors based activities."
+msgstr "Värvidega seotud tegevused."
+
+msgid "Go to Color activities"
+msgstr "Tegevused värvidega"
+
+msgid "Discover the Computer"
+msgstr "Avasta arvutit"
+
+msgid "Play with computer peripherals."
+msgstr "Mängi arvuti sisend-väjund-seadmetega."
+
+msgid "Colors, sounds, memory..."
+msgstr "Värvid, helid, mälu..."
+
+msgid "Go to discovery activities"
+msgstr "Avastamise ülesanded"
+
+msgid "Go to experiential activities"
+msgstr "Vilumust nõudvad tegevusalad"
+
+msgid "Various activities based on physical movement."
+msgstr "Mitmesugused füüsilisel liikumisel põhinevad ülesanded."
+
+msgid "Go to Experimental activities"
+msgstr "Vilumust nõudvad tegevusalad"
+
+msgid "Run gcompris --experimental to see this menu."
+msgstr "Selle menüü nägemiseks käivita gcompris --experimental"
+
+msgid "Go to Amusement activities"
+msgstr "Meelelahutus"
+
+msgid "Various fun activities."
+msgstr "Mitmesugused meelelahutused"
+
+msgid "Geometry"
+msgstr "Geomeetria"
+
+msgid "Geometry activities."
+msgstr "Geomeetriaülesanded."
+
+msgid "Go to Number Munchers activities"
+msgstr "Arvude mugimise tegevused"
+
+msgid "Number Munchers are games to play with arithmetic."
+msgstr "Numbrite mugijad on aritmeetikaülesanded."
+
+msgid "Discover the keyboard."
+msgstr "Avasta klaviatuur."
+
+msgid "Keyboard-manipulation boards"
+msgstr "Klaviatuuriga seotud ülesanded"
+
+msgid "Mathematical activities."
+msgstr "Matemaatikaülesanded."
+
+msgid "Mathematics"
+msgstr "Matemaatika"
+
+msgid "Find your way out of different types of mazes"
+msgstr "Leia väljapääs erinevat tüüpi labürintidest"
+
+msgid "Go to Maze activities"
+msgstr "Labürindiülesanded"
+
+msgid "Go to Memory activities"
+msgstr "Mälumängud"
+
+msgid "Various memory activities (images, letters, sounds)."
+msgstr "Mitmesugused mälumängud (pildid, tähed, hääled)."
+
+msgid "Go to mathematics memory activities against Tux"
+msgstr "Matemaatilised mälumängud Tuxi vastu"
+
+msgid "Memory activities based on operations"
+msgstr "Mälutreeningud"
+
+msgid "Go to mathematics memory activities"
+msgstr "Matemaatilised mälumängud"
+
+msgid ""
+"A simple click on an icon brings you to an activity or a menu of "
+"activities.\n"
+"At the bottom of the screen is the GCompris control bar.\n"
+"The following icons are displayed from right to left.\n"
+"(note that each icon is displayed only if available in the current "
+"activity)\n"
+"    Home - Exit an activity, go back to menu (ctrl-w and escape key)\n"
+"    Thumb - OK. Confirm your answer\n"
+"    Arrows - Display the current level. Click to select another level\n"
+"    Lips - Repeat the question\n"
+"    Question Mark - Help\n"
+"    Tool - The configuration menu\n"
+"    Tux Plane - About GCompris\n"
+"    Quit - Quit GCompris (ctrl-x)\n"
+"The stars show suitable age groups for each game:\n"
+"    1, 2 or 3 simple stars  - from 2 to 6 years old\n"
+"    1, 2 or 3 complex stars - 7 years and up\n"
+"Shortcuts:\n"
+"    ctrl-b Show or Hide the control bar\n"
+"    ctrl-f Toggle full screen\n"
+"    ctrl-m Toggle mute for the background music"
+msgstr ""
+"Lihtne klõps ikoonil viib sind ülesande või ülesannete juurde.\n"
+"Ekraani alumises servas on GComprise juhtnupud.\n"
+"Paremalt vasakule näidatakse selliseid ikoone:\n"
+"(iga ikooni näidatakse vaid siis kui see on vastava ülesande jaoks vajalik)\n"
+"    Kodu - välju tegevusest, mine tagasi menüüsse (ctrl-w ja esc klahv)\n"
+"    Pöial - OK. Sinu vastuse programmile saatmine\n"
+"    Huuled - Korda küsimust\n"
+"    Küsimärk - Abi\n"
+"    Mutrivõti - Programmi häälestamise menüü\n"
+"    Lennuk - Üldinfo GComprise kohta\n"
+"    Välju - Välju GComprisest (ctrl-x)\n"
+"Tähed näitavad, mis vanuses lastele iga ülesanne või ülesannete grupp "
+"mõeldud on:\n"
+"    1, 2 või 3 lihtsat tähte  - 2 kuni 6 aasta vanustele\n"
+"    1, 2 või 3 keerulist tähte- 7-aastastele ja vanematele\n"
+"Kiirklahvid:\n"
+"    ctrl-b Näita või peida nupuriba\n"
+"    ctrl-f Täisekraani režiim\n"
+"    ctrl-m Keela taustamuusika"
+
+msgid "GCompris Main Menu"
+msgstr "GComprise peamenüü"
+
+msgid ""
+"GCompris is a collection of educational games that provides different "
+"activities for children aged 2 and up."
+msgstr ""
+"GCompris on õpetlike mängude kollektsioon, mis annab tegevust 2-aastastele "
+"ja vanematele lastele."
+
+msgid ""
+"The goal of GCompris is to provide a free alternative to popular proprietary "
+"edutainment software"
+msgstr ""
+"GComprise mõte on pakkuda tasuta alternatiivi populaarsetele tasulistele "
+"õppeprogrammidele"
+
+msgid "Miscellaneous activities"
+msgstr "Mitmesugused ülesanded"
+
+msgid "Time, Geography, ..."
+msgstr "Aeg, Geograafia, ..."
+
+msgid "Go to money activities"
+msgstr "Rahaga seotud tegevused"
+
+msgid "Mouse-manipulation activities."
+msgstr "Hiire käsitsemise ülesanded"
+
+msgid "Various mouse-based activities (clicking, moving)"
+msgstr "Erinevad hiireharjutused (klõpsamine, liigutamine)"
+
+msgid "Numeration"
+msgstr "Numbrite õppimine"
+
+msgid "Numeration activities."
+msgstr "Numbrite õppimine."
+
+msgid "Puzzles"
+msgstr "Mosaiigid"
+
+msgid "Various puzzles."
+msgstr "Mitmesugused pusled."
+
+msgid "Go to the Reading activities"
+msgstr "Lugemisega seonduv"
+
+msgid "Reading activities."
+msgstr "Lugemisülesanded"
+
+msgid "Go to Sound activities"
+msgstr "Heliharjutused"
+
+msgid "Sound based activities."
+msgstr "Helidega seotud harjutused."
+
+msgid "Strategy games"
+msgstr "Strateegiamängud"
+
+msgid "Strategy games like chess, connect4, ..."
+msgstr "Strateegiamängud nagu male, ühenda4, ..."
+
+msgid "Educational game for ages 2 to 10"
+msgstr "Õppeprogramm 2 kuni 10 aastastele"
+
+msgid "Educational suite GCompris"
+msgstr "Õppekeskkond GCompris"
+
+msgid "Multi-activity educational game"
+msgstr "Miteid mänge sisaldav õppeprogramm"
+
+msgid "Administration for gcompris"
+msgstr "GComprise administreerimine"
+
+msgid "GCompris Administration"
+msgstr "GCompris administraatori menüü"
+
+msgid ""
+"An instance of GCompris is currently running. Exit GCompris and then try "
+"again."
+msgstr "Üks GCompris juba töötab. Välju GComprisest ja proovi uuesti."
+
+msgid "The installer is already running."
+msgstr "Paigaldusprogramm juba töötab."
+
+msgid "Visit the GCompris Web Site"
+msgstr "Külasta GComprise kodulehte"
+
+msgid "You do not have permission to uninstall this application."
+msgstr "Sul ei ole õigusi selle programmi maha võtmiseks."
+
+msgid ""
+"Your old GCompris directory is about to be deleted. Would you like to "
+"continue?$\\r$\\rNote: Any non-standard plugins that you may have installed "
+"will be deleted.$\\rGCompris user settings will not be affected."
+msgstr ""
+"Sinu vana GCompris kataloog läheb mahakustutamisele. Soovid jätkata?$\\r$"
+"\\rMärkus: Kõik mittestandardsed lisad mis sul võivad installeeritud olla, "
+"kustutatakse maha.$\\rGComprise kasutaja seadeid ei puudutata."
+
+msgid ""
+"the uninstaller could not find registry entries for GCompris.$\\rIt is "
+"likely that another user installed this application."
+msgstr ""
+"eemaldamisprogramm ei leidnud registrist GComprist.$\\rvõimalik, et mõni "
+"teine kasutaja installeeris selle programmi."
+
+msgid "Select a profile:"
+msgstr "Vali profiil:"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Select all"
+msgstr "Vali kõik"
+
+msgid "Unselect all"
+msgstr "Tühista kogu valik"
+
+msgid "Locales"
+msgstr "Keeled"
+
+msgid "Locales sound"
+msgstr "Hääte keel"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Main menu"
+msgstr "Peamenüü"
+
+#. columns for Board name
+#. column_pref = gtk.TreeViewColumn(_('Conf'))
+#. image = gtk.image_new_from_stock(gtk.STOCK_PREFERENCES, gtk.ICON_SIZE_MENU)
+#. image.show()
+#. column_pref.set_widget(image)
+msgid "Active"
+msgstr "Aktiivne"
+
+msgid "Board title"
+msgstr "Mängulaua pealkiri"
+
+#, python-format
+msgid "Filter Boards difficulty for profile %s"
+msgstr "Filtreeri mängulaudade raskustaset profiilile %s"
+
+#, python-format
+msgid ""
+"<span size='x-large'> Select the difficulty range \n"
+"for profile <b>%s</b></span>"
+msgstr ""
+"<span size='x-large'> Vali raskustase \n"
+"profiilile <b>%s</b></span>"
+
+msgid ""
+"<b>{config}</b> configuration\n"
+" for profile <b>{profile}</b>"
+msgstr ""
+"<b>{config}</b> häälestus\n"
+" profiilile <b>{profile}</b>"
+
+msgid "Select sound locale"
+msgstr "Vali häälte keel"
+
+msgid "Editing a Class"
+msgstr "Klassi redigeerimine"
+
+msgid "Editing class: "
+msgstr "Redigeerin klassi: "
+
+msgid "Editing a new class"
+msgstr "Redigeerin uut klassi"
+
+msgid "Class:"
+msgstr "Klass:"
+
+#. FIXME: How to remove the default selection
+#. Label and Entry for the teacher name
+msgid "Teacher:"
+msgstr "Õpetaja:"
+
+msgid "Assign all the users belonging to this class"
+msgstr "Märgi kõik kasutajad selle klassi õpilasteks"
+
+msgid "First Name"
+msgstr "Eesnimi"
+
+msgid "Last Name"
+msgstr "Perekonnanimi"
+
+msgid "You need to provide at least a name for your class"
+msgstr "Vähemalt nime pead sa klassile panema"
+
+msgid "There is already a class with this name"
+msgstr "Selle nimega klass on juba olemas"
+
+msgid "Class"
+msgstr "Klass"
+
+msgid "Teacher"
+msgstr "Õpetaja"
+
+msgid "Editing a Group"
+msgstr "Redigeerin gruppi"
+
+msgid "Editing group: "
+msgstr "Redigeerin gruppi:"
+
+msgid " for class: "
+msgstr " klassile: "
+
+msgid "Editing a new group"
+msgstr "Redigeerin uut gruppi"
+
+msgid "Group:"
+msgstr "Grupp:"
+
+#. FIXME: How to remove the selection
+#. Label and Entry for the first name
+msgid "Description:"
+msgstr "Kirjeldus:"
+
+#. Top message gives instructions
+msgid "Assign all the users belonging to this group"
+msgstr "Märgi kõik kasutajad selle grupi liikmeteks"
+
+msgid "You need to provide at least a name for your group"
+msgstr "Vähemalt nime pead sa grupile panema"
+
+msgid "There is already a group with this name"
+msgstr "Sellise nimega grupp on juba olemas"
+
+msgid "Select a class:"
+msgstr "Vali klass:"
+
+msgid "Group"
+msgstr "Grupp"
+
+msgid "Description"
+msgstr "Kirjeldus"
+
+msgid "You must first select a group in the list"
+msgstr "Esimese asjana pead valima nimekirjast grupi"
+
+msgid "Birth Date"
+msgstr "Sünnikuupäev"
+
+msgid ""
+"- In the 'Boards' section you can change the list of activities. Just "
+"untoggle them in the treeview. You can change the language used for reading, "
+"for example, then the language used for saying the names of colors.\n"
+"- You can save multiple configurations, and switch between them easily. In "
+"the 'Profile' section add a profile, then in the 'Board' section select the "
+"profile in the combobox, then select the boards you want to be active. You "
+"can add multiple profiles, with different lists of boards, and different "
+"languages. You set the default profile in the 'Profile' section, by choosing "
+"the profile you want, then clicking on the 'Default' button. You can also "
+"choose a profile from the command line.\n"
+"- You can add users, classes and for each class, you can create groups of "
+"users. Note that you can import users from a comma-separated file. Assign "
+"one or more groups to a profile, after which those new logins will appear "
+"after restarting GCompris. Being able to identify individual children in "
+"GCompris means we can provide individual reports. It also recognizes the "
+"children as individuals; they can learn to type in and recognize their own "
+"usernames (login is configurable)."
+msgstr ""
+
+msgid "GCompris Administration Menu"
+msgstr "GCompris administraatori menüü"
+
+msgid ""
+"If you want to fine tune GCompris to your needs, you can use the "
+"administration module here. The ultimate goal is to provide child-specific "
+"reporting for parents and teacher who want to monitor the progress, "
+"strengths and needs of their children."
+msgstr ""
+"Kui soovid GComprist täppishäälestada vastavalt oma vajadustele, kasuta "
+"selleks administraatorimoodulit. Peaeesmärk on anda lapsekeskset teavet "
+"lapsevanematele ja õpetajatele, kes soovivad näha edenemist, raskusi ja "
+"laste vajadusi."
+
+msgid "Left-Click with the mouse to select an activity"
+msgstr "Klõpsa hiire vasakut klahvi"
+
+msgid "Select a user:"
+msgstr "Vali kasutaja:"
+
+#. Insert the ALL option (HACK, use the user_id -2 to indicate ALL)
+msgid "All users"
+msgstr "Kõik kasutajad"
+
+msgid "Default"
+msgstr "Vaikimisi"
+
+#. Reset buttons
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Date"
+msgstr "Kuupäev"
+
+msgid "User"
+msgstr "Kasutaja"
+
+msgid "Board"
+msgstr "Mängulaud"
+
+msgid "Level"
+msgstr "Tase"
+
+msgid "Sublevel"
+msgstr "Alamtase"
+
+msgid "Duration"
+msgstr "Kestvus"
+
+msgid "Status"
+msgstr "Seisund"
+
+msgid "Boards"
+msgstr "Mängulauad"
+
+msgid "Groups"
+msgstr "Grupid"
+
+msgid "Profiles"
+msgstr "Profiilid"
+
+msgid "Reports"
+msgstr "Aruanded"
+
+msgid "Users"
+msgstr "Kasutajad"
+
+msgid "Classes"
+msgstr "Klassid"
+
+msgid "Editing a Profile"
+msgstr "Profiili redigeerimine"
+
+msgid "Editing profile: "
+msgstr "Redigeerin profiili:"
+
+msgid "Editing a new profile"
+msgstr "Redigeerin uut profiili"
+
+msgid "Profile:"
+msgstr "Profiil:"
+
+#. Top message gives instructions
+msgid "Assign all the groups belonging to this profile"
+msgstr "Märgi kõik grupid selle profiili liikmeteks"
+
+msgid "You need to provide at least a name for your profile"
+msgstr "Vähemalt nime pead sa profiilile ikka panema"
+
+msgid "There is already a profile with this name"
+msgstr "Selle nimega profiil on juba olemas"
+
+msgid "Profile"
+msgstr "Profiil"
+
+msgid "[Default]"
+msgstr "[Vaikimisi]"
+
+msgid "Editing a User"
+msgstr "Kasutaja redigeerimine"
+
+msgid "Editing a User "
+msgstr "Kasutaja redigeerimine"
+
+msgid "Editing a new user"
+msgstr "Uue kasutaja redigeerimine"
+
+msgid "Login:"
+msgstr "Login:"
+
+#. FIXME: How to remove the selection
+#. Label and Entry for the first name
+msgid "First name:"
+msgstr "Eesnimi:"
+
+#. Label and Entry for the last name
+msgid "Last name:"
+msgstr "Perekonnanimi:"
+
+#. Label and Entry for the birth date
+msgid "Birth date:"
+msgstr "Sünnikuupäev:"
+
+msgid ""
+"You need to provide at least a login, first name and last name for your users"
+msgstr "Kasutajatele tuleb anda vähemalt login nimi, eesnimi ja perekonnanimi"
+
+msgid "There is already a user with this login"
+msgstr "Sellise login nimega kasutaja on juba olemas"
+
+msgid ""
+"To import a user list from a file, first select a class.\n"
+"FILE FORMAT: Your file must be formatted like this:\n"
+"login;First name;Last name;Date of birth\n"
+"The separator is autodetected and can be one of ',', ';' or ':'"
+msgstr ""
+"Kasutajate nimekirja importimiseks tuleb esiteks klass valida.\n"
+"FAILI FORMAAT: Sinu faili read peavad olema sellisel kujul:\n"
+"login;Eesnimi;Perekonnanimi;Sünnikuupäev\n"
+"Eraldaja tuntakse automaatselt ära ja see võib olla kas ',', ';' või ':'"
+
+#, python-format
+msgid ""
+"One or more logins are not unique !\n"
+"You need to change them: %s !"
+msgstr ""
+"Üks või rohkem login nimi on korduv!\n"
+"Pead neid muutma: %s !"
+
+msgid "Advanced colors"
+msgstr "Erivärvid"
+
+msgid "Can read"
+msgstr "Lugemisoskus"
+
+msgid "Click on the correct color"
+msgstr "Klõpsa õigel värvil"
+
+msgid "Click on the correct colored box."
+msgstr "Klõpsa õiget värvi kastil."
+
+msgid "Learn to recognize unusual colors."
+msgstr "Õpi tundma haruldasi värve."
+
+#. Translator: Do not translate {text}.
+msgid "Find the {text} butterfly"
+msgstr "Leia {text} liblikas"
+
+msgid "absinthe"
+msgstr "koirohi"
+
+msgid "alabaster"
+msgstr "alabaster"
+
+msgid "almond"
+msgstr "mandel"
+
+msgid "amber"
+msgstr "merevaik"
+
+msgid "amethyst"
+msgstr "ametüst"
+
+msgid "anise"
+msgstr "aniis"
+
+msgid "aquamarine"
+msgstr "akvamariin"
+
+msgid "aubergine"
+msgstr "baklažaan"
+
+msgid "auburn"
+msgstr "kuldpruun"
+
+msgid "azure"
+msgstr "taevassinine"
+
+msgid "bistre"
+msgstr "bister"
+
+msgid "celadon"
+msgstr "celadon"
+
+msgid "cerulean"
+msgstr "taevassinine"
+
+msgid "ceruse"
+msgstr "tinavalge"
+
+msgid "chartreuse"
+msgstr "chartreuse"
+
+msgid "chestnut"
+msgstr "kastan"
+
+msgid "claret"
+msgstr "bordoo"
+
+msgid "cobalt"
+msgstr "koobalt"
+
+msgid "coral"
+msgstr "korall"
+
+msgid "corn"
+msgstr "mais"
+
+msgid "crimson"
+msgstr "vaarikapunane"
+
+msgid "cyan"
+msgstr "tsüaan"
+
+msgid "dark purple"
+msgstr "tumepurpurpunane"
+
+msgid "dove"
+msgstr "tuvi"
+
+msgid "emerald"
+msgstr "emerald"
+
+msgid "fawn"
+msgstr "hirvevasikas"
+
+msgid "fuchsia"
+msgstr "fuksia"
+
+msgid "garnet"
+msgstr "granaatpunane"
+
+msgid "glaucous"
+msgstr "hallikassinine"
+
+msgid "greyish blue"
+msgstr "hallikassinine"
+
+msgid "greyish brown"
+msgstr "hallikaspruun"
+
+msgid "indigo"
+msgstr "indigo"
+
+msgid "ivory"
+msgstr "elevandiluu"
+
+msgid "jade"
+msgstr "nefriit"
+
+msgid "larch"
+msgstr "lehis"
+
+msgid "lavender"
+msgstr "lavendel"
+
+msgid "lichen"
+msgstr "samblik"
+
+msgid "lilac"
+msgstr "sirelililla"
+
+msgid "lime"
+msgstr "laim"
+
+msgid "magenta"
+msgstr "fuksiinpunane"
+
+msgid "mahogany"
+msgstr "mahagon"
+
+msgid "malachite"
+msgstr "malahhiit"
+
+msgid "mauve"
+msgstr "kahvatulilla"
+
+msgid "mimosa"
+msgstr "mimoos"
+
+msgid "navy"
+msgstr "meresinine"
+
+msgid "ochre"
+msgstr "ooker"
+
+msgid "olive"
+msgstr "oliiv"
+
+msgid "opaline"
+msgstr "opaalne"
+
+msgid "pistachio"
+msgstr "pistaatsia"
+
+msgid "platinum"
+msgstr "plaatina"
+
+msgid "plum"
+msgstr "ploom"
+
+msgid "prussian blue"
+msgstr "berliinisinine"
+
+msgid "purple"
+msgstr "purpurpunane"
+
+msgid "ruby"
+msgstr "rubiin"
+
+msgid "rust"
+msgstr "rooste"
+
+msgid "saffron"
+msgstr "safran"
+
+msgid "sage"
+msgstr "salvei"
+
+msgid "salmon"
+msgstr "lõhe"
+
+msgid "sapphire"
+msgstr "safiir"
+
+msgid "sepia"
+msgstr "seepia"
+
+msgid "sienna"
+msgstr "sieena"
+
+msgid "sulphur"
+msgstr "väävel"
+
+msgid "tea"
+msgstr "tee"
+
+msgid "turquoise"
+msgstr "türkiis"
+
+msgid "ultramarine"
+msgstr "ultramariin"
+
+msgid "vanilla"
+msgstr "vanilje"
+
+msgid "verdigris"
+msgstr "vaserooste"
+
+msgid "vermilion"
+msgstr "kinaver"
+
+msgid "veronese"
+msgstr "veronese"
+
+msgid "wine"
+msgstr "vein"
+
+msgid ""
+"A multiplication of two numbers is displayed. At the right of the equals "
+"sign, give the answer, the product. Use the left and right arrows to modify "
+"your answer and press the Enter key to check if you've got it right. If not, "
+"just try again."
+msgstr ""
+"Näidatakse kahe numbriga korrutamisetehet. Paremale poole võrdusmärki "
+"kirjuta summa. Kasuta vajadusel vasakule-paremale nooleklahve. Vajuta Enter "
+"klahvi et kontrollida vastuse õigsust. Kui vastus ei olnud õige, proovi "
+"uuesti."
+
+msgid "Answer some algebra questions"
+msgstr "Arvuta"
+
+msgid "In a limited time, give the product of two numbers"
+msgstr "Arvuta kahe numbrit summa piiratud aja jooksul"
+
+msgid "Multiplication table"
+msgstr "Korrutustabel"
+
+msgid "Practice the multiplication operation"
+msgstr "Harjuta korrutamistehet"
+
+#. TRANSLATORS: Put here the mathematical operators '+-x/' for  your language.
+msgid "+-×÷"
+msgstr "+-×÷"
+
+msgid "I am Ready"
+msgstr "Olen valmis"
+
+msgid ""
+"Animal pictures come from the Animal Photography Page of Ralf Schmode "
+"(http://schmode.net/). Ralf has kindly permitted Gcompris to include his "
+"pictures. Thanks a lot, Ralf."
+msgstr ""
+"Loomade pildid on võetud Ralf Schmode loomafotode lehelt aadressilt (http://"
+"schmode.net/). Ralf on andnud oma nõusoleku nende piltide programmi gcompris "
+"lisamiseks. Suured tänud, Ralf."
+
+msgid ""
+"At the top of the board area, choose the numbers and arithmetic operators "
+"that give the specified result. You can deselect a number or operator by "
+"clicking on it again."
+msgstr ""
+"Leia õigete numbrite ja tehtemärkide kombinatsioon et jõuda etteantud "
+"tulemuseni. Numbreid ja tehtemärke saab valida ja eemaldada nende peal "
+"hiirega klõpsates."
+
+msgid ""
+"Deploy a strategy to arrange a set of arithmetic operations to match a given "
+"value."
+msgstr "Leia õige tehe, millega jõuad õige vastuseni."
+
+msgid "Find the series of correct operations that matches the given answer"
+msgstr "Leia õiged tehted, millega jõuad õige vastuseni"
+
+msgid "The four arithmetic operations. Combine several arithmetic operations."
+msgstr "Neli aritmeetikatehet. Kombineeri erinevaid tehteid."
+
+msgid ""
+"Work out the right combination of numbers and operations to match the given "
+"value"
+msgstr ""
+"Leia õige numbrite ja tehtemärkide kombinatsioon et jõuda etteantud "
+"tulemuseni"
+
+msgid ""
+"A subtraction problem with two numbers is displayed. At the right of the "
+"equals sign, give the answer, the difference. Use the left and right arrows "
+"to modify your answer and press the Enter key to check if you've got it "
+"right. If not, just try again."
+msgstr ""
+"Näidatakse kahe numbiga lahutamistehet. Paremale poole võrdusmärki kirjuta "
+"vastus. Kasuta vajadusel vasakule-paremale noolekeklahve. Vastuse "
+"kontrollimiseks vajuta Enter. Kui vastus oli vale, proovi uuesti."
+
+msgid "In a limited time, find the difference between two numbers"
+msgstr "Piiratud aja jooksul leia kahe numbri vahe"
+
+msgid "Practice the subtraction operation"
+msgstr "Harjuta lahutamistehet"
+
+msgid "Simple subtraction"
+msgstr "Lihtne lahutamine"
+
+msgid ""
+"An addition problem with two numbers is displayed. At the right of the "
+"equals sign, give the answer, the sum. Use the left and right arrows to "
+"modify your answer and press the Enter key to check if you've got it right. "
+"If not, just try again."
+msgstr ""
+"Näidatakse kahe numbiga liitmistehet. Paremale poole võrdusmärki kirjuta "
+"vastus, numbrite summa. Kasuta vajadusel vasakule-paremale noolekeklahve. "
+"Vastuse kontrollimiseks vajuta Enter. Kui vastus oli vale, proovi uuesti."
+
+msgid ""
+"In a limited time, find the sum of of two numbers. Introduction to simple in-"
+"line addition."
+msgstr ""
+"Leia piiratud aja jooksul numbrite summa. Sissejuhatus lihtsasse liitmisesse"
+
+msgid "Practice the addition operation"
+msgstr "Harjuta liitmistehet"
+
+msgid "Simple addition. Can recognize written numbers"
+msgstr "Lihtne liitmine. Numbrite tundmine."
+
+msgid "Complete a list of symbols"
+msgstr "Lõpeta sümbolite nimekiri"
+
+msgid "Find the next symbol in a list."
+msgstr "Leia nimekirjas järgmine sümbol."
+
+msgid "Logic training activity"
+msgstr "Loogika treenimine"
+
+msgid "Move and click the mouse"
+msgstr "Liiguta ja klõpsa hiireklahvi"
+
+msgid "algorithm"
+msgstr "Loogika"
+
+msgid "Save..."
+msgstr "Salvesta..."
+
+msgid "Load..."
+msgstr "Lae..."
+
+msgid "Run the animation"
+msgstr "Animatsiooni jooksutamine"
+
+msgid "Select"
+msgstr "Vali"
+
+msgid "Rectangle"
+msgstr "Ristkülik"
+
+msgid "Filled rectangle"
+msgstr "Täidetud ristkülik"
+
+msgid "Circle"
+msgstr "Ring"
+
+msgid "Filled circle"
+msgstr "Täidetud ring"
+
+msgid "Line"
+msgstr "Joon"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Image..."
+msgstr "Pilt..."
+
+msgid "Fill"
+msgstr "Täida"
+
+msgid "Delete"
+msgstr "Kustuta"
+
+msgid "Flip"
+msgstr "Peegelda"
+
+msgid "Raise"
+msgstr "Tõsta"
+
+msgid "Lower"
+msgstr "Langeta"
+
+msgid "Current frame"
+msgstr "Aktiivne kaader"
+
+msgid "Create a drawing or an animation"
+msgstr "Loo joonistus või animatsioon"
+
+msgid "Free drawing and animation tool."
+msgstr "Vaba joonistamise ja animeerimise tööriist."
+
+msgid ""
+"In this game, children can draw freely. The goal is to discover how to "
+"create attractive drawings based on basic shapes: rectangles, ellipses and "
+"lines. To give children a wider range of choices, a set of images can also "
+"be used."
+msgstr ""
+"Selles mängus saavad lapsed vabalt joonistada. Eesmärk on lihtsalt avastada "
+"kuidas saab teha ilusa välimusega joonistusi, mis koosnevad lihtsatest "
+"kujunditest: ristkülikud, ellipsid ja jooned. Et asja lastele põnevamaks "
+"teha, saab kasutada ka pildikollektsiooni."
+
+msgid "Needs to be capable of moving and clicking the mouse easily"
+msgstr "Pead olema suuteline hiirt vabalt liigutama ja klõpsama"
+
+msgid ""
+"Select a drawing tool on the left, and a color down the bottom. Then click "
+"and drag in the white area to create a new shape. Once you've completed a "
+"drawing, you can select a new frame to work on by selecting one of the small "
+"rectangles on the bottom. Each frame contains the same content as its "
+"previous one. You can then edit it by moving objects a little bit or adding/"
+"deleting objects. When you create several frames and then click on the "
+"'film' button, you will see all your images in a continuous slide-show (an "
+"infinite loop pattern). You can change the last image in your film by right "
+"clicking on a time frame. You can also change the viewing speed in this "
+"mode. In viewing mode, click on the 'drawing' button to return to drawing "
+"mode. You can also save and reload your animations with the 'floppy disk' "
+"and 'folder' buttons."
+msgstr ""
+"Vali vasakult joonistamise tööriist ja alt värv. Siis klõpsa ja venita "
+"valgel alal et luua uus kujund. Kui joonistus on valmis, saad valida "
+"töötamiseks uue kaadri valides ühe allpool olevatest väikestest "
+"ristkülikutest. Iga kaader sisaldab sama sisu mis eelmine kaadergi. Nüüd "
+"saad veidi objekte liigutada või lisada/eemaldada. Kui lood niimoodi mitu "
+"kaadrit ja klõpsad siis 'film' nupul, näed oma pilte järjestikku filmina "
+"(lõpmatu kordusena). Saad muuta viimast pilti oma filmis tehes paremklõpsu "
+"ajaraami. Saad muuta ka piltide vaatamise kiirust. Vaatamise režiimis saad "
+"klõpsata 'joonista' nuppu et pääseda tagasi joonistamisse.  Saad ka "
+"salvestada ja uuesti laadida enda animatsioone 'flopi' ja 'kataloog' "
+"nuppudega."
+
+msgid "Fill color..."
+msgstr "Täida värviga..."
+
+msgid "Stroke color..."
+msgstr "Joonista värviga..."
+
+#, c-format
+msgid ""
+"File '%s' is not found.\n"
+"You cannot play this activity."
+msgstr ""
+"Fali '%s' ei leitud.\n"
+"Seda tegevust ei saa käima panna."
+
+msgid "NORTH"
+msgstr "PÕHI"
+
+msgid "SOUTH"
+msgstr "LÕUNA"
+
+msgid "Choose a house"
+msgstr "Vali maja"
+
+msgid "Your turn to play ..."
+msgstr "Sinu kord mängida ..."
+
+msgid "Not allowed! Try again !"
+msgstr "Ei ole lubatud! Proovi uuesti !"
+
+msgid ""
+"At the beginning of the game four seeds are placed in each house. Players "
+"take turns moving the seeds. In each turn, a player chooses one of the six "
+"houses under his or her control. The player removes all seeds from this "
+"house, and distributes them, dropping one in each house counter-clockwise "
+"from the original house, in a process called sowing. Seeds are not "
+"distributed into the end scoring houses, nor into the house drawn from. That "
+"is, the starting house is left empty; if it contained 12 seeds, it is "
+"skipped, and the twelfth seed is placed in the next house. After a turn, if "
+"the last seed was placed into an opponent's house and brought its total to "
+"two or three, all the seeds in that house are captured and placed in the "
+"player's scoring house (or set aside if the board has no scoring houses). If "
+"the previous-to-last seed also brought the total seeds in an opponent's "
+"house to two or three, these are captured as well, and so on. However, if a "
+"move would capture all an opponent's seeds, the capture is forfeited, and "
+"the seeds are instead left on the board, since this would prevent the "
+"opponent from continuing the game. The proscription against capturing all an "
+"opponent's seeds is related to a more general idea, that one ought to make a "
+"move that allows the opponent to continue playing. If an opponent's houses "
+"are all empty, the current player must make a move that gives the opponent "
+"seeds. If no such move is possible, the current player captures all seeds in "
+"his/her own territory, ending the game. (Source Wikipedia &lt;http://en."
+"wikipedia.org/wiki/Oware&gt;)"
+msgstr ""
+
+msgid "Oware"
+msgstr "Oware"
+
+msgid "Play the Oware strategy game against Tux"
+msgstr "Mängi Oware strateegiamängu Tuxi vastu"
+
+msgid ""
+"The object of the game is to capture more seeds than one's opponent. Since "
+"the game has only 48 seeds, capturing 25 is sufficient to accomplish this. "
+"Since there are an even number of seeds, it is possible for the game to end "
+"in a draw, where each player has captured 24. The game is over when one "
+"player has captured 25 or more seeds, or both players have taken 24 seeds "
+"each (draw). If both players agree that the game has been reduced to an "
+"endless cycle, each player captures the seeds on their side of the board."
+msgstr ""
+
+msgid "Drag and Drop the items to make them match"
+msgstr "Tõmba ja aseta esemed et need omavahel sobiksid"
+
+msgid ""
+"In the main board area, a set of objects is displayed. In the vertical box "
+"(at the left of the main board) another set of objects is shown, each object "
+"in the group on the left matching exactly one object in the main board area. "
+"This game challenges you to find the logical link between these objects. How "
+"do they fit together? Drag each object to the correct red space in the main "
+"area."
+msgstr ""
+"Põhilaual on komplekt esemeid. Püstises kastis (põhilauast vasakul) on teine "
+"komplekt esemeid. Igaüks neist sobib täpselt ühe esemega põhilaual. Pead "
+"leidma loogilise seose nende objektide vahel. Kuidas nad omavahel sobivad? "
+"Tõmba ese hiire vasakut klahvi all hoides õigele punasele täpikesele "
+"põhilaual."
+
+msgid "Matching Items"
+msgstr "Sobivad esemed"
+
+msgid "Motor coordination. Conceptual matching."
+msgstr "Koordinatsiooni parandamine. Seoste leidmine."
+
+msgid "Mouse manipulation: movement, drag and drop. Cultural references."
+msgstr "Hiire tundmine: liigutamine, tõmbamine ja asetamine. Elukogemus."
+
+#, c-format
+msgid ""
+"<b>%1$s</b> configuration\n"
+" for profile <b>%2$s</b>"
+msgstr ""
+"<b>%1$s</b> häälestus\n"
+" profiilile <b>%2$s</b>"
+
+msgid "Complete the puzzle"
+msgstr "Lõpeta mosaiik"
+
+msgid ""
+"Complete the puzzle by dragging each piece from the set of pieces on the "
+"left, to the matching space in the puzzle."
+msgstr "Lõpeta mosaiik mosaiigitükke vasakult õigele kohale lohistades."
+
+msgid "Drag and Drop the shapes on their respective targets"
+msgstr "Teisalda kujundid nende õigetele kohtadele"
+
+msgid "Good mouse-control"
+msgstr "Hea hiire valitsemine"
+
+msgid "The dog is provided by Andre Connes and released under the GPL"
+msgstr "Koer on hangitud Andre Connes poolt ja avaldatud GPL all"
+
+msgid "Hello ! My name is Lock."
+msgstr "Tere! Minu nimi on Lock."
+
+msgid "Lock on the grass."
+msgstr "Lock murul."
+
+msgid "Lock with colored shapes."
+msgstr "Lock värvitud kujunditega."
+
+msgid "Paul Gauguin, Arearea - 1892"
+msgstr "Paul Gauguin, Arearea - 1892"
+
+msgid "Pieter Bruegel the Elder, The peasants wedding - 1568"
+msgstr "Pieter Bruegel the Elder, Talupoegade pulm - 1568"
+
+msgid "The Lady and the Unicorn - XVe century"
+msgstr "Leedi ja Ükssarv - XVe century"
+
+msgid "Vincent van Gogh, Bedroom in Arles - 1888"
+msgstr "Vincent van Gogh, Magamistuba Arlesis - 1888"
+
+msgid "Ambrosius Bosschaert the Elder, Flower Still Life - 1614"
+msgstr "Ambrosius Bosschaert the Elder, Lille Vaikne Elu - 1614"
+
+msgid ""
+"Press the two shift keys at the same time, to make the ball go in a straight "
+"line."
+msgstr ""
+"Kui tahad palli otse saata, vajuta mõlemat shift klahvi täpselt samal ajal."
+
+msgid "Make the ball go to Tux"
+msgstr "Saada pall Tuxile"
+
+msgid "Brain"
+msgstr "Aju"
+
+msgid "Don't use the last ball"
+msgstr "Ära kasuta viimast palli"
+
+msgid "Logic-training activity"
+msgstr "Loogika treenimine"
+
+msgid ""
+"Place balls in the holes. You win if the computer has to place the last "
+"ball. If you want Tux to begin, just click on him."
+msgstr ""
+"Pane palle aukudesse. Sina võidad kui arvuti peab panema viimase palli. Kui "
+"soovid et Tux alustaks, siis klõpsa lihtsalt temal."
+
+msgid "bar game"
+msgstr "Viimane pall"
+
+msgid "Move the mouse"
+msgstr "Liiguta hiirt"
+
+msgid "Kick the ball into the black hole on the right"
+msgstr "Löö pall parempoolsesse musta auku"
+
+msgid "Kick the ball into the goal"
+msgstr "Löö pall väravasse"
+
+msgid "Mouse-manipulation"
+msgstr "Hiire käsitsemine"
+
+msgid ""
+"Point the mouse and click on the ball, to set the speed and direction of the "
+"ball. The closer you click to the centre, the slower the ball moves."
+msgstr ""
+"Pallile kiiruse ja suuna andmiseks sihi ja klõpsa palli peal. Mida lähemale "
+"palli keskpaigale klõpsad, seda aeglasemalt pall liigub."
+
+msgid "The football game"
+msgstr "Jalgpallimäng"
+
+msgid "Main Menu Second Version"
+msgstr "Peamenüü teine versioon"
+
+msgid "Select a Board"
+msgstr "Vali laud"
+
+#, c-format
+msgid "Number of activities: %d"
+msgstr "Tegevuste arv: %d"
+
+msgid "Python Board"
+msgstr "Pythoni laud"
+
+msgid "Special board that embeds python into GCompris."
+msgstr "Spetsiaalne laud mis integreerib pythoni koodi GComprisesse."
+
+msgid "Special board that embeds python into gcompris."
+msgstr "Spetsiaalne laud mis integreerib pythoni koodi gcomprisesse."
+
+msgid "Braille : Unlocking the Code"
+msgstr "Braille : Ava Kood"
+
+#. Braille Intro
+msgid ""
+"The Braille system is a method that is used by blind people to read and "
+"write."
+msgstr ""
+"Braille süsteem on meetod mida pimedad inimesed kasutavad lugemiseks ja "
+"kirjutamiseks."
+
+#. Braille Description
+msgid ""
+"Each Braille character, or cell, is made up of six dot positions, arranged "
+"in a rectangle containing two columns of three dots each. As seen on the "
+"left, each dot is referenced by a number from 1 to 6."
+msgstr ""
+"Iga Braille tähemärk, või lahter on tehtud kuni kuuest punktist, mis on "
+"paigutatud ristkülikuna mis koosneb kahest veerust, kummaski kolm punkti. "
+"Nagu vasakul näed, igale punktile viidatakse numbritega 1 kuni 6."
+
+msgid "I am braille TUX"
+msgstr "Olen braille TUX"
+
+msgid "When you are ready, click on me and try reproducing Braille characters."
+msgstr "Kui oled valmis, klõpsa minul ja proovi Braille tähemärke järele teha."
+
+#. Translators : Do not translate the token {letter}
+msgid "Click on the dots in braille cell area to produce the letter {letter}."
+msgstr "Klõpsa punkte braille lahtris et tekitada täht {letter}."
+
+msgid ""
+"Look at the Braille character map and observe how similar the first and "
+"second line are."
+msgstr ""
+
+msgid ""
+"Again, similar as the first line but take care, the 'W' letter was added "
+"afterwards."
+msgstr ""
+
+msgid "This is easy, numbers are the same as letters from A to J."
+msgstr "See on lihtne, numbrid on samad mis tähed A kuni J."
+
+msgid "Braille Cell"
+msgstr "Braille Lahter"
+
+msgid "Click to confirm your selection of dots"
+msgstr "Valitud punktide kinnitamiseks klõpsa"
+
+msgid "Learn and memorize the Braille system."
+msgstr "Õpi ja jäta meelde Braille süsteem."
+
+msgid "Let kids discover the Braille system."
+msgstr "Lase lastel avastada Braille süsteem."
+
+msgid ""
+"The screen has 3 sections: braille cell, alphabet name and lower board "
+"containing 13 letters. Click on each letter in the lower board to know its "
+"corresponding braille code in the braille cell section. Click on the "
+"increment level button to jump to the next 13 letters of the English "
+"alphabets."
+msgstr ""
+
+msgid "Back to the activity"
+msgstr "Tagasi tegevusse"
+
+msgid "Braille Alphabet Codes"
+msgstr "Braille Tähestiku Koodid"
+
+msgid "Braille Fun"
+msgstr "Braille lõbu"
+
+msgid ""
+"Braille code the tile for the corresponding falling letters. Check the "
+"braille chart by clicking on the toggle button for help."
+msgstr ""
+
+msgid "Braille the falling letters"
+msgstr "Braille langevad tähed"
+
+msgid "PLAYER 1"
+msgstr "MÄNGIJA 1"
+
+msgid "PLAYER 2"
+msgstr "MÄNGIJA 2"
+
+msgid "Check Number"
+msgstr "Kontrolli Numbrit"
+
+msgid "Click me to get some hint"
+msgstr "Klõpsa minul vihje saamiseks"
+
+msgid "I don't have this number PLAYER {number}"
+msgstr ""
+
+msgid "Lotto Master"
+msgstr "Lotomeister"
+
+msgid "Generate a number"
+msgstr "Genereeri number"
+
+#. Translators : Do not translate the token {column}
+msgid "Hey, you have it. It is there in your {column} column"
+msgstr ""
+
+msgid "Oops, this number is not in your ticket!"
+msgstr "Oih, seda numbrit sinu piletil ei ole!"
+
+msgid "1st"
+msgstr "esimene"
+
+msgid "2nd"
+msgstr "teine"
+
+msgid "3rd"
+msgstr "kolmas"
+
+msgid "4th"
+msgstr "neljas"
+
+msgid "Game Over"
+msgstr "Mäng läbi"
+
+msgid "Congratulation player {player_id}, you won"
+msgstr "Õnnitlused mängijale {player_id}, sina võitsid"
+
+msgid "Braille Lotto"
+msgstr "Braille Loto"
+
+msgid "Discover the Braille system for numbers."
+msgstr "Avasta Braille numbrisüsteem."
+
+msgid ""
+"Each player must find if the proposed number is in their board. If the code "
+"is in the board, just click on it in order to validate it. The player who "
+"crosses all the Braille numbers correctly wins the game. Check the Braille "
+"table by clicking on the toggle button in the control bar."
+msgstr ""
+
+msgid "Drawing by Stephane Cabaraux."
+msgstr "Stephane Cabaraux joonistus."
+
+msgid "Operate a canal lock"
+msgstr "Tööta kanalilüüsiga"
+
+msgid ""
+"Tux is in trouble, and needs to take his boat through a lock. Help Tux and "
+"find out how a canal lock works."
+msgstr ""
+"Tux on hädas ja tahab läbi lüüsi sõita. Aita Tuxi ja õpid tundma lüüsi "
+"tööpõhimõtet."
+
+msgid ""
+"You are in charge of the canal lock. Open the gates and the locks in the "
+"right order, so Tux can travel through the gates in both directions."
+msgstr ""
+"Sina vastutad lüüsi eest. Pead avama ja sulgema lüüsi väravad ja lukud õiges "
+"järjekorras, et Tux saaks mõlemas suunas läbi väravate reisida."
+
+msgid "All messages will be displayed here.\n"
+msgstr "Siin näidatakse kõiki teateid.\n"
+
+msgid "Your Friends"
+msgstr "Sinu sõbrad"
+
+msgid "Your Channel"
+msgstr "Sinu kanal"
+
+msgid ""
+"Type your message here, to send to other GCompris users on your local "
+"network."
+msgstr "Kohalikus võrgus olevatele GComprise kasutajatele kirjuta sõnum siia."
+
+msgid "color"
+msgstr "värv"
+
+msgid ""
+"ERROR: Failed to initialize the network interface. You cannot communicate."
+msgstr "VIGA: Ei õnnestunud käivitada võrguteenuseid. Sa ei saa suhelda."
+
+msgid "Has left the chat."
+msgstr "Lahkus vestlusest."
+
+msgid "You must set a channel in your channel entry box first.\n"
+msgstr ""
+
+msgid "Your friends must set the same channel in order to communicate with you"
+msgstr "Sinu sõbrad peavad sinuga suhtlemiseks olema samal kanalil"
+
+msgid "Chat and draw with your friends"
+msgstr "Jutusta ja joonista sõpradega"
+
+msgid "This chat activity only works on the local network"
+msgstr "See jututuba töötab ainult kohalikus arvutivõrgus"
+
+msgid ""
+"This chat activity will only work with other GCompris users on your local "
+"network, not on the Internet. To use it, just type in your message and hit "
+"Enter. Your message is then broadcasted on the local network, and any "
+"GCompris program running the chat activity on that local network will "
+"receive and display your message."
+msgstr ""
+
+msgid "Error: The external program gnuchess died unexpectedly"
+msgstr "Viga: Väline programm gnuchess suri ootamatult"
+
+msgid ""
+"Error: The external program gnuchess is mandatory\n"
+"to play chess in gcompris.\n"
+"First install it, and check it is in "
+msgstr ""
+"Viga: Väline programm gnuchess on kohustuslik et\n"
+"gcomprises malet mängida.\n"
+"Kontrolli et see olemas on "
+
+msgid "White's Turn"
+msgstr "Valge käik"
+
+msgid "Black's Turn"
+msgstr "Musta käik"
+
+msgid "White checks"
+msgstr "Valge tuli"
+
+msgid "Black checks"
+msgstr "Must tuli"
+
+msgid "Black mates"
+msgstr "Must matistas"
+
+msgid "White mates"
+msgstr "Valge matistas"
+
+msgid "Drawn game"
+msgstr "Patt"
+
+msgid "Error: The external program gnuchess died unexpectingly"
+msgstr "Viga: Väline programm gnuchess suri ootamatult"
+
+msgid "Learning chess"
+msgstr "Õpi malet"
+
+msgid "The chess engine is from gnuchess."
+msgstr "Malemängu mootor on programmist gnuchess"
+
+msgid "Chess training. Catch the computer's pawns."
+msgstr "Maleharjutus. Püüa kinni arvuti etturid."
+
+msgid "Play the end of the chess game against the computer"
+msgstr "Mängi malemängu lõppu arvuti vastu"
+
+msgid "Chronos"
+msgstr "Ajaraamat"
+
+msgid "Drag and Drop the items to organize the story"
+msgstr "Tõmba ja aseta pildid õigesse järjekorda"
+
+msgid ""
+"Moon photo is copyright NASA. The space sounds come from Tuxpaint and "
+"Vegastrike which are released under the GPL license. The transportation "
+"images are copyright Franck Doucet. Dates of Transportation are based on "
+"those found in &lt;http://www.wikipedia.org&gt;."
+msgstr ""
+"Kuufoto pärineb NASA-st. Kosmose helid pärinevad Tuxpaint ja Vegastrike "
+"programmidest, mis on GPL litsentsi all välja lastud. Trantspordivahendite "
+"daatumid leidsime koduleheküljelt &lt;http://www.wikipedia.org&gt;. "
+"Transpordivahendite piltide õigused kuuluvad Franck Doucet'ile."
+
+msgid "Pick from the pictures on the left and put them on the red dots"
+msgstr "Vali vasakult pildid ja aseta need punastele täppidele"
+
+msgid "Sort the pictures into the order that tells the story"
+msgstr "Pane jutustuse pildid loogilisse järjekorda"
+
+msgid "Tell a short story"
+msgstr "Jutusta lühilugu"
+
+msgid "Moonwalker"
+msgstr "KUULKÕNDIJA"
+
+msgid "Autumn"
+msgstr "SÜGIS"
+
+msgid "Spring"
+msgstr "KEVAD"
+
+msgid "Summer"
+msgstr "SUVI"
+
+msgid "The 4 Seasons"
+msgstr "4 AASTAAEGA"
+
+msgid "Winter"
+msgstr "TALV"
+
+msgid "Gardening"
+msgstr "AIATÖÖ"
+
+msgid "Tux and the apple tree"
+msgstr "TUX JA ÕUNAPUU"
+
+msgid "1769 Cugnot's fardier"
+msgstr ""
+"1769 Cugnot esimene \n"
+"iseliikuv aurusõiduk"
+
+msgid ""
+"1829 Stephenson's Rocket\n"
+"Steam locomotive"
+msgstr ""
+"1829 Stephenson'i rakett\n"
+"auruvedur"
+
+msgid ""
+"Place each image in the order and\n"
+"on the date it was invented.\n"
+"If not sure, research online at wikipedia:\n"
+"http://www.wikipedia.org"
+msgstr ""
+"Pane pildid leiutamise aasta järgi\n"
+"järjekorda.\n"
+"Kui ei ole kindel, kontrolli wikipeediast:\n"
+"http://www.wikipedia.org"
+
+msgid "Transportation"
+msgstr "Transport"
+
+msgid ""
+"1783 Montgolfier brothers'\n"
+"hot air balloon"
+msgstr ""
+"1783 vennad Montgolfier'id\n"
+"Kuuma õhu õhupall"
+
+msgid "1880 Clement Ader's Eole"
+msgstr "1880 Clement Ader'i Eole"
+
+msgid ""
+"1906 Paul Cornu\n"
+"First helicopter flight"
+msgstr ""
+"1906 Paul Cornu\n"
+"esimene helikopterilend"
+
+msgid ""
+"1791 Comte de Sivrac's\n"
+"Celerifere"
+msgstr ""
+"1791 Comte de Sivrac's\n"
+"Celerifere"
+
+msgid "1903 The Wright brothers' Flyer III"
+msgstr "1903 vennad Wright'id Flyer III"
+
+msgid ""
+"1909 Louis Bleriot crosses\n"
+"the English Channel"
+msgstr ""
+"1909 Louis Bleriot ületab \n"
+"Inglise kanali"
+
+msgid "Aviation"
+msgstr "Lennundus"
+
+msgid ""
+"1927 Charles Lindbergh\n"
+"crosses the Atlantic Ocean"
+msgstr ""
+"1927 Charles Lindbergh\n"
+"ületab Atlandi ookeani"
+
+msgid ""
+"1934 Hélène Boucher's\n"
+"speed record of 444km/h"
+msgstr ""
+"1934 Helene Boucher'i\n"
+"kiiruse rekord 444km/h"
+
+msgid ""
+"1947 Chuck Yeager\n"
+"breaks the sound-barrier"
+msgstr ""
+"1947 Chuck Yeager\n"
+"ületas helibarjääri"
+
+msgid "1878 Léon Bollé's \"La Mancelle\""
+msgstr "1878 Léon Bollé \"La Mancelle\""
+
+msgid ""
+"1885 The first petrol\n"
+"car by Benz"
+msgstr ""
+"1885 Benz ehitas esimese\n"
+"sisepõlemismootoriga auto"
+
+msgid "The car"
+msgstr "Auto"
+
+msgid "1899 Renault \"voiturette\""
+msgstr "1899 Renault \"Voiturette\""
+
+msgid "1923 Lancia Lambda"
+msgstr "1923 Lancia Lambda"
+
+msgid "1955 Citroën ds 19"
+msgstr "1955 Citroën ds 19"
+
+msgid "Cars"
+msgstr "Autod"
+
+msgid "Click and draw"
+msgstr "Klõpsa ja joonista"
+
+msgid "Draw the picture by clicking on each blue point in sequence."
+msgstr "Joonista pilt klõpsates iga sinist täpikest õiges järjekorras."
+
+msgid "Draw the picture by clicking on the blue points."
+msgstr "Joonista pilt klõpsates sinistel täpikestel."
+
+msgid "Click On Me"
+msgstr "Klõpsa minul"
+
+msgid ""
+"Fish are taken from the Unix utility xfishtank. All image credits belong to "
+"Guillaume Rousse."
+msgstr ""
+"Kalad on võetud Unixi programmist xfishtank. Kõik õigused piltidele kuuluvad "
+"Guillaume Rousse'le."
+
+msgid ""
+"Left-Click with the mouse on all the swimming fish before they leave the "
+"fishtank"
+msgstr ""
+"Klõpsa hiire vasakut klahvi kõikide kalade peal enne, kui kalad akvaariumist "
+"lahkuvad"
+
+msgid "Motor coordination: moving and clicking the mouse."
+msgstr "Koordinatsiooni parandamine: hiire liigutamine ja hiire klõpsamine"
+
+msgid ""
+"Use the left mouse button to click on the moving fish. A level 5 and after, "
+"a double click is mandatory."
+msgstr ""
+"Kasuta hiire vasakut klahvi liikuval kalal. Alates tasemest 5 on vajalik "
+"topeltklõps."
+
+#. require by all utf8-functions
+#. TRANSLATORS: Put here the alphabet lowercase in your language
+msgid "abcdefghijklmnopqrstuvwxyz"
+msgstr "abcdefghijklmnopqrsšzžtuvwõäöüxy"
+
+msgid ""
+"This activity will be played with questions displayed as text instead of "
+"being spoken"
+msgstr ""
+"Seda tegevust mängitakse nii et küsimused näidatakse ekraanil tekstina "
+"rääkimise asemel"
+
+msgid ""
+"Error: this activity cannot be played with the\n"
+"sound effects disabled.\n"
+"Go to the configuration dialog to\n"
+"enable the sound"
+msgstr ""
+"Viga: seda asja ei saa mängida kui\n"
+"heliefektid on keelatud.\n"
+"Mine häälestamise menüüsse ja\n"
+"luba sealt heliefektid."
+
+#, c-format
+msgid ""
+"Error: this activity requires that you first install\n"
+"the packages with GCompris voices for the %s locale."
+msgstr ""
+"Viga: see tegevus nõuab et sa esmalt installeeriksid\n"
+"%s keele jaoks vajaliku gcomprise häälepaketi "
+
+msgid "Questions cannot be empty."
+msgstr "Küsimused ei saa olla tühjad."
+
+msgid "Answers cannot be empty."
+msgstr "Vastused ei saa olla tühjad."
+
+#, c-format
+msgid "Too many characters in the Answer (maximum is %d)."
+msgstr "Liiga palju tähemärke vastuses (maksimum on %d)."
+
+msgid "All the characters in Questions must also be in the Answers."
+msgstr "Kõik tähed Küsimuses peavad olema ka Vastustes."
+
+#, c-format
+msgid ""
+"Invalid entry:\n"
+"At level %d, Questions '%s' / Answers '%s'\n"
+"%s"
+msgstr ""
+"Vigane sisestus:\n"
+"Tasemel %d, Küsimusi '%s' / Vastuseid '%s'\n"
+"%s"
+
+#. answer
+msgid "Answer"
+msgstr "Vastus"
+
+#. question
+msgid "Question"
+msgstr "Küsimus"
+
+msgid "Back to default"
+msgstr "Taasta esialgne seis"
+
+msgid ""
+"A letter is spoken. Click on the matching letter in the main area. You can "
+"listen to the letter again, by clicking on the mouth icon in the bottom box."
+msgstr ""
+"Arvuti ütleb tähe. Vajuta vastavale tähele põhiaknas. Sa saad kuulata tähte "
+"uuesti kui vajutad suu ikoonil all horisontaalses kastis."
+
+msgid "Click on a lowercase letter"
+msgstr "Klõpsa väiketähel"
+
+msgid "Letter-name recognition"
+msgstr "Tähtede tundmine"
+
+msgid "Listen to a letter and click on the right one"
+msgstr "Kuula tähte ja klõpsa õigel tähel"
+
+msgid "Visual letter-recognition. Can move the mouse."
+msgstr "Kirjutatud tähtede tundmine. Hiire liigutamise oskus."
+
+msgid "Click on an uppercase letter"
+msgstr "Klõpsa suurtähel"
+
+msgid "Set the watch to:"
+msgstr "Sea kellaaeg:"
+
+msgid ""
+"Distinguish between time-units (hour, minute and second). Set and display "
+"time on a clock."
+msgstr ""
+"Peab vahet tegema tundidele, minutitele, sekunditele. Koosta ise õige aeg "
+"kellal."
+
+msgid "Learn how to tell the time"
+msgstr "Õpi kellaaega ütlema"
+
+msgid "Learning Clock"
+msgstr "Kella õppimine"
+
+msgid ""
+"Set the clock to the time given, in the time-units shown (hours:minutes or "
+"hours:minutes:seconds). Click on the different arrows, and move the mouse, "
+"to make the numbers go up or down."
+msgstr ""
+"Sea kell õigeks vastavalt ette antud kellaajale (tunnid:minutid või tunnid:"
+"minutid:sekundid). Klõpsa erinevatel osutitel, liiguta hiirt ja kruti "
+"niiviisi kell õigeks."
+
+msgid "The concept of time. Reading the time."
+msgstr "Teadmine misasi kell üldse on. Kellaaja tundmine."
+
+msgid "Can move the mouse."
+msgstr "Hiirt peab oskama liigutada."
+
+msgid "Click on the right color"
+msgstr "Klõpsa õigel värvil"
+
+msgid "Colors"
+msgstr "Värvid"
+
+msgid "Listen to the color and click on the matching duck."
+msgstr "Kuula värvi nime ja klõpsa sobival pardil."
+
+msgid ""
+"This board teaches you to recognize different colors. When you hear the name "
+"of the color, click on the duck wearing it."
+msgstr ""
+"See töölaud õpetab erinevate värvide äratundmist. Kui kuuled värvi nime, "
+"klõpsa seda värvi pardil."
+
+#. Translator: Do not translate {text}.
+msgid "Find the {text} duck"
+msgstr "Klõpsa {text} pardil"
+
+msgid "black"
+msgstr "MUST"
+
+msgid "blue"
+msgstr "SININE"
+
+msgid "brown"
+msgstr "PRUUN"
+
+msgid "green"
+msgstr "ROHELINE"
+
+msgid "grey"
+msgstr "HALL"
+
+msgid "orange"
+msgstr "ORANŽ"
+
+msgid "red"
+msgstr "PUNANE"
+
+msgid "white"
+msgstr "VALGE"
+
+msgid "yellow"
+msgstr "KOLLANE"
+
+msgid "Arrange four coins in a row"
+msgstr "Pane 4 münti ritta"
+
+msgid ""
+"Click the position in the line where you want to drop a piece. You can also "
+"use the arrow keys to move the piece left or right, and the down or space "
+"key to drop a piece."
+msgstr ""
+"Klõpsa real, kuhu tahad mündi kukutada. Võid kasutada ka klaviatuuri "
+"nooleklahve liikumiseks ja tühikut või nool alla klahvi mündi kukutamiseks."
+
+msgid "Connect 4 (2 Players)"
+msgstr "Ühenda 4 (2 mängijat)"
+
+msgid ""
+"Create a line of 4 pieces either horizontally (lying down) or vertically "
+"(standing up) or diagonally."
+msgstr ""
+"Loo rida 4 osast kas horisontaalselt (pikali all), vertikaalselt (püsti), "
+"või diagonaalselt."
+
+msgid ""
+"The original code was written in 2005 by Laurent Lacheny. In 2006, Miguel de "
+"Izarra made the two players game. Images and Artificial Intelligence taken "
+"from project 4stattack by Jeroen Vloothuis. The original project can be "
+"found on &lt;http://forcedattack.sourceforge.net&gt;"
+msgstr ""
+"Originaalkoodi kirjutas Laurent Lacheny aastal 2005. Aastal 2006 lisas "
+"Miguel de Izarra võimaluse kahekesi mängida. Kujundid ja tehisintellekt on "
+"võetud Jeroen Vloothuis projektist 4stattack. Originaalprojekti leiate "
+"aadressilt &lt;http://forcedattack.sourceforge.net&gt;"
+
+msgid "Connect 4"
+msgstr "Ühenda 4"
+
+msgid ""
+"Create a line of 4 pieces either horizontally (lying down), vertically "
+"(standing up) or diagonally."
+msgstr ""
+"Loo rida 4 osast kas horisontaalselt (pikali all), vertikaalselt (püsti), "
+"või diagonaalselt."
+
+msgid ""
+"Laurent Lacheny. Images and Artificial Intelligence taken from project "
+"4stattack by Jeroen Vloothuis. The original project can be found on &lt;"
+"http://forcedattack.sourceforge.net&gt;"
+msgstr ""
+"Laurent Lacheny. Kujundid ja tehisintellekt on võetud Jeroen Vloothuise "
+"projektist 4stattack. Originaalprojekti leiate aadressilt &lt;http://"
+"forcedattack.sourceforge.net&gt;"
+
+msgid "Build the same model"
+msgstr "Ehita sama mudel"
+
+msgid "Drive the crane and copy the model"
+msgstr "Juhi kraanat ja ehita modeli koopia"
+
+msgid "Motor-coordination"
+msgstr "Koordinatsiooni parandamine"
+
+msgid "Mouse manipulation"
+msgstr "Hiire tundmine"
+
+msgid ""
+"Move the items in the bottom left frame to copy their position in the top "
+"right model. Below the crane itself, you will find four arrows that let you "
+"move items. To select the item to move, just click on it. If you prefer, you "
+"can use the arrow keys and the space or tab key instead."
+msgstr ""
+"Liiguta elemendid vasakus alumises raamis samadele asukohtadele nagu "
+"ülemises parema raamis on. Kraana alt leiad neli noolt, mis lubavad sul "
+"elemente nihutada. Elemendi liigutamiseks klõpsa elemendil. Kui sulle "
+"meeldib, võid kasutada ka nooleklahve ja tühikut või tab klahvi selle asemel."
+
+msgid "Find the details"
+msgstr "Leia detailid"
+
+msgid "The images are from Wikimedia Commons."
+msgstr ""
+
+msgid "Vincent van Gogh, Entrance Hall of Saint-Paul Hospital - 1889"
+msgstr ""
+
+msgid ""
+"Vincent van Gogh, The Bridge of Langlois at Arles with a lady with umbrella "
+"- 1888"
+msgstr "Vincent van Gogh, Tüdruk vihmavarjuga Arlesi Langois sillal - 1888"
+
+msgid "Vincent van Gogh, The Church at Auvers-sur-Oise - 1890"
+msgstr "Vincent van Gogh, Auvers-sur-Oise kirik - 1890"
+
+msgid "Vincent van Gogh, Painter on His Way to Work - 1888"
+msgstr ""
+
+msgid "Vincent van Gogh, The Harvest - 1888"
+msgstr "Vincent van Gogh, Lõikus - 1888"
+
+msgid "Vincent van Gogh, Cafe Terrace at Night - 1888"
+msgstr "Vincent van Gogh, Kohviku terrass öösel - 1888"
+
+msgid "Vincent van Gogh, The Night Café - 1888"
+msgstr "Vincent van Gogh, Öökohvik - 1888"
+
+msgid "Vincent van Gogh, Portrait of Pere Tanguy 1887-8"
+msgstr "Vincent van Gogh, Pere Tanguy portree 1887-8"
+
+msgid "Eilean Donan castle"
+msgstr ""
+
+msgid "Gizah Pyramids, Egypt"
+msgstr "Giza püramiidid, Egiptus"
+
+msgid "Sydney Opera House, Australia"
+msgstr "Sydney ooperimaja, Austraalia"
+
+msgid "Tower Bridge in London"
+msgstr ""
+
+msgid "Eiffel Tower, seen from the champ de Mars, Paris, France"
+msgstr ""
+
+msgid "Courtyard of the Museum of Louvre, and its pyramid"
+msgstr ""
+
+msgid "Panorama of Château de Chenonceau, Indre-et-Loire, France."
+msgstr ""
+
+msgid ""
+"Notre Dame de Paris cathedral on the Île de la Cité island in Paris, France."
+msgstr ""
+
+msgid "Nagoya Castle, Aichi Prefecture, Japan."
+msgstr ""
+
+msgid "Taj Mahal, Agra, India"
+msgstr "Taj Mahal, Agra, India"
+
+msgid "Castle Neuschwanstein at Schwangau, Bavaria, Germany"
+msgstr ""
+
+msgid "Egeskov Castle, Denmark"
+msgstr "Egeskovi loss, Taani"
+
+msgid "Windmill in Sønderho, Fanø, Denmark"
+msgstr "Sønderho tuulik, Fanø, Taani"
+
+msgid "Basic counting skills"
+msgstr "Lihtne arvutamisoskus"
+
+msgid "Double-entry table"
+msgstr "Kahemõõtmeline tabel"
+
+msgid "Drag and Drop each proposed item on its destination"
+msgstr "Tõmba ja aseta väljapakutud esemed õigetele kohtadele"
+
+msgid "Drag and Drop the items in the double-entry table"
+msgstr "Tõmba ja aseta esemed kahemõõtmelisse tabelisse"
+
+msgid ""
+"Move the items on the left to their proper position in the double-entry "
+"table."
+msgstr ""
+"Liiguta esemed vasakult nende õigetesse asukohtadesse kahemõõtmelises "
+"tabelis."
+
+msgid "Click on an item and listen to its target position"
+msgstr "Klõpsa esemel ja arvuti ütleb kuhu ta tuleb asetada."
+
+msgid "A creative board where you can draw freely"
+msgstr "Arendav laud, kus saad vabalt joonistada"
+
+msgid "A simple vector-drawing tool"
+msgstr "Lihtne vektorgraafika tööriist"
+
+msgid ""
+"In this game, children can draw freely. The goal is to discover how to "
+"create attractive drawings based on basic shapes: rectangles, ellipses and "
+"lines."
+msgstr ""
+"Selles mängus saavad lapsed vabalt joonistada. Eesmärk on lihtsalt avastada "
+"kuidas saab teha ilusa välimusega joonistusi, mis koosnevad lihtsatest "
+"kujunditest: ristkülikud, ellipsid ja jooned."
+
+msgid ""
+"Select a drawing tool on the left, and a color down the bottom, then click "
+"and drag in the white area to create a new shape. To save time, you can "
+"click with the middle mouse button to delete an object."
+msgstr ""
+"Vali vasakult joonistamise tööriist ja alt värv. Siis klõpsa ja venita "
+"valgel alal et luua uus kujund. Aja säästmiseks saad vajadusel objekti "
+"kustutada vajutades selleks hiire keskmist klahvi."
+
+msgid "Cannot find the file '{filename}'"
+msgstr "Ei suutnud leida faili '{filename}'"
+
+msgid "Can count from 1 to 50."
+msgstr "Suudad numberid lugeda vahemikus 1 kuni 50"
+
+msgid "Draw Number"
+msgstr "Joonista numbri järgi"
+
+msgid "Draw the picture by clicking on each numbers in the right order."
+msgstr "Joonista pilt klõpsates igal numbril õiges järjekorras"
+
+msgid "Draw the picture by following numbers"
+msgstr "Joonista numbrite järgi pilt"
+
+msgid ""
+"Cannot find the 'gnucap' electric simulator.\n"
+"You can download and install it from:\n"
+"<http://geda.seul.org/tools/gnucap/>\n"
+"To be detected, it must be installed in\n"
+"/usr/bin/gnucap or /usr/local/bin/gnucap.\n"
+"You can still use this activity to draw schematics without computer "
+"simulation."
+msgstr ""
+"Ei suutnud leida 'gnucap' elektrisimulaatorit.\n"
+"Sa saad selle alla tõmmata ja installida::\n"
+"<http://geda.seul.org/tools/gnucap/>\n"
+"Programmi asukoht peab olema kas\n"
+"/usr/bin/gnucap või /usr/local/bin/gnucap.\n"
+"Saad seda ülesannet kasutada elektriskeemi\n"
+"joonistamiseks ilma arvutisimulaatorita."
+
+msgid "Create and simulate an electric schema"
+msgstr "Elektriskeemi loomine ja käivitamine"
+
+msgid ""
+"Drag electrical components from the selector and drop them in the working "
+"area. Create wires by clicking on a connection spot, dragging the mouse to "
+"the next connection spot, and letting go. You can also move components by "
+"dragging them. You can delete wires by clicking on them. To delete a "
+"component, select the deletion tool on top of the component selector. You "
+"can click on the switch to open and close it. You can change the rheostat "
+"value by dragging its wiper. In order to simulate what happens when a bulb "
+"is blown, you can blown it by right-clicking on it. The simulation is "
+"updated in real time by any user action."
+msgstr ""
+"Tõmba elektriskeemi komponendid vasakult ja pane nad töölauale. Loo juhtmed "
+"klõpsates ühendusjalal ja tõmba hiirega teise komponendi ühendusjalale. "
+"Komponente saad ka nendel klõpsates liigutada. Juhtme saad eemaldada juhtmel "
+"klõpsates. Komponendi eemaldamiseks vali vasakult ülevalt kustukumm. Lülitil "
+"klõpsates saad lüliti sisse ja välja lülitada. Takisti takistust saad muuta "
+"kontakti lohistades. Et simuleerida, mis juhtub kui pirn on läbi põlenud, "
+"saad parempoolse hiireklahviga klõpsates pirni läbi põletada. Simulatsiooni "
+"uuendatakse reaalajas iga kasutaja liigutuse korral."
+
+msgid "Electricity"
+msgstr "Elekter"
+
+msgid "Freely create an electric schema with a real time simulation of it."
+msgstr "Loo vabalt elektriskeem. Näed kohe ka tulemust."
+
+msgid ""
+"GCompris uses the Gnucap electric simulator as a backend. You can get more "
+"information on gnucap at &lt;http://geda.seul.org/tools/gnucap/&gt;."
+msgstr ""
+"GCompris kasutab elektrisimulaatorina programmi GNucap. Rohkem infot gnucap "
+"programmi kohta leiad aadressilt &lt;http://geda.seul.org/tools/gnucap/&gt;."
+
+msgid "Requires some basic understanding of the concept of electricity."
+msgstr "Nõuab lihtsamat arusaamist sellest, mis elekter üldse on."
+
+msgid "Numeration training"
+msgstr "Numbrite õppimine"
+
+msgid "Place the items in the best way to count them"
+msgstr "Säti esemed nii et sul neid kergem üle lugeda oleks"
+
+msgid "Basic enumeration"
+msgstr "Lihtne arvutamine"
+
+msgid "Count the items"
+msgstr "Arvuta kokku"
+
+msgid ""
+"First, properly organize the items so that you can count them. Then, select "
+"the item you want to answer in the bottom right area. Enter the answer with "
+"the keyboard and press the OK button or the 'Enter' key."
+msgstr ""
+"Esiteks säti esemed nii et sul neid kergem kokku lugeda oleks. Siis vali alt "
+"paremalt ese, mille arvu tahad vastata. Sisesta vastus kasutades "
+"klaviatuuri. Peale vastuste sisestamist vajuta ENTER klahvi vastuste "
+"kontrollimiseks."
+
+msgid "Double click the mouse"
+msgstr "Topeltklõpsa hiirega"
+
+msgid "Double click the mouse on rectangles until all the blocks disappear."
+msgstr "Topeltklõpsa hiirega ruudukestel kuni kõik klotsid kaovad."
+
+msgid "Double click the mouse to erase the area and discover the background"
+msgstr "Ala puhastamiseks topeltklõpsa hiirega ja näed milline on taustapilt"
+
+msgid "Move the mouse to erase the area and discover the background"
+msgstr "Liiguta hiirt et eemaldada klotsid mis katavad taustapilti"
+
+msgid "Error: No images found\n"
+msgstr "Viga: Pilte ei leitud.\n"
+
+msgid "readme"
+msgstr "loemind"
+
+msgid ""
+"Put any number of images in this directory.\n"
+"They will be used as background in the 'erase' activity.\n"
+"The image must be in the 'jpeg' format and be suffixed with '.jpg' or '."
+"jpeg'.\n"
+"For best results, they must have a size of 800x520 pixels.\n"
+msgstr ""
+
+msgid ""
+"Animal pictures are taken from the Animal Photography Page of Ralf Schmode "
+"(&lt;http://schmode.net/&gt;) and from LE BERRE Daniel. These people kindly "
+"gave GCompris the authorization to include their pictures. Thanks a lot, "
+"both of you."
+msgstr ""
+"Loomade pildid on võetud Ralf Schmode loomafotode lehelt aadressilt (&lt;"
+"http://schmode.net/&gt;) ja LE BERRE Daniel'ilt. Nad andsid nõusoleku oma "
+"piltide programmi GCompris lisamiseks. Suured tänud."
+
+msgid ""
+"Move the mouse until all the blocks disappear. You can add you own images "
+"under the directory '~/My GCompris/erase'."
+msgstr ""
+
+msgid "Click the mouse"
+msgstr "Klõpsa hiirega"
+
+msgid "Click the mouse on rectangles until all the blocks disappear."
+msgstr "Klõsa kastikestel hiire vasakpoolset klahvi kuni kõik klotsid kaovad."
+
+msgid "Click the mouse to erase the area and discover the background"
+msgstr "Ala puhastamiseks klõpsa hiirega ja näed milline näeb välja taustapilt"
+
+msgid ""
+"Click on any item that has a free block beside it, and it will be swapped "
+"with the empty block."
+msgstr ""
+"Saad hiireklõpsuga liigutada suvalist klotsi, mille kõrval on vaba ruumi. "
+"Klots ja tühi koht vahetavad seepeale koha."
+
+msgid ""
+"Move each item to make an increasing series: from the smallest to the largest"
+msgstr ""
+"Liiguta elemente suureneva seeria loomiseks: kõige väiksemast  kõige "
+"suuremani"
+
+msgid "Original code taken from the libgnomecanvas demo"
+msgstr "Originaalkood on võetud libgnomecanvas demo programmist"
+
+msgid "The fifteen game"
+msgstr "Viieteistkümne mäng"
+
+msgid ""
+"Failed to parse data set '{filename}' with error:\n"
+"{error}"
+msgstr ""
+
+msgid "Control the hose-pipe"
+msgstr "Toru ummistuse eemaldamine"
+
+msgid "Fine motor coordination"
+msgstr "Parandab hiire juhtimisoskust"
+
+msgid ""
+"Move the mouse over the red part of the hose-pipe. This will move it, "
+"bringing it, part by part, up to the flowers. Be careful, if you move off "
+"the hose, the red part will go back down."
+msgstr ""
+"Liiguta hiirt mööda toru punast osa. Tõmba ummistunud koht järk-järgult "
+"lillede poole et ummistust lõplikult eemaldada. Kui liigud hiirega liialt "
+"torust eemale, läheb ummistuskoht esialgsele kohale tagasi ja pead otsast "
+"alustama."
+
+msgid "Tux needs to water the flowers, but the hose is blocked."
+msgstr "Tux tahab lilli kasta aga toru on ummistunud."
+
+msgid ""
+"Author: Bruno Coudoin\n"
+"Contribution: Pascal Georges, Jose Jorge, Yves Combe\n"
+"Graphics: Renaud Blanchard, Franck Doucet\n"
+"Intro Music: Djilali Sebihi\n"
+"Background Music: Rico Da Halvarez\n"
+msgstr ""
+"Autor: Bruno Coudoin\n"
+"Kaasa Aitasid: Pascal Georges, Jose Jorge, Yves Combe\n"
+"Graafika: Renaud Blanchard, Frankc Doucet\n"
+"Tunnusmuusika: Djilali Sebihi\n"
+"Taustamuusika: Rico Da Halvarez\n"
+
+#. TRANSLATORS: Replace this string with your names, one name per line.
+msgid "translator_credits"
+msgstr ""
+"Olle Niit, 2005, 2007, 2011.\n"
+"Priit Laes <amd@store20.com>, 2005.\n"
+"\n"
+"GNOME'i Tõlkeprojekti Eesti meeskond.\n"
+"http://et-gnome.sourceforge.net\n"
+"Veateated, parandused: <gnome-et@linux.ee>"
+
+msgid "About GCompris"
+msgstr "Teave GComprise kohta"
+
+msgid "GCompris Home Page: http://gcompris.net"
+msgstr "GComprise koduleht: http://gcompris.net"
+
+msgid "Translators:"
+msgstr "Tõlkijad:"
+
+msgid ""
+"This software is a GNU Package and is released under the GNU General Public "
+"License"
+msgstr "See tarkvara on GNU pakk ja on välja antud GNU Avaliku Litsentsi all"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "GCompris confirmation"
+msgstr "GComprise kinnituse küsimine"
+
+msgid "Are you sure you want to quit?"
+msgstr "Oled kindel, et soovid programmist väljuda?"
+
+msgid "Yes, I am sure!"
+msgstr "Jah, olen kindel!"
+
+msgid "No, I want to keep going"
+msgstr "Ei, tahan edasi mängida."
+
+msgid "Dynamic module loading is not supported. GCompris cannot load.\n"
+msgstr ""
+"Dümaamilise mooduli laadimine pole toetatud, GComprist ei saa laadida.\n"
+
+msgid ""
+"Select the language\n"
+" to use in the board"
+msgstr ""
+"Vali keel, mida sellel\n"
+"töölaual kasutada soovid"
+
+msgid "Global GCompris mode"
+msgstr "Üldine GComprise režiim"
+
+msgid "Normal"
+msgstr "Tavaline"
+
+msgid "2 clicks"
+msgstr "2 klõpsu"
+
+msgid "both modes"
+msgstr "Mõlemad režiimid"
+
+msgid ""
+"Select the drag and drop mode\n"
+" to use in the board"
+msgstr ""
+"Vali tõmbamise ja asetamise\n"
+"režiim, mida töölaual kasutada"
+
+#. add a new level
+#, c-format
+msgid "%d (New level)"
+msgstr "%d (Uus tase)"
+
+#. frame
+msgid "Configure the list of words"
+msgstr "Häälesta sõnade nimekirja"
+
+msgid "Choice of the language"
+msgstr "Keelevalik"
+
+msgid "Choice of the level"
+msgstr "Taseme valik"
+
+msgid "Your system default"
+msgstr "Sinu süsteem vaikimisi"
+
+msgid "Afrikaans"
+msgstr "Aafrika"
+
+msgid "Albanian"
+msgstr "Albaania"
+
+msgid "Amharic"
+msgstr "Amhari"
+
+msgid "Arabic"
+msgstr "Araabia"
+
+msgid "Asturian"
+msgstr "Astuuria"
+
+msgid "Basque"
+msgstr "Baski"
+
+msgid "Breton"
+msgstr "Bretooni"
+
+msgid "Bulgarian"
+msgstr "Bulgaaria"
+
+msgid "Catalan"
+msgstr "Kataloonia"
+
+msgid "Chinese (Simplified)"
+msgstr "Hiina (lihtsustatud)"
+
+msgid "Chinese (Traditional)"
+msgstr "Hiina (Traditsiooniline)"
+
+msgid "Croatian"
+msgstr "Horvaatia"
+
+msgid "Czech Republic"
+msgstr "Tšehhi Vabariik"
+
+msgid "Danish"
+msgstr "Taani"
+
+msgid "Dutch"
+msgstr "Hollandi"
+
+msgid "Dzongkha"
+msgstr "Dzongkha"
+
+msgid "English (Canada)"
+msgstr "Inglise (Kanada)"
+
+msgid "English (Great Britain)"
+msgstr "Inglise (Suurbritannia)"
+
+msgid "English (United States)"
+msgstr "Inglise (Ühendriigid)"
+
+msgid "Finnish"
+msgstr "Soome"
+
+msgid "French"
+msgstr "Prantsuse"
+
+msgid "Georgian"
+msgstr "Gruusia"
+
+msgid "German"
+msgstr "Saksa"
+
+msgid "Greek"
+msgstr "Kreeka"
+
+msgid "Gujarati"
+msgstr "Gujarati"
+
+msgid "Hebrew"
+msgstr "Heebrea"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Hungarian"
+msgstr "Ungari"
+
+msgid "Indonesian"
+msgstr "Indoneesia"
+
+msgid "Irish (Gaelic)"
+msgstr "Iiri (Gaeli)"
+
+msgid "Italian"
+msgstr "Itaalia"
+
+msgid "Japanese"
+msgstr "Jaapani"
+
+msgid "Kinyarwanda"
+msgstr "Ruanda"
+
+msgid "Korean"
+msgstr "Korea"
+
+msgid "Lithuanian"
+msgstr "Leedu"
+
+msgid "Macedonian"
+msgstr "Makedoonia"
+
+msgid "Malay"
+msgstr "Malaisia"
+
+msgid "Malayalam"
+msgstr "Malajalami"
+
+msgid "Marathi"
+msgstr "Marathi"
+
+msgid "Montenegrin"
+msgstr "Montenegro"
+
+msgid "Nepal"
+msgstr "Nepali"
+
+msgid "Norwegian Bokmal"
+msgstr "Norra Bokmal"
+
+msgid "Norwegian Nynorsk"
+msgstr "Norra Nynorsk"
+
+msgid "Occitan (languedocien)"
+msgstr "Oksitaani"
+
+msgid "Persian"
+msgstr "Pärsia"
+
+msgid "Polish"
+msgstr "Poola"
+
+msgid "Portuguese (Brazil)"
+msgstr "Portugali (Brasiilia)"
+
+msgid "Portuguese"
+msgstr "Portugali"
+
+msgid "Punjabi"
+msgstr "Punjabi"
+
+msgid "Romanian"
+msgstr "Rumeenia"
+
+msgid "Russian"
+msgstr "Vene"
+
+msgid "Serbian (Latin)"
+msgstr "Serbia (Ladina)"
+
+msgid "Serbian"
+msgstr "Serbia"
+
+msgid "Slovak"
+msgstr "Slovaki"
+
+msgid "Slovenian"
+msgstr "Sloveenia"
+
+msgid "Somali"
+msgstr "Somaalia"
+
+msgid "Spanish"
+msgstr "Hispaania"
+
+msgid "Swedish"
+msgstr "Rootsi"
+
+msgid "Tamil"
+msgstr "Tamili"
+
+msgid "Thai"
+msgstr "Tai"
+
+msgid "Turkish (Azerbaijan)"
+msgstr "Türgi (Aserbaidžaani)"
+
+msgid "Turkish"
+msgstr "Türgi"
+
+msgid "Ukrainian"
+msgstr "Ukraina"
+
+msgid "Urdu"
+msgstr "Urdu"
+
+msgid "Vietnamese"
+msgstr "Vietnami"
+
+msgid "Walloon"
+msgstr "Vallooni"
+
+msgid "Zulu"
+msgstr "Suulu"
+
+msgid "No time limit"
+msgstr "Ajalimiiti pole"
+
+msgid "Slow timer"
+msgstr "Aeglane ajamõõtja"
+
+msgid "Normal timer"
+msgstr "Tavaline ajamõõtja"
+
+msgid "Fast timer"
+msgstr "Kiire ajamõõtja"
+
+msgid "Use Gcompris administration module to filter boards"
+msgstr "Kasuta töölaudade filtreerimiseks GComprise administraatori moodulit"
+
+msgid "GCompris Configuration"
+msgstr "GComprise seaded"
+
+msgid "Fullscreen"
+msgstr "Täisekraan"
+
+msgid "Music"
+msgstr "Muusika"
+
+msgid "Effect"
+msgstr "Efektid"
+
+msgid "Zoom"
+msgstr "Suurendus"
+
+#, c-format
+msgid "Couldn't open skin dir: %s"
+msgstr "Ei saanud avada nahka kataloogis: %s"
+
+#, c-format
+msgid "Skin : %s"
+msgstr "Nahk: %s"
+
+msgid "SKINS NOT FOUND"
+msgstr "EI LEITUD NAHKASID"
+
+msgid "CANCEL"
+msgstr "TÜHISTA"
+
+msgid "LOAD"
+msgstr "LAE"
+
+msgid "SAVE"
+msgstr "SALVESTA"
+
+msgid "Couldn't find or load the file"
+msgstr "Ei suutnud faili leida või laadida"
+
+msgid "This activity is incomplete."
+msgstr "See tegevus on lõpetamata."
+
+msgid ""
+"Exit it and report\n"
+"the problem to the authors."
+msgstr ""
+"Välju ja teata\n"
+"probleemist autoritele."
+
+msgid "run GCompris in fullscreen mode."
+msgstr "käivita GCompris täisekraani režiimis."
+
+msgid "run GCompris in window mode."
+msgstr "käivita GCompris aknas."
+
+msgid "run GCompris with sound enabled."
+msgstr "käivita GCompris heliefektidega."
+
+msgid "run GCompris without sound."
+msgstr "käivita GCompris ilma helita."
+
+msgid "run GCompris with the default system cursor."
+msgstr "käivita GCompris süsteemi vaikimisi hiirekursoriga."
+
+msgid "run GCompris without cursor (touch screen mode)."
+msgstr "käivita GCompris ilma kursoria (puutetundlik režiim)."
+
+msgid "display only activities with this difficulty level."
+msgstr "näita ainult selle raskusastme tegevusi."
+
+msgid "display debug informations on the console."
+msgstr "näita veaotsimiseks vajalikku infot terminalis."
+
+msgid "Print the version of "
+msgstr "Trüki versioon "
+
+msgid ""
+"Run GCompris with local menu (e.g -l /reading will let you play only "
+"activities in the reading directory, -l /strategy/connect4 only the connect4 "
+"activity). Use '-l list' to list all the availaible activities and their "
+"descriptions."
+msgstr ""
+"Saad GComprist käivitada ka kohalikust menüüst ( näiteks -l /reading lubab "
+"sul mängida ainult lugemistegevustega, -l /strategy/connect4 ainult ühenda4 "
+"mängu). Kasuta '-l list' et näha nimekirja kõikidest saadaolevatest "
+"tegevustest ja nende kirjeldustest."
+
+msgid "GCompris will find the data dir in this directory"
+msgstr "GCompris leiab andmekasuta sellest kataloogist"
+
+msgid "GCompris will find the skins in this directory"
+msgstr "GCompris leiab nahad sellest kataloogist"
+
+msgid "GCompris will find the activity plugins in this directory"
+msgstr "GCompris leiab tegevuste pluginad sellest kataloogist"
+
+msgid "GCompris will find the python activity in this directory"
+msgstr "GCompris leiab pythoni tegevused sellest kataloogist"
+
+msgid "GCompris will find the locale file (.mo translation) in this directory"
+msgstr ""
+
+msgid "GCompris will find the activities menu in this directory"
+msgstr ""
+
+msgid "Run GCompris in administration and user-management mode"
+msgstr "Käivita GCompris administreerimise ja kasutajate haldamise režiimis"
+
+msgid ""
+"Use alternate database for profiles [$HOME/.config/gcompris/gcompris_sqlite."
+"db]"
+msgstr ""
+"Kasuta alternatiivset andmebaasi profiilidele [$HOME/.config/gcompris/"
+"gcompris_sqlite.db]"
+
+msgid "Create the alternate database for profiles"
+msgstr "Loo alternatiivne andmebaas profiilidele"
+
+msgid "Re-read XML Menus and store them in the database"
+msgstr "Loe uuesti XML Menüüd sisse ja salvesta need andmebaasis"
+
+msgid "Set the profile to use. Use 'gcompris -a' to create profiles"
+msgstr ""
+"Kasutatava profiili seadmine. Kasuta 'gcompris -a' profiilide tegemiseks"
+
+msgid "List all available profiles. Use 'gcompris -a' to create profiles"
+msgstr ""
+"Kasutatavate profiilide nimekiri. Kasuta profiilide loomiseks 'gcompris -a'"
+
+msgid ""
+"Config directory location: [$HOME/.config/gcompris]. Alternate is to set "
+"$XDG_CONFIG_HOME."
+msgstr ""
+
+msgid "The location of user directories: [$HOME/My GCompris]"
+msgstr "Kasutaja kataloogide asukoht: [$HOME/.gcompris/users]"
+
+msgid "Run the experimental activities"
+msgstr "Käivita eksperimentaalsed ülesanded"
+
+msgid "Disable the quit button"
+msgstr "Keela väljumise nupp"
+
+msgid "Disable the config button"
+msgstr "Keela häälestamise nupp"
+
+msgid "Disable the level button"
+msgstr "Keela taseme nupp"
+
+msgid ""
+"GCompris will get images, sounds and activity data from this server if not "
+"found locally."
+msgstr ""
+"GCompris võtab pildid, helid ja harjutuste info sellest serverist, kui "
+"lokaalset ei leitud."
+
+msgid ""
+"Only when --server is provided, disable check for local resource first. Data "
+"are always taken from the web server."
+msgstr ""
+
+msgid ""
+"In server mode, specify the cache directory used to avoid useless downloads."
+msgstr ""
+
+msgid ""
+"Global drag and drop mode: normal, 2clicks, both. Default mode is normal."
+msgstr ""
+
+msgid "Do not avoid the execution of multiple instances of GCompris."
+msgstr ""
+
+msgid "Disable maximization zoom"
+msgstr "Keela maksimaalne suurendus"
+
+msgid ""
+"Increase activities' timeout delays; useful values > 1.0; 1.0 to not change "
+"hardcoded value"
+msgstr ""
+
+msgid ""
+"How activities' timeout delays are growing for several actors; useful values "
+"< 1.0; 1.0 to not change hardcoded value"
+msgstr ""
+
+msgid "For test purpose, run in a loop all the activities"
+msgstr ""
+
+#, c-format
+msgid ""
+"GCompris is free software released under the GPL License. In order to "
+"support its development, this version provides only %d of the %d activities. "
+"You can get the full version for a small fee at\n"
+"<http://gcompris.net>\n"
+"The GNU/Linux version does not have this restriction. If you also believe "
+"that we should teach freedom to children, please consider using GNU/Linux. "
+"Get more information at FSF:\n"
+"<http://www.fsf.org/philosophy>"
+msgstr ""
+"GCompris on vaba lähtekoodiga tarkvara, mis on välja lastud GPL litsentsi "
+"all. Selleks et toetada arendust, on selles versioonis ainult %d tegevust %d-"
+"st. Sa saad tõmmata väikese tasu eest täisversiooni aadressilt\n"
+"<http://gcompris.net>\n"
+"GNU/Linuxi versioonil sellist piirangut ei ole.  Kui ka sina usud et me "
+"peaks õpetama lastele vabadust, kaaluge palun GNU/Linuxi kasutusele võtmist. "
+"Lisainfot saad FSF aadressilt:\n"
+"<http://www.fsf.org/philosophy>"
+
+#, c-format
+msgid "Failed to load the skin '%s' (Check the file exists and is readable)"
+msgstr ""
+
+#, fuzzy, c-format
+msgid ""
+"GCompris won't start because the lock file is less than %d second old.\n"
+msgid_plural ""
+"GCompris won't start because the lock file is less than %d seconds old.\n"
+msgstr[0] ""
+"GCompris ei käivitu sest lukustusfail on vähem kui %d sekundit vana.\n"
+msgstr[1] ""
+"GCompris ei käivitu sest lukustusfail on vähem kui %d sekundit vana.\n"
+
+#, c-format
+msgid "The lock file is: %s\n"
+msgstr "Lukustusfail on: %s\n"
+
+#, c-format
+msgid ""
+"GCompris\n"
+"Version: %s\n"
+"Licence: GPL\n"
+"More info at http://gcompris.net\n"
+msgstr ""
+"GCompris\n"
+"Versioon: %s\n"
+"Litsents: GPL\n"
+"Lisainfot leiad http://gcompris.net\n"
+
+#. check the list of possible values for -l, then exit
+#, c-format
+msgid "Use -l to access an activity directly.\n"
+msgstr "kasuta -l tegevus et pääseda otse tegevuse juurde.\n"
+
+#, c-format
+msgid "The list of available activities is :\n"
+msgstr "Nimekiri kättesaadavatest tegevustest sisaldab:\n"
+
+#, c-format
+msgid "Number of activities: %d\n"
+msgstr "Tegevuste arv: %d\n"
+
+#, c-format
+msgid "%s exists but is not readable or writable"
+msgstr ""
+
+#, c-format
+msgid ""
+"The --server option cannot be used because GCompris has been compiled "
+"without network support!"
+msgstr ""
+
+#, c-format
+msgid ""
+"ERROR: Profile '%s' is not found. Run 'gcompris --profile-list' to list "
+"available ones\n"
+msgstr ""
+
+#, c-format
+msgid "The list of available profiles is:\n"
+msgstr "Nimekiri kättesaadavatest profiilidest:\n"
+
+msgid "Unaffected"
+msgstr "Puutumata"
+
+msgid "Users without a class"
+msgstr "Klassita kasutajad"
+
+#, c-format
+msgid ""
+"Loading activity from database:\n"
+"%s"
+msgstr ""
+"Laen andmebaasist tegevusi:\n"
+"%s"
+
+msgid "Prerequisite"
+msgstr "Eeltingimus"
+
+msgid "Goal"
+msgstr "Eesmärk"
+
+msgid "Manual"
+msgstr "Käsiraamat"
+
+msgid "Credit"
+msgstr "Tunnustus"
+
+#, c-format
+msgid ""
+"Loading activity from file:\n"
+"%s"
+msgstr ""
+"Tegevuse failist lugemine:\n"
+"%s"
+
+msgid ""
+"This directory contains the files you create with the GCompris educational "
+"suite\n"
+msgstr ""
+"See kataloog sisaldab faile mida sa lood kasutades GComprise õppekeskkonda\n"
+
+msgid ""
+"Put any number of images in this directory.\n"
+"You can include these images in your drawings and animations.\n"
+"The image formats supported are jpeg, png and svg.\n"
+msgstr ""
+"Pane ükskõik kui palju pilte sellesse kataloogi.\n"
+"Saad lisada need pildid enda joonistuste ja animatsioonide juurde.\n"
+"Toetatud pildiformaadid on jpeg, png, svg.\n"
+
+msgid "Help"
+msgstr "Abi"
+
+msgid "About"
+msgstr "Tiitelandmed"
+
+msgid "Previous level"
+msgstr "Eelmine tase"
+
+msgid "Next level"
+msgstr "Järgmine tase"
+
+msgid "Refresh"
+msgstr "Värskenda"
+
+msgid "Settings"
+msgstr "Seaded"
+
+#. TRANSLATORS: Back as in previous
+msgid "Back"
+msgstr "Tagasi"
+
+msgid "Stop"
+msgstr "Stopp"
+
+msgid "Time Elapsed"
+msgstr "Aega kulunud"
+
+#, c-format
+msgid "Remaining Time = %d"
+msgstr "Aega jäänud = %d"
+
+msgid "Drag and Drop the regions to redraw the whole country"
+msgstr "Tõmba ja aseta piirkonnad kaardil õigetele kohtadele"
+
+msgid "Locate the region"
+msgstr "Määra piirkonnad"
+
+msgid "Mouse manipulation: movement, drag and drop"
+msgstr "Hiire juhtimine: liigutamine, tõmbamine ja asetamine"
+
+msgid ""
+"The map of Germany comes from Wikipedia and is released under the GNU Free "
+"Documentation License. Olaf Ronneberger and his children Lina and Julia "
+"Ronneberger created the German level."
+msgstr ""
+"Saksamaa kaart on tulnud Wikipediast ja on välja lastud GNU vaba "
+"dokumentatsiooni litsentsi all. Olaf Ronneberger ja tema lapsed Lina ja "
+"Julia Ronneberger on Saksamaa taseme loojad."
+
+msgid "Regions of France"
+msgstr "Prantsusmaa maakonnad"
+
+msgid "Deutschland Bundesländer"
+msgstr "Saksamaa liidumaad"
+
+msgid "Provincias Argentinas"
+msgstr "Argentiina provintsid"
+
+msgid "Polish Voivodship"
+msgstr "Poola vojevoodid"
+
+msgid "Districts of Turkey"
+msgstr "Türgi regioonid"
+
+msgid "Eastern Districts of Turkey"
+msgstr "Türgi idapoolsed regioonid"
+
+msgid "Counties of Norway"
+msgstr "Norra maakonnad"
+
+msgid "Counties of Brazil"
+msgstr "Brasiilia osariigid"
+
+msgid "Drag and Drop the items to redraw the whole map"
+msgstr "Tõmba ja aseta elemendid kaardil õigetele kohtadele"
+
+msgid "Locate the countries"
+msgstr "Paiguta maad"
+
+msgid "Africa"
+msgstr "Aafrika"
+
+msgid "America"
+msgstr "Ameerika"
+
+msgid "Antartica"
+msgstr "Antarktika"
+
+msgid "Asia"
+msgstr "Aasia"
+
+msgid "Continents"
+msgstr "Maailmajaod"
+
+msgid "Europe"
+msgstr "Euroopa"
+
+msgid "Oceania"
+msgstr "Okeaania"
+
+msgid "Alaska"
+msgstr "Alaska"
+
+msgid "Bahamas"
+msgstr "Bahama"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Cuba"
+msgstr "Kuuba"
+
+msgid "Dominican Republic"
+msgstr "Dominikaani Vabariik"
+
+msgid "Greenland"
+msgstr "Gröönimaa"
+
+msgid "Haiti"
+msgstr "Haiti"
+
+msgid "Iceland"
+msgstr "Island"
+
+msgid "Jamaica"
+msgstr "Jamaika"
+
+msgid "Mexico"
+msgstr "Mehhiko"
+
+msgid "North America"
+msgstr "Põhja-Ameerika"
+
+msgid "United States of America"
+msgstr "Ameerika Ühendriigid"
+
+msgid "Argentina"
+msgstr "Argentiina"
+
+msgid "Bolivia"
+msgstr "Boliivia"
+
+msgid "Brazil"
+msgstr "Brasiilia"
+
+msgid "Chile"
+msgstr "Tšiili"
+
+msgid "Colombia"
+msgstr "Kolumbia"
+
+msgid "Ecuador"
+msgstr "Ekuador"
+
+msgid "French Guiana"
+msgstr "Prantsuse Guajaana"
+
+msgid "Guyana"
+msgstr "Guajaana"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Paraguay"
+msgstr "Paraguai"
+
+msgid "Peru"
+msgstr "Peruu"
+
+msgid "South America"
+msgstr "Lõuna-Ameerika"
+
+msgid "Suriname"
+msgstr "Surinam"
+
+msgid "Uruguay"
+msgstr "Uruguai"
+
+msgid "Venezuela"
+msgstr "Venetsueela"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Belgium"
+msgstr "Belgia"
+
+msgid "Denmark"
+msgstr "Taani"
+
+msgid "Finland"
+msgstr "Soome"
+
+msgid "France"
+msgstr "Prantsusmaa"
+
+msgid "Germany"
+msgstr "Saksa"
+
+msgid "Ireland"
+msgstr "Iirimaa"
+
+msgid "Italy"
+msgstr "Itaalia"
+
+msgid "Luxembourg"
+msgstr "Luksemburg"
+
+msgid "Norway"
+msgstr "Norra"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Spain"
+msgstr "Hispaania"
+
+msgid "Sweden"
+msgstr "Rootsi"
+
+msgid "Switzerland"
+msgstr "Holland"
+
+msgid "The Netherlands"
+msgstr "Holland"
+
+msgid "United Kingdom"
+msgstr "Suubritannia"
+
+msgid "Western Europe"
+msgstr "Lääne-Euroopa"
+
+msgid "Albania"
+msgstr "Albaania"
+
+msgid "Belarus"
+msgstr "Valgevene"
+
+msgid "Bosnia Herzegovina"
+msgstr "Bosnia-Hertsegoviina"
+
+msgid "Bulgaria"
+msgstr "Bulgaaria"
+
+msgid "Croatia"
+msgstr "Horvaatia"
+
+msgid "Cyprus"
+msgstr "Küpros"
+
+msgid "Eastern Europe"
+msgstr "Ida-Euroopa"
+
+msgid "Estonia"
+msgstr "Eesti"
+
+msgid "Greece"
+msgstr "Kreeka"
+
+msgid "Hungary"
+msgstr "Ungari"
+
+msgid "Latvia"
+msgstr "Läti"
+
+msgid "Lithuania"
+msgstr "Leedu"
+
+msgid "Macedonia"
+msgstr "Makedoonia"
+
+msgid "Moldova"
+msgstr "Moldova"
+
+msgid "Poland"
+msgstr "Poola"
+
+msgid "Romania"
+msgstr "Rumeenia"
+
+msgid "Russia"
+msgstr "Vene"
+
+msgid "Serbia Montenegro"
+msgstr "Serbia ja Montenegro"
+
+msgid "Slovak Republic"
+msgstr "Slovaki Vabariik"
+
+msgid "Slovenia"
+msgstr "Sloveenia"
+
+msgid "Turkey"
+msgstr "Türgi"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "Algeria"
+msgstr "Alžeeria"
+
+msgid "Benin"
+msgstr "Benin"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Cameroon"
+msgstr "Kamerun"
+
+msgid "Central African Republic"
+msgstr "Kesk-Aafrika Vabariik"
+
+msgid "Chad"
+msgstr "Tšaad"
+
+msgid "Djibouti"
+msgstr "Djibouti"
+
+msgid "Egypt"
+msgstr "Egiptus"
+
+msgid "Equatorial Guinea"
+msgstr "Ekvatoriaal-Guinea"
+
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgid "Ethiopia"
+msgstr "Etioopia"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "Gambia"
+msgstr "Gambia"
+
+msgid "Ghana"
+msgstr "Ghana"
+
+msgid "Guinea"
+msgstr "Guinea"
+
+msgid "Guinea Bissau"
+msgstr "Guinea-Bissau"
+
+msgid "Ivory Coast"
+msgstr "Elevandiluurannik"
+
+msgid "Liberia"
+msgstr "Libeeria"
+
+msgid "Libya"
+msgstr "Liibüa"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Mauritania"
+msgstr "Mauritaania"
+
+msgid "Morocco"
+msgstr "Maroko"
+
+msgid "Niger"
+msgstr "Niger"
+
+msgid "Nigeria"
+msgstr "Nigeeria"
+
+msgid "Northern Africa"
+msgstr "Põhja-Aafrika"
+
+msgid "Rwanda"
+msgstr "Ruanda"
+
+msgid "Senegal"
+msgstr "Senegal"
+
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgid "Somalia"
+msgstr "Somaalia"
+
+msgid "Sudan"
+msgstr "Sudaan"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Tunisia"
+msgstr "Tuneesia"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "Western Sahara"
+msgstr "Lääne-Sahara"
+
+msgid "Angola"
+msgstr "Angoola"
+
+msgid "Botswana"
+msgstr "Botswana"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Democratic Republic of Congo"
+msgstr "Kongo Demokraatlik Vabariik"
+
+msgid "Kenya"
+msgstr "Keenia"
+
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+msgid "Malawi"
+msgstr "Malawi"
+
+msgid "Mozambique"
+msgstr "Mosambiik"
+
+msgid "Namibia"
+msgstr "Namiibia"
+
+msgid "Republic of Congo"
+msgstr "Kongo Vabariik"
+
+msgid "South Africa"
+msgstr "Lõuna-Aafrika"
+
+msgid "Southern Africa"
+msgstr "Lõuna-Aafrika"
+
+msgid "Swaziland"
+msgstr "Svaasimaa"
+
+msgid "Tanzania"
+msgstr "Tansaania"
+
+msgid "Zambia"
+msgstr "Sambia"
+
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgid "Simple Letters"
+msgstr "Lihtsad Tähed"
+
+msgid "Type the falling letters before they reach the ground"
+msgstr "Trüki langevad tähed enne kui need maha kukuvad"
+
+#. TRANSLATORS: Put here the numbers in your language
+msgid "0123456789"
+msgstr "0123456789"
+
+#. TRANSLATORS: Put here the alphabet uppercase in your language
+msgid "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+msgstr "ABCDEFGHIJKLMNOPQRSŠZŽTUVWÕÄÖÜXY"
+
+#. Init configuration window:
+#. all the configuration functions will use it
+#. all the configuration functions returns values for their key in
+#. the dict passed to the apply_callback
+#. the returned value is the main GtkVBox of the window,
+#. we can add what you want in it.
+#, c-format, python-format
+msgid ""
+"<b>%s</b> configuration\n"
+" for profile <b>%s</b>"
+msgstr ""
+"<b>%s</b> häälestus\n"
+"profiilile <b>%s</b>"
+
+msgid "Enable sounds"
+msgstr "Luba helid"
+
+#. toggle box
+msgid "Uppercase only text"
+msgstr "Suurte tähtedega tekst"
+
+msgid "Keyboard manipulation"
+msgstr "Klaviatuuri tundmine"
+
+msgid "Letter association between the screen and the keyboard"
+msgstr "Ekraani pealt ja klaviatuurilt tähtede äratundmine"
+
+msgid "Equality Number Munchers"
+msgstr "Võrdsete arvude mugijad"
+
+msgid ""
+"Guide the Number Muncher to the expressions that equal the number at the top "
+"of the screen."
+msgstr ""
+"Juhi mugija tehtele mille vastus on võrdne ekraani ülemises osas näidatava "
+"numbriga."
+
+msgid "Practice addition, multiplication, division and subtraction."
+msgstr "Harjuta liitmist, lahutamist, korrutamist ja jagamist."
+
+msgid ""
+"Use the arrow keys to navigate around the board and to avoid the Troggles. "
+"Press the spacebar to eat a number."
+msgstr ""
+"Kasuta klaviatuuri nooleklahve töölaual liikumiseks ja väldi kolle. Vajuta "
+"numbri söömiseks tühikut."
+
+#, python-format
+msgid ", %d"
+msgstr ", %d"
+
+#, python-format
+msgid " and %d"
+msgstr " ja %d"
+
+#, python-format
+msgid "%d is divisible by %s."
+msgstr "%d jagub %s-ga."
+
+msgid "1 is not a prime number."
+msgstr "1 ei ole algarv."
+
+#, python-format
+msgid "Primes less than %d"
+msgstr "Algarvud väiksemad kui %d"
+
+#. Translators: You can swap %(x)y elements in the string.
+#, python-format
+msgid ""
+"Multiples of %(d1)d include %(s)s,\n"
+"but %(d2)d is not a multiple of %(d3)d."
+msgstr ""
+"%(d1)d kordsed on %(s)s\n"
+"aga %(d2)d ei ole %(d3)d kordne."
+
+#, python-format
+msgid "Factors of %d"
+msgstr "%d tegurid"
+
+#, python-format
+msgid "%s are the factors of %d."
+msgstr "%s on %d tegurid."
+
+#, python-format
+msgid "Multiples of %d"
+msgstr "%d kordsed"
+
+#, python-format
+msgid "%s = %d"
+msgstr "%s = %d"
+
+#, python-format
+msgid "%d + %d"
+msgstr "%d + %d"
+
+#, python-format
+msgid "%d − %d"
+msgstr "%d - %d"
+
+#, python-format
+msgid "%d × %d"
+msgstr "%d x %d"
+
+#, python-format
+msgid "%d ÷ %d"
+msgstr "%d ÷ %d"
+
+#, python-format
+msgid "Equal to %d"
+msgstr "Võrdne %d-ga"
+
+#, python-format
+msgid "Not equal to %d"
+msgstr "Ei ole võrdne %d-ga"
+
+msgid ""
+"You were eaten by a Troggle.\n"
+"Press <Return> to continue."
+msgstr ""
+"Koll pani sind nahka.\n"
+"Vajuta jätkamiseks <Return>."
+
+msgid "You ate a wrong number.\n"
+msgstr "Sa sõid vale numbri.\n"
+
+msgid ""
+"\n"
+"Press <Return> to continue."
+msgstr ""
+"\n"
+"Vajuta jätkamiseks <Return>."
+
+msgid ""
+"T\n"
+"R\n"
+"O\n"
+"G\n"
+"G\n"
+"L\n"
+"E"
+msgstr ""
+"T\n"
+"R\n"
+"O\n"
+"G\n"
+"G\n"
+"L\n"
+"E"
+
+msgid "Factor Number Munchers"
+msgstr "Tegurite mugijad"
+
+msgid ""
+"Guide the Number Muncher to all the factors of the number at the top of the "
+"screen."
+msgstr "Juhata numbrimugija kõigile ekraani ülaosas näidatud arvu teguritele."
+
+msgid "Learn about factors and multiples."
+msgstr "Õpi tegureid ja kordajaid."
+
+msgid ""
+"The factors of a number are all the numbers that divide that number evenly. "
+"For example, the factors of 6 are 1, 2, 3 and 6. 4 is not a factor of 6 "
+"because 6 cannot be divided into 4 equal pieces. If one number is a multiple "
+"of a second number, then the second number is a factor of the first number. "
+"You can think of multiples as families, and factors are the people in those "
+"families. So 1, 2, 3 and 6 all fit into the 6 family, but 4 belongs to "
+"another family. Use the arrow keys to navigate around the board and to avoid "
+"the Troggles. Press the spacebar to eat a number."
+msgstr ""
+"Tegur on arv, millega jagub vaadeldav arv. Näiteks 6 tegurid on 1, 2, 3 ja "
+"6. 4 ei ole 6 tegur sest 6 ei saa jagada 4 võrdseks osaks. Kasuta "
+"klaviatuuri nooleklahve töölaual liikumiseks, väldi kolle. Vajuta "
+"tühikuklahvi numbri söömiseks."
+
+msgid ""
+"Guide the Number Muncher to the all the expressions that do not equal the "
+"number at the top of the screen."
+msgstr ""
+"Juhata numbrimugija kõigile tehetele mille vastus ei võrdu numbriga, mida "
+"näed ekraani ülaservas."
+
+msgid "Inequality Number Munchers"
+msgstr "Mittevõrduvate numbrite mugijad"
+
+msgid "Practice addition, subtraction, multiplication and division."
+msgstr "Harjuta liitmist, lahutamist, korrutamist ja jagamist."
+
+msgid ""
+"Guide the Number Muncher to all the multiples of the number at the top of "
+"the screen."
+msgstr "Juhi numbimugija kõigile ekraani ülaservas näidatud numbri kordsetele."
+
+msgid "Learn about multiples and factors."
+msgstr "Õpi kordseid ja tegureid."
+
+msgid "Multiple Number Munchers"
+msgstr "Kordarvude mugijad"
+
+msgid ""
+"The multiples of a number are all the numbers that are equal to the original "
+"number times another number. For example, 24, 36, 48 and 60 are all "
+"multiples of 12. 25 is not a multiple of 12 because there isn't any number "
+"that can be multiplied by 12 to get 25. If one number is a factor of a "
+"second number, then the second number is a multiple of the first number. "
+"Again, you can think of multiples as families, and factors are the people "
+"who belong to those families. The factor 5, has parents 10, grandparents 15, "
+"great-grandparents 20, great-great-grandparents 25, and every extra step of "
+"5 is another great- in front! But the number 5 does not belong in the 8 or "
+"23 families. You can't fit any number of 5s into 8 or 23 with nothing left "
+"over. So '8 isn't a multiple of 5, nor is 23. Only 5, 10, 15, 20, 25 ... are "
+"multiples (or families or steps) of 5. Use the arrow keys to navigate around "
+"the board and to avoid the Troggles. Press the spacebar to eat a number."
+msgstr ""
+"Kordarv on arv mis on esitatav ühest erinevate naturaalarvude korrutisena. "
+"Näiteks 24, 36, 48 ja 60 on kõik 12 kordsed. 25 ei ole 12 kordne sest pole "
+"ühtki arvu millega 12 korrutamisel 25 saaks. Kasuta klaviatuuri nooleklahve "
+"et liikuda töölaual, püüa vältida kolli. Vajuta tühikuklahvi numbri "
+"söömiseks."
+
+msgid "Guide the Number Muncher to all the prime numbers."
+msgstr "Juhi numbrimugija kõigi algarvude peale."
+
+msgid "Learn about prime numbers"
+msgstr "Õpi algarve"
+
+msgid "Prime Number Munchers"
+msgstr "Algarvude mugijad"
+
+msgid ""
+"Prime numbers are numbers that are only divisible by themselves and 1. For "
+"example, 3 is a prime number, but 4 isn't (because 4 is divisible by 2). You "
+"can think of prime numbers as very small families: they only ever have two "
+"people in them! Only themselves and 1. You can't fit any other numbers into "
+"them with nothing left over. 5 is one of these lonely numbers (only 5 × 1 = "
+"5), but you can see that 6 has 2 and 3 in its family as well (6 × 1 = 6, 2 × "
+"3 = 6). So 6 is not a prime number. Use the arrow keys to navigate around "
+"the board and to avoid the Troggles. Press the spacebar to eat a number."
+msgstr ""
+"Algarvud on numbrid, mida saab jagada ainult iseendaga ja arvuga 1. Näiteks "
+"3 on algarv, aga 4 ei ole (sest nelja saab 2-ga jagada). Algarvudest võid "
+"mõelda kui väga väikestest perekondadest: neis on ainult 2 liiget! Ainult "
+"algarv ise ja 1. Algarvu sisse ei saa ühtki teist numbrit mahutada, ilma et "
+"midagi üle jääks. 5 on üks neist üksikutest numbritest (ainult 5x1=5), aga "
+"nagu näed number 6 sisse mahub ka 2 ja 3 (6x1=6, 2x3=6). Seega 6 ei ole "
+"algarv. Kasuta klaviatuuri nooleklahve mõõda töölauda liikumiseks ja katsu "
+"Toggles'it vältida. Numbri söömiseks vajuta tühikuklahvi."
+
+#, python-format
+msgid "Guess a number between %d and %d"
+msgstr "Arva ära number vahemikus %d ja %d"
+
+#, python-format
+msgid "Please enter a number between %d and %d"
+msgstr "Palun sisesta number vahemikus %d ja %d"
+
+msgid "Out of range"
+msgstr "Piiridest väljas"
+
+msgid "Too high"
+msgstr "Liiga suur"
+
+msgid "Too low"
+msgstr "Liiga väike"
+
+msgid "Guess a number"
+msgstr "Numbri arvamine"
+
+msgid "Help Tux escape the cave. Tux hides a number for you to find."
+msgstr ""
+"Aita Tuxil koopast välja pääseda. Tux peidab numbrit, mille sina leidma pead."
+
+msgid "Numbers from 1 to 1000 for the last level."
+msgstr "Viimasel tasemel numbrid 1 kuni 1000."
+
+msgid ""
+"Read the instructions that give you the range of the number to find. Enter a "
+"number in the top right blue entry box. Tux will tell you if your number is "
+"higher or lower. Then enter another number. The distance between Tux and the "
+"escape area on the right represents how far you are from the correct number. "
+"If Tux is over or under the escape area, it means your number is over or "
+"under the correct number."
+msgstr ""
+"Loe õpetust, mis annab sulle numbrite vahemiku, mille hulgas otsitav number "
+"on. Sisesta number paremasse sinisesse kastikesse. Tux ütleb sulle, kas sinu "
+"pakutud number on suurem või väiksem. Sisesta uus number. Vahemaa Tuxi ja "
+"pääsemise ala vahel paremal näitab, kui kaugel sa õigest numberist oled. Kui "
+"Tux on pääsemise alast kõrgemal või madalamal, tähendab see, et sinu number "
+"on võrreldes õige numbriga suurem või väiksem."
+
+#. All the vowel of your language (keep empty if non applicable)
+msgid "aeiouy"
+msgstr "aeiouõäöü"
+
+#. All the consonants of your language (keep empty if non applicable)
+msgid "bcdfghjklmnpqrstvwxz"
+msgstr "bcdfghjklmnpqrsšzžtvwxy"
+
+#. Letters equivallence for the hangman activity. It has the
+#. form of a space separated list like: "e=éè a=àâ"
+#. Keep the word NONE if not available in your language
+msgid "NONE"
+msgstr "NONE"
+
+msgid "English"
+msgstr "Inglise"
+
+msgid "Could not find the list of words."
+msgstr "Ei leidnud sõnade nimekirja."
+
+msgid "A word is hidden, you must discover it letter by letter"
+msgstr "Sõna on peidetud, pead selle tähthaaval ära arvama"
+
+msgid "Reading skill"
+msgstr "Lugemisoskus"
+
+msgid "The classic hangman game"
+msgstr "Klassikaline hangman mäng"
+
+msgid "This is a good exercise to improve reading and spelling skills."
+msgstr "See on hea harjutus lugemise ja kirjutamise oskuse tõstmiseks."
+
+msgid ""
+"You can enter the letters using the virtual keyboard on the screen or with "
+"the real keyboard."
+msgstr ""
+"Tähti saad sisestada virtuaalse klaviatuuri pealt ekraanil või päris "
+"klaviatuurilt."
+
+msgid "Simplified Tower of Hanoi"
+msgstr "Lihtsustatud Hanoi torn"
+
+msgid "Reproduce the given tower"
+msgstr "Taasesita antud torn"
+
+msgid ""
+"Build the same tower in the empty area as the one you see on the right-hand "
+"side."
+msgstr "Ehita tühjale kohale samasugune torn nagu paremal näed"
+
+msgid "Concept taken from EPI games."
+msgstr "Idee on võetud EPI mängudest."
+
+msgid ""
+"Drag and Drop one top piece at a time, from one peg to another, to reproduce "
+"the tower on the right in the empty space on the left."
+msgstr ""
+"Tõsta klotse nii kaua ringi kuni saad tühjale alale samasuguse torni nagu on "
+"ette näidatud. Klotse saad tõsta hiirega neid teise kohta tõmmates."
+
+msgid "Reproduce the tower on the right in the empty space on the left"
+msgstr "Tee tühjale alale parempoolse torni koopia"
+
+msgid "Tower of Hanoi"
+msgstr "Hanoi torn"
+
+msgid "Move the entire stack to the right peg, one disc at a time"
+msgstr "Tõsta ükshaaval kõik kettad parempoolse vaia otsa"
+
+msgid ""
+"Drag and Drop the top pieces only from one peg to another, to reproduce the "
+"tower on the right in the empty space on the left."
+msgstr ""
+"Tõsta klotse nii kaua ringi kuni saad tühjale alale samasuguse torni nagu on "
+"ette näidatud. Klotse saad tõsta hiirega neid teise kohta tõmmates."
+
+msgid "Reproduce the tower on the right side"
+msgstr "Tee tühjale alale parempoolse torni koopia"
+
+msgid "The Tower of Hanoi"
+msgstr "Lihtsustatud Hanoi torn"
+
+msgid ""
+"The object of the game is to move the entire stack to another peg, obeying "
+"the following rules:\n"
+"* only one disc may be moved at a time\n"
+"* no disc may be placed atop a smaller disc"
+msgstr ""
+"Mängu eesmärk on terve pinu liigutada teise pulga otsa, alludes järgnevatele "
+"reeglitele:\n"
+"* korraga võid liigutada ainult ühte ketast\n"
+"* ühtki ketast ei tohi panna väiksema ketta peale"
+
+msgid ""
+"The puzzle was invented by the French mathematician Edouard Lucas in 1883. "
+"There is a legend about a Hindu temple whose priests were constantly engaged "
+"in moving a set of 64 discs according to the rules of the Tower of Hanoi "
+"puzzle. According to the legend, the world would end when the priests "
+"finished their work. The puzzle is therefore also known as the Tower of "
+"Brahma puzzle. It is not clear whether Lucas invented this legend or was "
+"inspired by it. (source Wikipedia &lt;http://en.wikipedia.org/wiki/"
+"Tower_of_hanoi&gt;)"
+msgstr ""
+"Pusle leiutas prantsuse matemaatik Edouard Lucas 1883 aastal. On legend "
+"india templist, mille preestrid olid pidevalt tegevuses 64 ketta "
+"liigutamisega vastavalt Hanoi Torni pusle reeglitele. Legendi järgi saabub "
+"maailmalõpp, kui preestrid lõpetavad oma töö. Seetõttu tuntakse puslet ka "
+"kui Brahma Torni Pusle. See on selgusetu, kas Lucas leiutas legendi või sai "
+"sellest hoopis inspiratsiooni. ( lähtuvalt Wikipediast &lt;http://en."
+"wikipedia.org/wiki/Tower_of_hanoi&gt;)"
+
+msgid "Find the strawberry by clicking on the blue fields"
+msgstr "Leia siniselt väljalt maasikas"
+
+msgid ""
+"Try to find the strawberry under the blue fields. The fields become redder "
+"as you get closer."
+msgstr ""
+"Katsu leida sinise kattega väljalt maasikas. Mida lähemale jõuad, seda "
+"punasemaks väli muutub. Nagu see mäng - külm, külm, soojem, veel soojem, "
+"kuum!"
+
+msgid "hexagon"
+msgstr "Kuusnurk"
+
+msgid ""
+"The sun heats the water and creates water vapor. Water vapor combines into "
+"small water droplets which becomes clouds."
+msgstr ""
+"Päike soojendab vett ja paneb vee aurama. Veeauru osakesed liituvad "
+"väikesteks piiskadeks, millest tekivad pilved."
+
+msgid ""
+"As a cloud matures, the dense water droplets may combine to produce larger "
+"droplets, which may combine to form droplets large enough to fall as rain"
+msgstr ""
+
+#. Translator : "meter" here means a measuring device
+msgid "This is the meter for electricity produced by the turbine. "
+msgstr ""
+
+msgid "The electricity power is measured in Watt (W)."
+msgstr "Elektri võimsust mõõdetakse vattides (W)"
+
+msgid ""
+"Flowing water is directed on to the blades of a turbine runner, creating a "
+"force on the blades. In this way, energy is transferred from the water flow "
+"to the turbine"
+msgstr ""
+
+msgid "This cloud simulates the wind, click on it to have wind."
+msgstr "See pilv jäljendab tuult, klõpsa sellel et tuul tekiks."
+
+msgid ""
+"This is a step down transformer. Electricity is transformed in low voltage, "
+"ready to be used by the customers."
+msgstr ""
+
+#. Translator : "meter" here means a measuring device
+msgid "This is the meter for all the electricity produced. "
+msgstr "See näidik mõõdab kogu toodetud elektrit."
+
+#. Translator : "meter" here means a measuring device
+msgid "This is the meter for electricity consumed by the users. "
+msgstr "See näidik mõõdab kogu elektrit, mille tarbijad ära kasutavad."
+
+#. Translator : "meter" here means a measuring device
+msgid "This is the meter for electricity produced by the solar panels. "
+msgstr "See näidik mõõdab elektrit, mida toodavad päikesepaneelid."
+
+msgid ""
+"Solar panels use light energy (photons) from the sun to generate electricity "
+"through the photovoltaic effect."
+msgstr ""
+"Päikesepaneelid kasutavad valguse energiat (footoneid) päikeselt et tekitada "
+"elektrit photovoltaic efekti teel."
+
+#. Translator : "meter" here means a measuring device
+msgid "This is the meter for electricity produced by the wind turbines. "
+msgstr "See mõõdik mõõdab tuulegeneraatorite poolt toodetud elektrienergiat."
+
+msgid ""
+"A wind turbine is a device that converts wind motion energy into electricity "
+"generation. It is called a wind generator or wind charger. "
+msgstr ""
+"Tuuleturbiin on seade, mis muudab tuule liikumise energia elektriks. Seda "
+"nimetatakse tuulegeneraatoriks."
+
+msgid ""
+"It is not possible to consume more electricity than what is produced. This "
+"is a key limitation in the distribution of electricity, with minor "
+"exceptions, electrical energy cannot be stored, and therefore it must be "
+"generated as it is needed. A sophisticated system of control is therefore "
+"required to ensure electric generation very closely matches the demand. If "
+"supply and demand are not in balance, generation plants and transmission "
+"equipment can shut down which, in the worst cases, can lead to a major "
+"regional blackout."
+msgstr ""
+"Ei ole võimalik kulutada rohkem elektrit kui toodetakse. See on "
+"elektrivarustuse võtmetähtsusega piirang, väikeste eranditega, saab "
+"elektrienergiat salvestada ning siis saab seda genereerida vastavalt "
+"vajadusele. Seepärast vajatakse keerulist süsteemi, mis kindlustab, et "
+"elektrit toodetakse ligikaudu sama palju kui kulutatakse. Kui "
+"elektritagavara ja nõudlus ei ole tasakaalus, siis elektri tootmise seadmed "
+"ja ülekandeseadmed võivad välja lülituda, mis halvemal juhul võib lõppeda "
+"suurema riikliku katkestusega."
+
+msgid ""
+"This is a step up transformer. Electricity is transmitted at high voltages "
+"(110 kV or above) to reduce the energy lost in long distance transmission."
+msgstr ""
+
+msgid ""
+"Click on different active elements : sun, cloud, dam, solar array, wind farm "
+"and transformers, in order to reactivate the entire electrical system. When "
+"the system is back up and Tux is in his home, push the light button for him. "
+"To win you must switch on all the consumers while all the producers are up."
+msgstr ""
+"Klõpsa erinevatel aktiivsetel elementidel - päike, pilv, tamm, "
+"päikesepaneel, tuuleelektrijaam, trafo, et aktiveerida kogu elektrisüsteem. "
+"Kui süsteem jälle töötab ja Tuxi koju jõuab, vajuta Tuxi eest valgusti "
+"lülitile. Võitmiseks pead lülitama sisee kõik voolutarbijad kui kõik "
+"voolutootmisseadmed töötavad."
+
+msgid "Learn about an electrical system based on renewable energy"
+msgstr "Õpi elektrisüsteemi mis töötab taastuvenergial."
+
+msgid ""
+"Tux has come back from a long fishing party on his boat. Bring the "
+"electrical system back up so he can have light in his home."
+msgstr ""
+"Tux tuli kõvemalt kalapüügivõistluselt tagasi. Pane elektrisüsteem uuesti "
+"töökorda, et ta saaks valguse majja."
+
+msgid "Reading"
+msgstr "Lugemine"
+
+msgid "Learn how to read"
+msgstr "Õpi lugema"
+
+msgid ""
+"Data file for this level is not properly formatted. Too many choices are "
+"proposed."
+msgstr ""
+"Selle taseme andmefail ei ole korralikult vormistatud. Liiga palju pakutud "
+"valikuid."
+
+msgid "Data file for this level is not properly formatted."
+msgstr "Selle taseme andmefail ei ole korralikult vormistatud."
+
+msgid "Click on the word corresponding to the printed image."
+msgstr "Klõpsa sõnal, mida pildi peal näed."
+
+msgid "Practice reading by finding the word matching an image"
+msgstr "Harjuta lugemist ja leia sõna mis klapib pildiga"
+
+msgid "Reading practice"
+msgstr "Lugemise harjutus"
+
+msgid "apple"
+msgstr "õun"
+
+msgid "bag"
+msgstr "kott"
+
+msgid "banana"
+msgstr "banaan"
+
+msgid "book"
+msgstr "raamat"
+
+msgid "cheese"
+msgstr "juust"
+
+msgid "cow"
+msgstr "lehm"
+
+msgid "house"
+msgstr "maja"
+
+msgid "pear"
+msgstr "pirn"
+
+msgid "satchel"
+msgstr "koolikott"
+
+msgid "back"
+msgstr "selg"
+
+msgid "ball"
+msgstr "pall"
+
+msgid "bed"
+msgstr "voodi"
+
+msgid "boat"
+msgstr "paat"
+
+msgid "bottle"
+msgstr "pudel"
+
+msgid "cake"
+msgstr "kook"
+
+msgid "camel"
+msgstr "kaamel"
+
+msgid "car"
+msgstr "auto"
+
+msgid "cat"
+msgstr "kass"
+
+msgid "catch"
+msgstr "lukk"
+
+msgid "dog"
+msgstr "koer"
+
+msgid "finish"
+msgstr "finiš"
+
+msgid "fish"
+msgstr "kala"
+
+msgid "plane"
+msgstr "lennuk"
+
+msgid "Drag and Drop each item above its name"
+msgstr "Tõmba esemed kirjutatud nimede kohale"
+
+msgid ""
+"Drag each image from the (vertical) box on the left to its (corresponding) "
+"name on the right. Click the OK button to check your answer."
+msgstr ""
+"Tõmba pildike vasakult kastikesest selle punase täpi peale, mille alla on "
+"kirjutatud pildil kujutatud ese. Vasakpoolse kasti kogu sisu pole korraga "
+"näha, varjus olevate piltide nägemiseks vajuta kastikese noopenuppe. Vajuta "
+"OK et kontrollida oma vastust."
+
+msgid "Image Name"
+msgstr "Pildi nimi"
+
+msgid "Vocabulary and reading"
+msgstr "Sõnavara ja lugemine"
+
+msgid "Drag and Drop each item onto its name"
+msgstr "Tõmba esemed kirjutatud nimede kohale"
+
+msgid "bulb"
+msgstr "elektripirn"
+
+msgid "fishing boat"
+msgstr "kalapaat"
+
+msgid "lamp"
+msgstr "lamp"
+
+msgid "mail box"
+msgstr "kirjakast"
+
+msgid "postcard"
+msgstr "postkaart"
+
+msgid "sailing boat"
+msgstr "purjekas"
+
+msgid "egg"
+msgstr "muna"
+
+msgid "eggcup"
+msgstr "munatops"
+
+msgid "flower"
+msgstr "lill"
+
+msgid "glass"
+msgstr "klaas"
+
+msgid "vase"
+msgstr "vaas"
+
+msgid "light house"
+msgstr "majakas"
+
+msgid "rocket"
+msgstr "rakett"
+
+msgid "sofa"
+msgstr "diivan"
+
+msgid "star"
+msgstr "täht"
+
+msgid "bicycle"
+msgstr "jalgratas"
+
+msgid "carrot"
+msgstr "porgand"
+
+msgid "grater"
+msgstr "riiv"
+
+msgid "tree"
+msgstr "puu"
+
+msgid "pencil"
+msgstr "pliiats"
+
+msgid "truck"
+msgstr "veoauto"
+
+msgid "van"
+msgstr "pakiauto"
+
+msgid "castle"
+msgstr "loss"
+
+msgid "crown"
+msgstr "kroon"
+
+msgid "flag"
+msgstr "lipp"
+
+msgid "racket"
+msgstr "reket"
+
+msgid "Click on the correct instrument."
+msgstr "Klõpsa õigel instrumendil."
+
+msgid "Click on the correct mucical instruments"
+msgstr "Klõpsa õigel muusikariistal"
+
+msgid "Learn to recognize musical instruments."
+msgstr "Õpi ära tundma muusikariistu."
+
+msgid "Music instruments"
+msgstr "Muusikariistad"
+
+#. Translator: Do not translate {text}.
+msgid "Find {text}"
+msgstr "Leia {text}"
+
+msgid "the accordion"
+msgstr "akordion"
+
+msgid "the banjo"
+msgstr "bändžo"
+
+msgid "the bass drum"
+msgstr "bassitrumm"
+
+msgid "the bongo"
+msgstr "bongo"
+
+msgid "the castanets"
+msgstr "kastanjetid"
+
+msgid "the cello"
+msgstr "tšello"
+
+msgid "the clarinet"
+msgstr "klarnet"
+
+msgid "the cymbal"
+msgstr "simbel"
+
+msgid "the drum kit"
+msgstr "trummikomplekt"
+
+msgid "the electric guitar"
+msgstr "elektrikitarr"
+
+msgid "the flute traversiere"
+msgstr ""
+
+msgid "the guitar"
+msgstr "kitarr"
+
+msgid "the harmonica"
+msgstr "suupill"
+
+msgid "the harp"
+msgstr "harf"
+
+msgid "the horn"
+msgstr "sarv"
+
+msgid "the maracas"
+msgstr "marakassid"
+
+msgid "the organ"
+msgstr "orel"
+
+msgid "the piano"
+msgstr "klaver"
+
+msgid "the saxophone"
+msgstr "saksofon"
+
+msgid "the tambourine"
+msgstr "tamburiin"
+
+msgid "the timpani"
+msgstr "timpan"
+
+msgid "the triangle"
+msgstr "triangel"
+
+msgid "the trombone"
+msgstr "tromboon"
+
+msgid "the trumpet"
+msgstr "trompet"
+
+msgid "the tuba"
+msgstr "tuuba"
+
+msgid "the violin"
+msgstr "viiul"
+
+#, fuzzy
+msgid "Practice a foreign language"
+msgstr "Harjuta raha kasutamist"
+
+#, fuzzy
+msgid "Missing Image"
+msgstr "Puuduv täht"
+
+#, fuzzy, python-format
+msgid ""
+"Configuration\n"
+" for profile <b>%s</b>"
+msgstr ""
+"<b>%s</b> häälestus\n"
+"profiilile <b>%s</b>"
+
+#, fuzzy
+msgid "Select locale"
+msgstr "Vali häälte keel"
+
+msgid "left"
+msgstr "vasakule"
+
+msgid "right"
+msgstr "paremale"
+
+msgid "Determine if a hand is a right or a left hand"
+msgstr "Kas pildil näidatakse vasakut või paremat kätt?"
+
+msgid ""
+"Distinguish right and left hands from different points of view. Spatial "
+"representation"
+msgstr "Õpid iga nurga alt vahet tegema, kas näed vasakut või paremat kätt."
+
+msgid "Find your left and right hands"
+msgstr "Vasak ja parem käsi"
+
+msgid "None"
+msgstr "Pole"
+
+msgid ""
+"You can see a hand: is it a left hand or a right hand? Click on the red "
+"button on the left, or the green button on the right."
+msgstr ""
+"Sulle näidatakse ühte kätt. Tee kindlaks kas see on vasak või parem käsi. "
+"Vajuta vastavalt kas punast nuppu vasakul või rohelist nuppu paremal."
+
+msgid ""
+"Switch off all the lights, I have to go to sleep.\n"
+"If you need help, click on me."
+msgstr ""
+"Lülita välja kõik tuled, ma pean magama minema.\n"
+"Kui abi vajad, klõpsa minul."
+
+msgid "Lights Off"
+msgstr "Tuled Kustu"
+
+msgid "The aim is to switch off all the lights."
+msgstr "Asja mõte on lülitada välja kõik tuled."
+
+msgid ""
+"The effect of pressing a button is to toggle the state of that button, and "
+"of its immediate vertical and horizontal neighbours. The sun and the color "
+"of the sky depend on the number of clicks needed to solve the puzzle. If you "
+"click on Tux, the solution is shown."
+msgstr ""
+
+msgid ""
+"The solver algorithm described on haar.clara.co.uk is a valuable resource to "
+"know more about the Lights Off game: &lt;http://www.haar.clara.co.uk/Lights/"
+"solving.html&gt;"
+msgstr ""
+
+msgid "Profile: "
+msgstr "Profiil:"
+
+msgid "Login: "
+msgstr "Login:"
+
+#. toggle box
+msgid "Enter login to log in"
+msgstr "Sisenemiseks kirjuta login nimi"
+
+msgid ""
+"GCompris identifies each child, so we can provide child-specific reports."
+msgstr ""
+"GCompris tuvastab iga lapse, seega saame iga lapse kohta eraldi infot jagada."
+
+msgid "GCompris login screen"
+msgstr "GCompris sisselogimise aken"
+
+msgid ""
+"In order to activate the login screen, you must\n"
+"first add users in the administration part of GCompris.\n"
+"You access Administration by running 'gcompris -a'.\n"
+"In Administration, you can create different profiles. In each profile,\n"
+"you can have a different set of users and select which activities are "
+"available to them.\n"
+"To run GCompris for a specific profile, you use 'gcompris -p profile' where "
+"'profile'\n"
+"is the name of a profile as you created it in Administration."
+msgstr ""
+"Loginakna aktiveerimiseks pead esiteks lisama kasutajad GComprise \n"
+"administreerimise osas. Administreerimisse pääsed, kui käivitad \n"
+"'gcompris -a'. Administeerimises saad luua erinevaid profiile. Igal \n"
+"profiilil võivad olle erinevad kasutajad ja valikud, milliseid ülesandeid\n"
+"nad kasutada saavad. GComprise vastava profiili käivitamiseks kasuta\n"
+"'gcompris -p prifiil' kus 'profiil' on Administraatorimoodulis\n"
+"loodud profiili nimi."
+
+msgid "Select or enter your name to log in to GCompris"
+msgstr "Vali või sisesta oma nimi GComprisesse sisenemiseks"
+
+msgid "Click to confirm your sequence"
+msgstr ""
+
+msgid ""
+"Louis Braille Video: &lt; http://www.youtube.com/watch?v=9bdfC2j_4x4 &gt;"
+msgstr ""
+
+msgid ""
+"Read the history of Louis Braille, his biography and discovery of the "
+"Braille system. Click on the previous and next buttons to move to the "
+"respective story page. At the end, arrange the sequence in the chronological "
+"order."
+msgstr ""
+
+#, fuzzy
+msgid "Review the major dates of the inventor of the Braille system."
+msgstr "Lase lastel avastada Braille süsteem."
+
+msgid "The History of Louis Braille"
+msgstr ""
+
+#, fuzzy
+msgid "After his Death"
+msgstr " Peale tema surma"
+
+#, fuzzy
+msgid ""
+"At the age of 10, he was sent to Paris to study at the Royal Institute for "
+"Blind Youth."
+msgstr ""
+" 10-aastasena saadeti ta Pariisi õppima Kuninglikku Pimedate Noorte "
+"Instituuti."
+
+#, fuzzy
+msgid ""
+"At the age of three, Louis became blind due to a severe infection that "
+"spread to his left eye."
+msgstr ""
+" Kolmeaastasena jäi Louis tõsise nakkuse tõttu pimedaks, sest haigus levis "
+"tema vasakusse silma."
+
+#, fuzzy
+msgid "Born on January 4th in Coupvary near Paris in France."
+msgstr " Sündis 4. jaanuaril Prantsusmaal Pariisi lähedal Coupvary's."
+
+msgid ""
+"Braille got accepted as a world wide standard. Louis Braille proved that if "
+"you have motivation you can do incredible things."
+msgstr ""
+
+msgid ""
+"Charles Barbier, a French soldier, visited his school and shared his "
+"invention of night writing, a code of 12 raised dots to share information on "
+"battlefields."
+msgstr ""
+
+#, fuzzy
+msgid "He became a teacher after graduating and secretly taught his method."
+msgstr ""
+" Peale kooli lõpetamist sai temast õpetaja ja ta õpetas salaja enda meetodit."
+
+#, fuzzy
+msgid ""
+"He died of tuberculosis. He is burried in the Pantheon in Paris. A monument "
+"is erected to honor him."
+msgstr ""
+" Ta suri tuberkuloosi. Ta on maetud Pariisi Pantheon'i. Tema auks on "
+"püstitatud monument."
+
+msgid "He impressed his classmates and began to play the piano and the organ."
+msgstr ""
+
+msgid ""
+"He revised and extended braille to include mathematics, symbols, "
+"punctuations and music notations."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Louis Braille injured his right eye with a stitching awl from his father's "
+"workshop."
+msgstr ""
+" Louis Braille vigastas oma paremat silma naasklitorkega oma isa töökojas."
+
+msgid "Louis trimmed Barbier's 12 dots into 6 and invented the Braille system."
+msgstr ""
+
+msgid "Count how many items are under the magic hat after some have got away"
+msgstr "Loe ära, mitu eset jäi võlukübara alla peale seda, kui mõned ära võeti"
+
+msgid "Learn subtraction"
+msgstr "Õpi lahutamist"
+
+msgid ""
+"Look at the magician, he tells the number of stars that are under his magic "
+"hat. Then, click on the hat to open it. A few stars escape. Click again on "
+"the hat to close it. You have to count how many are still under the hat. "
+"Click on the bottom right area to answer."
+msgstr ""
+"Kui mustkunstniku kübarale klõpsad, läheva tähed ülevalt kübara alla. Mõned "
+"tähed pääsevad kübara alt välja keskmisele alale. Sina pead kokku lugema, "
+"mitu tähte jäi kübara all. Klõpsa vastamiseks alumisele alale."
+
+msgid "Subtraction"
+msgstr "Lahutamisoskus"
+
+msgid "The magician hat"
+msgstr "Võlukübar"
+
+msgid "Addition"
+msgstr "Liitmisoskus"
+
+msgid ""
+"Click on the hat to open or close it. Under the hat, how many stars can you "
+"see moving around? Count carefully. :) Click in the bottom-right area to "
+"input your answer."
+msgstr ""
+"Kübara tõstmiseks pead kübaral klõpsama. Pane tähele, mitu tähekest kübara "
+"alla liigub? Arvuta hoolikalt. :) Alumisele parempoolsele alale pead oma "
+"vastuse sisestama."
+
+msgid "Count how many items are under the magic hat"
+msgstr "Loe ära, mitu eset on võlukübara all"
+
+msgid "Learn addition"
+msgstr "Õpi liitmist"
+
+msgid "Can use the keyboard arrow to move an object."
+msgstr "Kasuta liikumiseks klaviatuuri nooleklahve."
+
+msgid "Find your way out of the maze (Move is relative)"
+msgstr "Leia labürindist väljapääs (Liikumine on suhteline)"
+
+msgid "Help Tux get out of this maze."
+msgstr "Aita Tuxil väljapääs leida."
+
+msgid "Maze"
+msgstr "Labürint"
+
+msgid ""
+"Use the keyboard arrows to move Tux up to the door. In this maze, the move "
+"is relative (first person). Use the up arrow to go forward. The other arrow "
+"let you turn Tux in another direction."
+msgstr ""
+"Kasuta klaviatuuri nooleklahve Tuxi üles ukseni juhatamiseks. Selles "
+"labürindis on liikumine suhteline. \"Kasuta nool\" üles klahvi edasi "
+"liikumiseks. Teised klahvid lubavad Tuxi pöörata teises suunas."
+
+msgid "3D Maze"
+msgstr "3D Labürint"
+
+msgid "Find your way out of the 3D maze"
+msgstr "Leia väljapääs 3D labürindist"
+
+msgid ""
+"Use the keyboard arrows to move Tux up to the door. Use the spacebar to "
+"switch between 2D and 3D modes. 2D mode just gives you an indication of your "
+"position, like a map. You cannot move Tux in 2D mode."
+msgstr ""
+"Kasuta klaviatuuri nooleklahve Tuxi ukseni juhtimiseks. Kasuta tühikuklahvi "
+"2D ja 3D režiimi vahel liikumiseks. 2D režiim annab sulle lihtsalt teada "
+"sinu asukohast kaardil. Tuxi sa 2D režiimis liigutada ei saa."
+
+msgid "Find your way out of the maze"
+msgstr "Leia väljapääs"
+
+msgid ""
+"Look at your position, then switch back to invisible mode to continue your "
+"moves"
+msgstr ""
+"Vaata oma asukohta ja lülita tagasi nähtamatule režiimile kus saad liikuda"
+
+msgid ""
+"Look at your position, then switch back to 3D mode to continue your moves"
+msgstr "Vaata oma asukohta ja lülita tagasi 3D režiimile kus saad liikuda"
+
+msgid "Use the keyboard arrows to move Tux up to the door."
+msgstr "Tuxi ukseni juhatamiseks kasuta klaviatuuri nooleklahve."
+
+msgid "Find your way out of the invisible maze"
+msgstr "Leia väljapääs nähtamatust labürindist"
+
+msgid ""
+"Use the keyboard arrows to move Tux up to the door. Use the spacebar to "
+"switch between invisible and visible modes. Visible mode just gives you an "
+"indication of your position, like a map. You cannot move Tux in visible mode."
+msgstr ""
+"Kasuta klaviatuuri nooleklahve Tuxi ukseni juhtimiseks. Kasuta tühikuklahvi "
+"nähtamatu ja nähtava režiimi vahel liikumiseks. Nähtav režiim annab sulle "
+"teada sinu asukohast kaardil. Tuxi sa nähtavas režiimis liigutada ei saa."
+
+msgid ""
+"Error: this activity cannot be played with the\n"
+"sound effects disabled.\n"
+"Go to the configuration dialogue to\n"
+"enable the sound"
+msgstr ""
+"Viga: seda asja ei saa mängida kui\n"
+"heliefektid on keelatud.\n"
+"Mine häälestamise menüüsse ja\n"
+"luba sealt heliefektid."
+
+msgid "Ear-training activity"
+msgstr "Kuulamise harjutus"
+
+msgid ""
+"Listen to the sound sequence played, and repeat it by clicking on the "
+"elements. You can listen again by clicking on the repeat button."
+msgstr ""
+"Kuula ettemängitavat muusikat. Korda seda klõpsates esemetel. Vajadusel saad "
+"muusikat uuesti kuulata kui vajutad kordusklahvi."
+
+msgid "Melody"
+msgstr "Meloodia"
+
+msgid "Repeat a melody"
+msgstr "Korda meloodiat"
+
+msgid "zero"
+msgstr "null"
+
+msgid "one"
+msgstr "üks"
+
+msgid "two"
+msgstr "kaks"
+
+msgid "three"
+msgstr "kolm"
+
+msgid "four"
+msgstr "neli"
+
+msgid "five"
+msgstr "viis"
+
+msgid "six"
+msgstr "kuus"
+
+msgid "seven"
+msgstr "seitse"
+
+msgid "eight"
+msgstr "kaheksa"
+
+msgid "nine"
+msgstr "üheksa"
+
+msgid "Memory"
+msgstr "Mälu"
+
+msgid "Find the matching pair"
+msgstr "Leia sobiv paar"
+
+msgid ""
+"A set of blank cards is shown. Each card has a picture on the other side, "
+"and each picture card has a twin exactly the same. Click on a card to see "
+"its hidden picture, and try to match the twins. You can only turn over two "
+"cards at once, so you need to remember where a picture is, while you look "
+"for its twin. When you turn over the twins, they both disappear."
+msgstr ""
+"Näed hunnikut tagurpidi pööratud kaarte. Igale kaardile on samasuguse "
+"pildiga paariline. Klõps kaardil pöörab kaardi ümber ja näed mis pilt sellel "
+"on. Õnnetuseks saad ümber pöörata korraga vaid kaks kaarti. Pead kaartide "
+"asukohad meelde jätma et nendele paarilised leida. Kui korraga on avatud "
+"mõlemad ühesuguse pildiga kaardid, siis eemaldatakse need laualt."
+
+msgid "Flip the cards to find the matching pairs"
+msgstr "Ava kaardid ja leia sobiv paar"
+
+msgid "Memory Game with images"
+msgstr "Piltidega mälumäng"
+
+msgid "Train your memory and remove all the cards"
+msgstr "Treeni mälu ja eemalda kõik kaardid"
+
+msgid "Addition memory game"
+msgstr "Liitmise mälumäng"
+
+msgid "Practise adding up, until all the cards are gone."
+msgstr "Harjuta peast liitmist, kuni kõik kaardid on otsa saanud."
+
+msgid ""
+"Turn the cards over to find two numbers which add up the same, until all the "
+"cards are gone."
+msgstr ""
+"Pööra kaarte ümber ja leia numbrid mis annavad liitmisel ühesuguse tulemuse. "
+"Jätka kuni kõik kaardid on kadunud."
+
+msgid ""
+"You can see some cards, but you can't see what's on the other side of them. "
+"Each card is hiding an adding-up sum, or the answer to the sum.\n"
+"An adding-up sum looks like this: 2 + 2 = 4\n"
+"The numbers on one side of the equals sign (=) have to be the same as the "
+"number on the other side. So 2 (1, 2) and 2 more (3, 4) makes 4. Count aloud "
+"when you work this out, and count on your fingers, because the more ways you "
+"do something, the better you remember it. You can also use blocks, or "
+"buttons, or anything you can count. If you have lots of brothers and "
+"sisters, you can count them! Or the kids in your class at school. Sing "
+"counting songs. Count lots of things, for practice, and you'll be very good "
+"at adding-up!\n"
+"\n"
+"In this game, these cards are hiding the two parts of an adding-up sum (also "
+"called an addition sum). You need to find the two parts of the sum, and "
+"bring them together again. Click on a card to see what number it's hiding, "
+"then try to find the other card that goes with it, to make a whole sum. You "
+"can only turn over two cards in one go, so you need to remember where the "
+"numbers are hiding, then you can match them when you find their other half. "
+"You're doing the job of the equals sign, and the numbers need you to put "
+"them together and make a proper sum. When you do that, both those cards "
+"disappear! When you've made them all disappear, found all the sums, you've "
+"won the game! :)"
+msgstr ""
+"Näed mõnda kaarti, kuid ei näe mis on kaartide pöördel. Iga kaart peidab "
+"liitmistehet või liitmistehte vastust.\n"
+"\n"
+"Liitmistehe näeb välja selline: 2 + 2 = 4\n"
+"Kaardilaual on seega kaks kaarti: üks, millel on liitmistehe 2+2 ja teisel "
+"vastus 4. Nii et 2 (1, 2) ja 2 juurde (3, 4) on kokku 4. Loenda arvutamisel "
+"valjusti ja võta näpud appi, sest kui teed seda mitmel erineval moel, jääb "
+"see sulle paremini meelde. Võid kasutada ka klotse, nuppe või mida iganes, "
+"mida kokku lugeda saab. Kui sul on palju õdesid ja vendi, loe nemad kokku! "
+"Või lapsed sinu klassis. Kui tihti kokku lugemist arvutad, saab sinust väga "
+"hea liitja!\n"
+"\n"
+"Selles mängus peidavad kaardid liitmistehte kahte osa. Pead leidma nii summa "
+"kui ka tehte, mis selle summa annab. Klõpsa kaardil, et näha, mis numbrit ta "
+"varjab ja püüa leida paariline. Korraga saad ümber pöörata ainult 2 kaarti. "
+"Nii et pead kaardid meelde jätma, et neile paarilisi leida. Sisuliselt teed "
+"sina võrdusmärgi tööd, sest viid kokku liitmistehte ja summa. Kui õiged "
+"kaardid oled leidnud, kaovad mõlemad ära."
+
+msgid "Addition and subtraction memory game"
+msgstr "Liitmise ja lahutamise mälumäng"
+
+msgid "Practise addition, subtraction, until all the cards are gone."
+msgstr "Harjuta liitmist ja lahutamist kuni kõik kaardid on otsa saanud."
+
+msgid ""
+"Turn the cards over to find two numbers which add or subtract the same, "
+"until all the cards are gone."
+msgstr ""
+"Pööra kaardid ümber ja leia 2 numbrit mis liitmisel või lahutamisel annavad "
+"sama tulemuse. Jätka kuni kõik kaardid on laualt otsa saanud."
+
+msgid ""
+"You can see some cards, but you can't see what's on the other side of them. "
+"Each card is hiding an operation, or the answer to it.\n"
+"\n"
+"In this game, these cards are hiding the two parts of an operation. You need "
+"to find the two parts of the operation, and bring them together again. Click "
+"on a card to see what number it's hiding, then try to find the other card "
+"that goes with it, to make a whole operation. You can only turn over two "
+"cards in one go, so you need to remember where the numbers are hiding, then "
+"you can match them when you find their other half. You're doing the job of "
+"the equals sign, and the numbers need you to put them together and make a "
+"proper equality. When you do that, both those cards disappear! When you've "
+"made them all disappear, found all the operations, you've won the game! :)"
+msgstr ""
+"Näed mõnda kaarti, kui ei näe, mis on laardi teisel küljel. Iga kaart peidab "
+"ühte tehet või vastust tehtele.\n"
+"\n"
+"Selles mängus peidavad kaardid tehte kahte poolt. Pead kokku viima tehte 2 "
+"poolt - tehte ja summa. Klõpsa kaardil, et näha, mis numbrit ta varjab ja "
+"püüa leida paariline. Korraga saad ringi pöörata vaid 2 kaarti. Nii et pead "
+"kaardid meelde jätma, et leida neile paarilised. Sisuliselt teed sina "
+"võrdusmärgi tööd - leiad tehte ja sellele tehtele õige vastuse. Kui õiged "
+"kaardid on leitud, kaovad mõlemad ära."
+
+msgid "Addition, subtraction, multiplication, division"
+msgstr "Liitmine, lahutamine, korrutamine, jagamine."
+
+msgid "All operations memory game"
+msgstr "Kõigi tehetega mälumäng"
+
+msgid ""
+"Practise addition, subtraction, multiplication, division, until all the "
+"cards are gone."
+msgstr ""
+"Harjuta liitmist, lahutamist, korrutamist ja jagamist, kuni kaardid on otsa "
+"saanud."
+
+msgid ""
+"Turn the cards over to find a matching operation, until all the cards are "
+"gone."
+msgstr ""
+"Pööra kaardid ringi ja püüa leida sobiv tehe, kuni kõik kaardid on laualt "
+"otsa saanud."
+
+msgid "All operations memory game against Tux"
+msgstr "Kõigi tehetega mälumäng Tuxi vastu"
+
+msgid "Addition and subtraction memory game against Tux"
+msgstr "Liitmise ja lahutamise mälumäng Tuxi vastu"
+
+msgid "Addition memory game against Tux"
+msgstr "Liitmise mälumäng Tuxi vastu"
+
+msgid "Additions"
+msgstr "Liitmisoskus"
+
+msgid "Division"
+msgstr "Korratabeli tundmine"
+
+msgid "Division memory game"
+msgstr "Jagamise mälumäng"
+
+msgid "Practise division, until all the cards are gone."
+msgstr "Harjuta jagamist, kuni kõik kaardid on otsa saanud."
+
+msgid "Division memory game against Tux"
+msgstr "Jagamise mälumäng Tuxi vastu"
+
+msgid "Enumeration memory game"
+msgstr "Arvutamise mälumäng"
+
+msgid "Numeration training, memory."
+msgstr "Numbrite õppimine, mälu."
+
+msgid "Turn the cards over to match the number with the drawn picture."
+msgstr "Pööra kaarte ümber ja sobita numbrid joonistatud piltidega."
+
+msgid ""
+"You can see some cards, but you can't see what's on the other side of them. "
+"Each card is hiding a number of pictures, or the written number."
+msgstr ""
+"Sa näed mõnda kaarti, kuid ei näe mis on kaardi teisel küljel. Iga kaart "
+"peidab teatud arvu pilte või kirjutatud numbrit."
+
+msgid "Practise subtraction, until all the cards are gone."
+msgstr "Harjuta lahutamist, kuni kõik kaardid on otsa saanud."
+
+msgid "Subtraction memory game"
+msgstr "Lahutamise mälumäng"
+
+msgid ""
+"Turn the cards over to find two numbers which subtract the same, until all "
+"the cards are gone."
+msgstr ""
+"Pööra kaardid ümber et leida kaks numbrit, mis lahutamisel annavad sama "
+"tulemuse. Korda seda kuni kõik kaardid on kadunud."
+
+msgid ""
+"You can see some cards, but you can't see what's on the other side of them. "
+"Each card is hiding a subtraction, or the answer to it.\n"
+"A subtraction looks like this: 3 - 1 = 2\n"
+"The numbers on one side of the equals sign (=) have to be the same as the "
+"number on the other side. So 3 (1, 2, 3) less 1 (1) makes 2. Count aloud "
+"when you work this out, and count on your fingers, because the more ways you "
+"do something, the better you remember it. You can also use blocks, or "
+"buttons, or anything you can count. If you have lots of brothers and "
+"sisters, you can count them! Or the kids in your class at school. Sing "
+"counting songs. Count lots of things, for practice, and you'll be very good "
+"at adding-up!\n"
+"\n"
+"In this game, these cards are hiding the two parts of a subtraction. You "
+"need to find the two parts of the subraction, and bring them together again. "
+"Click on a card to see what number it's hiding, then try to find the other "
+"card that goes with it, to make a whole sum. You can only turn over two "
+"cards in one go, so you need to remember where the numbers are hiding, then "
+"you can match them when you find their other half. You're doing the job of "
+"the equals sign, and the numbers need you to put them together and make a "
+"proper sum. When you do that, both those cards disappear! When you've made "
+"them all disappear, found all the subtracts, you've won the game! :)"
+msgstr ""
+"Näed mõnda kaarti, kuid ei näe, mis on kaartide pöördel. Iga kaart peidab "
+"lahutamistehet või selle vastust.\n"
+"Lahutamine näeb välja selline: 3 - 1 = 2\n"
+"Numbrid ühel pool võrdusmärki (=) peavad andma sama tulemuse, mis on number "
+"teisel pool. Seega 3 (1,2,3) 1 vähemaks (1) teeb 2. Loenda arvutamisel "
+"valjusti ja võta näpud appi, sest kui teed seda mitmel erineval moel, jääb "
+"see sulle paremini meelde. Võid kasutada ka klotse, nuppe või mida iganes, "
+"mida kokku lugeda saab. Kui sul on palju õdesid ha vendi, loe nemad kokku. "
+"Või lapsed sinu klassis.\n"
+"\n"
+"Selles mängus peidavad kaardid lahutamistehte kahte osa. Pead leidma nii "
+"summa kui lahutamistehte, mis selle summa annab. Klõpsa kaardil, et näha mis "
+"numbrit ta varjab ja püüa leida paariline. Korraga saad ümber pöörata ainult "
+"2 kaarti. Nii et pead kaardid meelde jätma, et leida neile paarilised. "
+"Sisuliselt teed sina võrdusmärgi tööd, sest viid kokku lahutamistehte ja "
+"summa. Kui õiged kaardid oled leidnud, kaovad mõlemad ära."
+
+msgid "Subtraction memory game against Tux"
+msgstr "Lahutamise mälumäng Tuxi vastu"
+
+msgid "Multiplication"
+msgstr "Korrutamine"
+
+msgid "Multiplication memory game"
+msgstr "Korrutamise mälumäng"
+
+msgid "Practise multiplication, until all the cards are gone."
+msgstr "Harjuta korrutamist, kuni kõik kõik kaardid on otsa saanud."
+
+msgid ""
+"Turn the cards over to find two numbers which multiply the same, until all "
+"the cards are gone."
+msgstr ""
+"Pööra kaardid ümber ja leia numbrid, mis korrutamisel annavad sama tulemuse. "
+"Korda seda kuni kõik kaardid on kadunud."
+
+msgid "Multiplication and division memory game"
+msgstr "Korrutamise ja jagamise mälumäng"
+
+msgid "Multiplication, division"
+msgstr "Korrutamine, jagamine"
+
+msgid "Practise multiplication, division, until all the cards are gone."
+msgstr "Harjuta korrutamist ja jagamist, kuni kõik kaardid on otsa saanud."
+
+msgid "Multiplication and division memory game against Tux"
+msgstr "Korrutamise ja jagamise mälumäng Tuxi vastu"
+
+msgid "Multiplication memory game against Tux"
+msgstr "Korrutamise mälumäng Tuxi vastu"
+
+msgid "Practise multiplication until all the cards are gone."
+msgstr "Harjuta korrutamist, kuni kõik kaardid on otsa saanud."
+
+msgid ""
+"A set of violinist Tux is shown. Each Tux has an associated sound, and each "
+"sound has a twin exactly the same. Click on a Tux to see its hidden sound, "
+"and try to match the twins. You can only activate two Tux at once, so you "
+"need to remember where a sound is, while you listen to its twin. When you "
+"turn over the twins, they both disappear."
+msgstr ""
+"Näed viiuliga Tuxide komplekti. Iga Tux on seotud heliga ja igal helil on "
+"täpselt samasugune kaksik. Klõpsa Tuxil peidetud heli kuulamiseks. Proovi "
+"leida samasuguse heliga Tux. Korraga saad aktiveerida 2 Tuxi. Nii et pead "
+"meelde jätma, milline Tux millist heli tegi. Kui kaks ühesugust heli oled "
+"leidnud, eemaldatakse töölaualt mõlemad ühesugust häält tekitanud Tuxid."
+
+msgid "Audio memory game"
+msgstr "Häälte mälumäng"
+
+msgid "Click on Tux the violinist and listen to find the matching sounds"
+msgstr "Klõpsa viiuliga Tuxil, kuula heli ja leia sarnase heliga Tux"
+
+msgid "Mouse manipulation, Brain."
+msgstr "Hiire juhtimisoskus, aju."
+
+msgid "Train your audio memory and remove all the violonists Tux."
+msgstr "Treeni kuulmismälu ja eemalda kõik viiuliga Tuxid."
+
+msgid "Audio memory game against Tux"
+msgstr "Häälte mälumäng Tuxi vastu"
+
+msgid "Play the audio memory game against Tux"
+msgstr "Mängi häälte mälumängu Tuxi vastu"
+
+msgid "Have a memory competition with Tux."
+msgstr "Võistlus mälumängus Tuxi vastu."
+
+msgid "Memory Game with images, against Tux"
+msgstr "Piltidega mälumäng Tuxi vastu"
+
+msgid ""
+"You can see a set of cards that all look the same. Each card has a picture "
+"on the other side, and each picture has a twin somewhere in the set. You can "
+"only turn over two cards at once, so you need to remember where the pictures "
+"are until you can find the twin. When you turn over twins, they disappear! "
+"You take turns with Tux, and to win the game, you have to find more pairs of "
+"twins than he does."
+msgstr ""
+"Näed ühesuguste kaartide komplekti. Kuid igal kaardil on teisel pool pilt. "
+"Igale kaardile on kaardikomplektis kaksik. Korraga saad ringi pöörata 2 "
+"kaarti. Seega pead kaardi asukoha meelde jätma kuni kaksiku leiad. Mõlemad "
+"kaksikud kaovad, kui nad korraga ringi on pööratud! Jäta meelde ka need "
+"pildid, mille Tux ümber on pööranud. Püüa leida rohkem paare kui Tux suudab."
+
+msgid "Reading numbers, memory."
+msgstr "Numbrite lugemine, mälu."
+
+msgid "Turn the cards over to match the number with the word matching it."
+msgstr ""
+"Pööra kaarte ümber ja leia numbrid mis ühtivad sõnadega kirjutatud "
+"numbritega."
+
+msgid "Wordnumber memory game"
+msgstr "Sõnanumber mälumäng"
+
+msgid ""
+"You can see some cards, but you can't see what's on the other side of them. "
+"Each card is hiding a number of number, or the word of the number."
+msgstr ""
+
+msgid "Please select an image."
+msgstr "Palun vali pilt."
+
+msgid "Choice cannot be empty."
+msgstr "Valik ei tohi olla tühi."
+
+msgid "Question cannot be empty."
+msgstr "Küsimus ei tohi olla tühi."
+
+msgid ""
+"Question must include the character '_'. It represents the letter to search."
+msgstr ""
+
+msgid "Pixmap cannot be empty"
+msgstr ""
+
+msgid "There must be at least 2 choices."
+msgstr "Peab olema vähemalt 2 valikut."
+
+msgid "The answer and question must be the same except for the character '_'."
+msgstr ""
+
+msgid "The first choice must be the solution that replaces the character '_'."
+msgstr ""
+
+#, c-format
+msgid ""
+"Invalid entry:\n"
+"Question '%s' / Answer '%s'\n"
+"%s"
+msgstr ""
+
+#. pixmap
+msgid "Picture"
+msgstr "Pilt"
+
+#. choice
+msgid "Choice"
+msgstr "Valik"
+
+#. combo level
+msgid "Level:"
+msgstr "Tase:"
+
+#, c-format
+msgid "Level %d"
+msgstr "Tase: %d"
+
+msgid "Filename:"
+msgstr "Failinimi:"
+
+msgid "Replace the letter to guess by the character '_'."
+msgstr ""
+
+msgid ""
+"Enter here the letter that will be proposed. The first letter here must be "
+"the solution."
+msgstr ""
+
+msgid ""
+"An object is displayed in the main area, and an incomplete word is printed "
+"under the picture. Select the missing letter to complete the word."
+msgstr "Näed pilti ja selle all lõpetamata sõna. Vali sõnast puuduv täht."
+
+msgid "Fill in the missing letter"
+msgstr "Täida puuduv täht"
+
+msgid "Missing Letter"
+msgstr "Puuduv täht"
+
+msgid "Training reading skills"
+msgstr "Harjuta lugemisoskust"
+
+msgid "Word reading"
+msgstr "Sõna lugemine"
+
+msgid "car/c_r/a/k/o"
+msgstr "auto/a_to/u/o/a"
+
+msgid "dog/_og/d/p/q"
+msgstr "koer/_oer/k/g/s"
+
+msgid "fish/f_sh/i/u/l"
+msgstr "kala/k_la/a/o/u"
+
+msgid "plane/_lane/p/g/d"
+msgstr "lennuk/_ennuk/l/k/v"
+
+msgid "apple/_pple/a/i/o"
+msgstr "õun/_un/õ/ö/o"
+
+msgid "banana/b_nana/a/o/i"
+msgstr "banaan/b_naan/a/o/i"
+
+msgid "house/hous_/e/a/i"
+msgstr "maja/ma_a/j/i/s"
+
+msgid "satchel/s_tchel/a/o/i"
+msgstr "koolikott/k_olikott/o/u/r"
+
+msgid "ball/_all/b/p/d/m"
+msgstr "pall/_all/p/b/d/m"
+
+msgid "bed/_ed/b/l/f/t"
+msgstr "voodi/_oodi/v/l/n/t"
+
+msgid "bottle/_ottle/b/t/p/l"
+msgstr "pudel/_udel/p/b/m/l"
+
+msgid "cake/_ake/c/p/d/k"
+msgstr "kook/_ook/k/l/g/p"
+
+msgid "apple/appl_/e/h/a/i/o/u"
+msgstr "õun/õu_/n/r/s/l/k"
+
+msgid "banana/_anana/b/p/d/m"
+msgstr "banaan/_anaan/b/p/d/m"
+
+msgid "car/_ar/c/k/b/u"
+msgstr "auto/_uto/a/u/k/l"
+
+msgid "dog/d_g/o/g/a/u"
+msgstr "koer/k_er/o/a/e/i"
+
+msgid "fish/_ish/f/h/l/j"
+msgstr "kala/_ala/k/m/g/v"
+
+msgid "house/h_use/o/f/u/i"
+msgstr "maja/m_ja/a/o/n/i"
+
+msgid "plane/p_ane/l/j/i/t"
+msgstr "lennuk/l_nnuk/e/a/u/i"
+
+msgid "satchel/_atchel/s/c/l/z"
+msgstr "koolikott/_oolikott/k/g/b/r"
+
+msgid "apple/app_e/l/h/n/i/t"
+msgstr "õun/õ_n/u/n/õ/r"
+
+msgid "ball/b_ll/a/u/o/e/i/y"
+msgstr "pall/p_ll/a/u/õ/i"
+
+msgid "ball/bal_/l/h/s/z/t"
+msgstr "pall/pal_/l/k/a/u"
+
+msgid "banana/ba_ana/n/m/b/z/q"
+msgstr "banaan/ba_aan/n/m/b/r"
+
+msgid "bed/b_d/e/a/i/o/u/s"
+msgstr "voodi/v_odi/o/u/e/i"
+
+msgid "bed/be_/d/p/b/c/v/n"
+msgstr "voodi/voo_i/d/t/l/r"
+
+msgid "bottle/b_ttle/o/u/d/a/t/i"
+msgstr "pudel/p_del/u/e/õ/i"
+
+msgid "bottle/bott_e/l/y/r/s/g"
+msgstr "pudel/pu_el/d/t/b/r"
+
+msgid "cake/c_ke/a/o/e/i/u/y"
+msgstr "kook/k_ok/o/u/a/r"
+
+msgid "cake/ca_e/k/q/c/r/z"
+msgstr "kook/ko_k/o/r/l/i"
+
+msgid "car/ca_/r/w/k/c/a"
+msgstr "auto/au_o/t/d/b/r"
+
+msgid "dog/do_/g/p/q/q/k"
+msgstr "koer/ko_r/e/o/l/i"
+
+msgid "fish/fis_/h/o/i/y/z"
+msgstr "kala/ka_a/l/m/r/j"
+
+msgid "house/_ouse/h/e/j/z/p/s"
+msgstr "maja/_aja/m/n/v/r"
+
+msgid "plane/pl_ne/a/o/s/e/i/u/y"
+msgstr "lennuk/le_nuk/n/m/i/e"
+
+msgid "satchel/sa_chel/t/p/c/z/s/l"
+msgstr "koolikott/kooli_ott/k/g/p/r/m"
+
+#. Set here the way to display money. Change only the money sign, and it's place, always keep %.2f, it will be replaced by 0,34 if decimal is ',' in your locale
+#, c-format
+msgid "$ %.2f"
+msgstr "€ %.2f"
+
+#. Set here the way to display money. Change only the money sign, and it's place, always keep %.2f, it will be replaced by 0,34 if decimal is ',' in your locale
+#, c-format
+msgid "$ %.0f"
+msgstr "€ %.0f"
+
+#. Set here the way to display money. Change only the money sign, and it's place, always keep %d
+#, c-format
+msgid ""
+"Tux just bought some items in your shop.\n"
+"He gives you $ %d, please give back his change."
+msgstr ""
+"Tux ostis just sinu poest mõned asjad.\n"
+"Ta annab sulle € %d, palun anna talle vahetusraha tagasi."
+
+msgid "Can count"
+msgstr "Arvutamise oskus"
+
+msgid ""
+"Click on the coins or paper money at the bottom of the screen to pay. If you "
+"want to remove a coin or note, click on it on the upper screen area."
+msgstr ""
+"Klõpsa müntidel või paberrahal ekraani alumises osas et nendega maksta. Kui "
+"tahad raha tasku tagasi pista, klõpsa juba valitud paberrahal või mündil "
+"ekraani ülemises servas."
+
+msgid "Money"
+msgstr "Raha"
+
+msgid "Practice money usage"
+msgstr "Harjuta raha kasutamist"
+
+msgid ""
+"You must buy the different items and give the exact price. At higher levels, "
+"several items are displayed, and you must first calculate the total price."
+msgstr ""
+"Maksa alati täpse rahaga. Kõrgemates tasemetes ostad mitu asja korraga ja "
+"siis pead esimese asjana välja arvutama kogu makstava summa."
+
+msgid "Give tux his change"
+msgstr "Anna tuxile vahetusraha tagasi"
+
+msgid "Practice money usage by giving Tux his change"
+msgstr "Harjuta raha kasutamist andes Tuxile tema vahetusraha"
+
+msgid ""
+"Tux bought you different items and shows you his money. You must give him "
+"back his change. At higher levels, several items are displayed, and you must "
+"first calculate the total price."
+msgstr ""
+"Tux ostab sinult erinevaid kaupu ja näitab sulle oma raha. Sa pead talle "
+"vahetusraha tagasi andma. Kõrgematel tasemetel näidatakse mitut kaupa "
+"korraga ja sina pead esmalt arvutama kaupade hinna kokku."
+
+msgid "Give tux his change, including cents"
+msgstr "Anna tuxile tema vahetusraha, koos sentidega"
+
+msgid "Practice money usage including cents"
+msgstr "Harjuta raha kasutamist koos sentidega"
+
+msgid "Rebuild the same mosaic on the right area"
+msgstr "Ehita samasugune mosaiik paremale alale"
+
+msgid "Rebuild the mosaic"
+msgstr "Ehita samasugune mosaiik"
+
+msgid "Assemble the puzzle"
+msgstr "Lõpeta mosaiik"
+
+msgid "Drag and Drop the items to rebuild the original paintings"
+msgstr "Pane tükikestest pusle kokku"
+
+msgid ""
+"Drag the image parts from the box on the left to create a painting on the "
+"main board."
+msgstr "Tõmba vasakult pilditükikesed ja pane nendest põhilaual maal kokku."
+
+msgid "Mouse-manipulation: movement, drag and drop"
+msgstr "Hiire juhtimine: liigutamine, tõmbamine ja asetamine"
+
+msgid "Spatial representation"
+msgstr "Kombineerimisoskuse lihvimine"
+
+msgid "Edgar Degas, The Dancing Class - 1873-75"
+msgstr "Edgar Degas, Tantsuklass - 1873-75"
+
+msgid ""
+"Katsushika Hokusai,\\nViewing Sunset over the Ryogoku Bridge from the Ommaya "
+"Embankment - 1830"
+msgstr ""
+
+msgid "Katsushika Hokusa, Poppies - 1833-1834"
+msgstr "Katsushika Hokusa, Moonid - 1833-1834"
+
+msgid "Katsushika Hokusai, Kazusa sea Route - 1830."
+msgstr "Katsushika Hokusai, Kazusa meretee - 1830."
+
+msgid "Pierre-Auguste Renoir, Le Moulin de la Galette - 1876"
+msgstr "Pierre-Auguste Renoir, Le Moulin de la Galette - 1876"
+
+msgid "Giuseppe Arcimboldo, Spring - 1573"
+msgstr "Giuseppe Arcimboldo, Kevad - 1573"
+
+msgid "Giuseppe Arcimboldo, The Librarian - 1566"
+msgstr "Giuseppe Arcimboldo, Raamatukoguhoidja - 1566"
+
+msgid "Katsushika Hokusai, Oiran and Kamuro"
+msgstr "Katsushika Hokusai, Oiran ja Kamuro"
+
+msgid "Katsushika Hokusai, Woman holding a fan"
+msgstr "Katsushika Hokusai, Naine lehvikuga"
+
+msgid "Katsushika Hokusai, Ejiri in Suruga Province - 1830-1833"
+msgstr "Katsushika Hokusai, Ejiri Suruga prefektuuris - 1830-1833"
+
+msgid "Katsushika Hokusai, The Great Wave off Kanagawa - 1823-1829"
+msgstr ""
+
+msgid ""
+"Utagawa Hiroshige,\\nThe Benzaiten Shrine at Inokashira in Snow - 1760-70"
+msgstr ""
+
+msgid "Utagawa Hiroshige, Horse-mackerel and Prawn - 1840"
+msgstr ""
+
+msgid "Michelangelo, Pieta - 1499"
+msgstr "Michelangelo, Pieta - 1499"
+
+msgid "Leonardo da Vinci, Mona Lisa - 1503-19"
+msgstr "Leonardo da Vinci, Mona Lisa - 1503-19"
+
+msgid "Giovanni Bellini, La Pala di Pesaro - 1475-85"
+msgstr "Giovanni Bellini, La Pala di Pesaro - 1475-85"
+
+msgid "Albrecht Dürer, Lion - 1494"
+msgstr "Albrecht Dürer, Lõvi - 1494"
+
+msgid "Pieter Brugel, The Harvesters - 1565"
+msgstr "Pieter Brugel, Viljakoristajad - 1565"
+
+msgid "Pierre-Auguste Renoir, Girls At The Piano - 1892"
+msgstr "Pierre-Auguste Renoir, Tüdrukud klaveriga - 1892"
+
+msgid "Oil on canvas, 140 x 201 cm; Solomon R. Guggenheim Museum, New York"
+msgstr "Oil on canvas, 140 x 201 cm; Solomon R. Guggenheim Museum, New York"
+
+msgid "Wassily Kandinsky, Composition VIII - 1923"
+msgstr "Wassily Kandinsky, Kompositsioon VIII - 1923"
+
+msgid "Bazille, The Ramparts at Aigues-Mortes - 1867"
+msgstr "Bazille, The Ramparts at Aigues-Mortes - 1867"
+
+msgid "Mary Cassatt, Summertime - 1894"
+msgstr "Mary Cassatt, Suveaeg - 1894"
+
+msgid "Vincent Van Gogh, Village Street in Auvers - 1890"
+msgstr "Vincent Van Gogh, Maastik Auvers'is pärast vihma - 1890"
+
+msgid "Control fall speed with up and down arrow keys."
+msgstr "Kontrolli langemise kiirust nool üles ja nool alla nooleklahvidega."
+
+msgid "Help Tux the parachutist land safely"
+msgstr "Aita langevarjuga hüppaval Tuxil ohutult maanduda"
+
+msgid ""
+"Hit any key or click on the plane to make Tux jump. Hit another key or click "
+"on Tux to open the parachute."
+msgstr ""
+"Vajuta klahvi või klõpsa lennukil et Tux hüppaks lennukilt alla. Vajuta "
+"mõnda klahvi või klõpsa Tuxil et avada Tuxi langevari. Arvesta et avatud "
+"langevarjuga kaldub Tux rohkem sihtmärgist kõrvale."
+
+msgid ""
+"In this game, Tux the parachutist needs help to land safely on the fishing "
+"boat. He needs to allow for the wind direction and speed."
+msgstr ""
+"Selles mängus peab langevarjuga hüppav Tux ohutult kalapaadil maanduma. Vaja "
+"on arvestada tuule suuna ja kiirusega."
+
+msgid "Parachutist"
+msgstr "Langevarjur"
+
+msgid "This board is game-oriented. No specific skills are needed to play."
+msgstr "See on mäng. Erilisi oskusi selle mängimine ei vaja."
+
+msgid "Click on the ball to place it again."
+msgstr "Klõpsa pallil et see paika asetada."
+
+msgid "Click twice on the ball to shoot it."
+msgstr "Tee topeltklõps pallil et teda tulistada."
+
+msgid ""
+"Double click the mouse on the ball to kick it. You can double click the left "
+"right or middle mouse button. If you lose, Tux catches the ball. You must "
+"click on it to bring it back to its former position"
+msgstr ""
+
+msgid "Double click the mouse on the ball to score a goal."
+msgstr "Tee topeltklõps pallil et pall väravasse lüüa."
+
+msgid "Penalty kick"
+msgstr "Karistuslöök"
+
+msgid "Error: Absolutely no photo found in the data directory"
+msgstr "Viga: Absoluutselt ühtegi pilti ei leidnud andmete kataloogist"
+
+msgid "Click on the differences between the two images."
+msgstr "Klõpsa kahe pildi erinevustel."
+
+msgid "Find the differences between two pictures"
+msgstr "Leia piltidelt erinevused"
+
+msgid ""
+"Observe the two pictures carefully. There are some slight differences. When "
+"you find a difference you must click on it."
+msgstr ""
+"Vaatle mõlemat pilti tähelepanelikult. Mõned asjad on nendel veidi erinevad. "
+"Kui leiad erinevuse, pead sellel klõpsama."
+
+msgid "Photo hunter"
+msgstr "Fotojaht"
+
+msgid "Visual discrimination."
+msgstr "Visuaalne eristamine."
+
+msgid "Numbers in Order"
+msgstr "Järjesta numbrid"
+
+msgid "Move the plane to catch the clouds in the correct order"
+msgstr "Liiguta lennukit et püüda pilvi õiges järjekorras"
+
+msgid ""
+"Catch the numbers in increasing order, using the up, down, right and left "
+"arrows on the keyboard to move the helicopter."
+msgstr ""
+"Püüa numbreid suurenevas järjestuses. Helikopteri liikuma panemiseks kasuta "
+"klaviatuuri nooleklahve üles, alla, vasakule ja paremale."
+
+msgid "Move the helicopter to catch the clouds in the correct order"
+msgstr "Pilvede õiges järjekorras püüdmiseks pead helikopterit liigutama"
+
+msgid "Number"
+msgstr "Number"
+
+msgid ""
+"This is the first plugin in GCompris coded in the Python\n"
+"Programming language."
+msgstr ""
+"See on esimene plugin GComprises mis on kirjutatud\n"
+"programmeerimiskeeles Python."
+
+msgid "Add a language-binding to GCompris."
+msgstr "Lisa keeleköide GComprisesse."
+
+msgid "Advanced Python Programmer :)"
+msgstr "Kõva Pythoni programmeerija :)"
+
+msgid "An empty python activity to use as a starting point"
+msgstr ""
+
+msgid "Python Template"
+msgstr "Pythoni mall"
+
+msgid ""
+"Thanks to Guido van Rossum and the python team for this powerful language!"
+msgstr ""
+"Aitäh Guido van Rossumile ja pythoni meeskonnale selle võimsa "
+"programmeerimiskeele eest!"
+
+msgid ""
+"It is now possible to develop GCompris activities in C or in Python.\n"
+"Thanks to Olivier Samys who makes this possible."
+msgstr ""
+"Nüüd on võimalik luua GComprise tegevusi nii C kui Python keeles.\n"
+"Aitäh Olivier Samys, et tegid selle võimalikuks."
+
+msgid "This activity is not playable, just a test"
+msgstr "Seda tegevust pole veel võimalik mängida, lihtsalt test"
+
+#. toggle box
+msgid "Disable line drawing in circle"
+msgstr ""
+
+#. combo box
+msgid "Color of the line"
+msgstr "Joone värv"
+
+#. spin button for int
+msgid "Distance between circles"
+msgstr "Vahemaa ringide vahel"
+
+#. radio buttons for circle or rectangle
+msgid "Use circles"
+msgstr "Kasuta ringe"
+
+msgid "Use rectangles"
+msgstr "Kasuta ristkülikuid"
+
+msgid "Python Test"
+msgstr "Pythoni test"
+
+msgid "Test board for the python plugin"
+msgstr "Testlaud pythoni pluginale"
+
+msgid "Memory game"
+msgstr "Mälumäng"
+
+msgid "Build a train according to the model"
+msgstr "Komplekteeri rong vastavalt mudelile"
+
+msgid "A memory game based on trains"
+msgstr "Mälumäng rongidega"
+
+msgid ""
+"A train - a locomotive and carriage(s) - is displayed at the top of the main "
+"area for a few seconds. Rebuild it at the top of the screen by selecting the "
+"appropriate carriages and locomotive. Deselect an item by clicking on it "
+"again. Check your construction by clicking on the hand at the bottom."
+msgstr ""
+"Kõigepealt näed rongi - vedurit ja vaguneid - mõneks sekundiks töölaua "
+"ülemises osas. Siis sõidab rong minema ja sina pead samasuguse rongi "
+"komplekteerima. Vedur ja vagunid peavad olema õiged ja õiges järjekorras. "
+"Vaguneid ja vedureid saad lisada ning eemaldada hiirega nende peal "
+"klõpsates. Et kontrollida, kas panid õige komplekti kokku, vajuta käele laua "
+"alumises servas."
+
+msgid "Memory-training"
+msgstr "Mälutreening"
+
+msgid "Railway"
+msgstr "Raudtee"
+
+msgid ""
+"Error: We can't find\n"
+"a list of words to play this game.\n"
+msgstr ""
+"Viga: me ei suutnud leida selle mängu\n"
+"mängimiseks vajalikku sõnade nimekirja.\n"
+
+msgid "Please, check if the word"
+msgstr "Palun kontrolli kas sõna"
+
+msgid "is being displayed"
+msgstr "näidatakse praegu"
+
+msgid "We skip this level because there are not enough words in the list!"
+msgstr ""
+"Selle taseme jätame vahele, sest nimekirjas pokle piisaval hulgal sõnu!"
+
+msgid "Yes, I saw it"
+msgstr "Jah, ma nägin seda"
+
+msgid "No, it was not there"
+msgstr "Ei, seda ei olnud"
+
+#. Report what was wrong in the log
+#, c-format
+msgid "The word to find was '%s'"
+msgstr "Sa pidid leidma sõna '%s'"
+
+#, c-format
+msgid "But it was not displayed"
+msgstr "Aga seda ei näidatud"
+
+#, c-format
+msgid "And it was displayed"
+msgstr "Ja seda näidati"
+
+msgid ""
+"A word is shown at the top right of the board. A list of words will appear "
+"and disappear on the left. Does the given word belong to the list?"
+msgstr ""
+"Üleval vasakus aknas näidatakse teile sõnu. Terve pinu sõnu ilmub ja kustub. "
+"Pärast pead teada andma, kas antud sõna nägid või mitte."
+
+msgid "Horizontal reading practice"
+msgstr "Sõnad on samas reas"
+
+msgid "Read a list of words and work out if a given word is in it"
+msgstr "Loe sõnu ja pärast ütle kas antud sõna oli teiste hulgas"
+
+msgid "Reading training in a limited time"
+msgstr "Lugemistreening piiratud ajaga"
+
+msgid "Read a vertical list of words and work out if a given word is in it"
+msgstr ""
+"Loe vartikaalne nimekiri sõnu läbi ja ütle kas antud sõna oli teiste hulgas"
+
+msgid "Read training in a limited time"
+msgstr "Lugemistreening piiratud ajaga"
+
+msgid "Vertical-reading practice"
+msgstr "Ülevalt alla lugemise harjutamine"
+
+msgid "Coordinate"
+msgstr "Koordinaat"
+
+msgid "Copy a drawing from the box on the right into the box on the left."
+msgstr "Kopeeri joonistus paremast kastist vasakusse kasti."
+
+msgid ""
+"First, select the proper tool from the toolbar. Then drag the mouse to "
+"create objects. When you are done, click on the OK button. Errors will be "
+"marked with a little red cross. The order of objects (above/under) is not "
+"important but be careful not to end up with unwanted objects under others."
+msgstr ""
+"Esiteks vali tööriistaribalt õige tööriist. Siis tõmba hiirega kujundi "
+"tegemiseks. Kui oled valmis, vajuta OK. Arvuti märgib sinu tehtud vead "
+"pisikeste punaste ristikestega. Objektide järjekord (peal/all) pole oluline "
+"aga hoolitse et sul poleks ühtki mittevajalikku objekti teiste objektide all."
+
+msgid "Redraw the given item"
+msgstr "Joonista antud ese"
+
+msgid ""
+"Copy the mirror image of an object from the box on the right into the box on "
+"the left."
+msgstr "Kopeeri parema kasti kujund vasakusse kasti peegelpildina ümber."
+
+msgid ""
+"First, select the proper tool from the toolbar. Then drag the mouse to "
+"create objects. When you are done, click on the OK button. A little red "
+"cross will show you where something isn't right yet. The order of objects "
+"(above/under) is not important but be careful not to end up with unwanted "
+"objects under others."
+msgstr ""
+"Esiteks vali tööriistaribalt õige tööriist. Siis tõmba hiirega kujundi "
+"tegemiseks. Kui oled valmis, vajuta OK. Arvuti märgib sinu tehtud vead "
+"pisikeste punaste ristikestega. Objektide järjekord (peal/all) pole oluline "
+"aga hoolitse et sul poleks ühtki mittevajalikku objekti teiste objektide all."
+
+msgid "Mirror the given item"
+msgstr "Peegelda antud ese"
+
+msgid ""
+"Can move the mouse, can read numbers and subtract numbers up to 10 for the "
+"first level"
+msgstr ""
+"Pead oskama hiirt liigutada, numbreid lugeda ja arvutada 10 piires esimesel "
+"tasemel."
+
+msgid ""
+"Click on the dice to show how many ice spots there are between Tux and the "
+"fish. Click the dice with the right mouse button to count backwards. When "
+"done, click on the OK button or hit the Enter key."
+msgstr ""
+"Klõpsa täringul et seada täringule nii palju täppe, kui mitu jääpangahüpet "
+"Tux tegema peab et kalani jõuda. Hiire paremklõps võtab täppe täringul "
+"vähemaks. Kui valmis oled, vajuta OK nuppu või Enter klahvi."
+
+msgid "Practice subtraction with a fun game"
+msgstr "Harjuta lõbusa mänguga lahutamist"
+
+msgid "Tux is hungry. Help him find fish by counting to the correct ice spot."
+msgstr "Tux on näljane. Aita tal arvutada, mitme hüppega kalani jõuab."
+
+#, c-format
+msgid "Weight in g = %s"
+msgstr "Kaal g = %s"
+
+#, c-format
+msgid "Weight = %s"
+msgstr "Kaal = %s"
+
+#, fuzzy
+msgid "Take care, you can drop weights on both sides of the scale."
+msgstr "Pane tähele - sa võid kaaluvihite asetada kaalu mõlemale poole."
+
+msgid "Balance the scales properly"
+msgstr "Tasakaalusta kaal hoolikalt"
+
+#, fuzzy
+msgid "Drag and Drop weights to balance the scales"
+msgstr "Aseta kaaluvihid et tasakaalustada kaal"
+
+msgid "Mental calculation, arithmetic equality"
+msgstr "Lihtne arvutamine"
+
+msgid ""
+"The painting is an original painting created by Virginie MOREAU (virginie."
+"moreau@free.fr) in 2001. Its name is 'Spices Seller in Egypt'. It is "
+"released under the GPL licence."
+msgstr ""
+"Taustaks on originaalmaal, tehtud 2001 aastal Virginie MOREAU (virginie."
+"moreau@free.fr) poolt. Selle nimi on 'Maitseainetemüüja Egiptuses'. See on "
+"välja antud GPL litsentsi all."
+
+#, fuzzy
+msgid ""
+"To balance the scales, move the weights on the left or the right side. The "
+"weights can be arranged in any order."
+msgstr ""
+"Et mõlemal kaalukausil oleks sama suur raskus, pead paigutama õiged "
+"kaaluvihid kaalule. Kaaluvihte võid panna nii vasakule kui paremale "
+"kaalupoolele. Vahet pole millises järjekorras kaaluvihid kohale asetad."
+
+msgid "Drag and Drop masses to balance the scales and calculate the weight"
+msgstr "Aseta kaaluvihid et tasakaalustada kaal ja arvutada kaal"
+
+msgid "Mental calculation, arithmetic equality, unit conversion"
+msgstr "Arvutamine, aritmeetiline võrdsus, ühikute teisendamine"
+
+msgid ""
+"To balance the scales, move the masses on the left or the right side. Take "
+"care of the weight and the unit of the masses, remember that a kilogram (kg) "
+"is 1000 grams (g). They can be arranged in any order."
+msgstr ""
+"Et mõlemal kaalukausil oleks sama suur raskus, pead vasakult tõmbama õiged "
+"kaaluvihid kaalule. Pea meeles, et kaaluühik  kilogramm (kg) on 1000 grammi "
+"(g). Vahet pole millises järjekorras."
+
+msgid "Give good instructions to your ship in order to be first in the race."
+msgstr "Võiduajamise võitmiseks juhenda oma paati täpselt."
+
+msgid ""
+"In the text entry, enter one command per line, to control your boat. "
+"Commands supported are displayed between the two entry areas. The 'left' and "
+"'right' commands must be followed by an angle in degrees. The angle value is "
+"also called a 'parameter' to the left or right command. By default 45 "
+"degrees is used. The 'forward' command accepts a distance parameter. By "
+"default 1 is used.\n"
+"For example:\n"
+"- left 90: Make a perpendicular left turn\n"
+"- forward 10: Go forward for 10 units (as displayed on the ruler).\n"
+"The goal is to reach the right of the screen (the red line). When done, you "
+"can try to improve your program and start a new race with the same weather "
+"conditions by using the retry button. You can click and drag your mouse "
+"anywhere on the map to get a measurement in distance and angle. Going to the "
+"next level will give you more complex weather conditions."
+msgstr ""
+"Tekstiaknasse sisesta ridahaaval paadile antavad juhised. Käsud mida saab "
+"paadile anda on näha kahe tekstiakna vahel. Käsud 'vasakule' ja 'paremale'  "
+"peavad sisaldama pöördenurka kraadides. Kui nurgakraade ei täpsusta, kasutab "
+"arvuti vaikimisi 45 kraadist nurka. Käsk 'edasi' ootab numbrit, mitme ühiku "
+"võrra sa edasi tahad liikuda. Kui numbrit ei täpsusta, siis vaikimisi 1 "
+"ühik.\n"
+"Näiteks:\n"
+"vasakule 90: Tee vasakpööre 90 kraadi\n"
+"edasi 10: Liigu 10 ühiku võrra edasi (nagu näidatud joonlaual)\n"
+"Eesmärk on jõuda üle punase joone ekraani paremas servas. Kui oled paadi "
+"edukalt üle joone suutnud juhendada, proovi endatehtud programmi täiendada "
+"arvestades nüüd juba ilmastikutingimusi (vastutuulest mööda hiilida et "
+"kiirem sõit oleks). Kordusklahviga saad samade ilmastikutingimustega "
+"purjetamist korrata. Võid klõpsata ja tõmmata hiirt igal pool kaardil "
+"mõõtmaks vahemaad ja pöördenurki. Järgmisel tasemel on veel raskemad "
+"ilmastikutingimused."
+
+msgid ""
+"In this activity, you will learn how to enter commands into a computer. Even "
+"if the language is extremely basic, you learn here how to think ahead and "
+"construct a program. This activity can be used to introduce the programming "
+"concept to children."
+msgstr ""
+"Selles programmis õpid kuidas arvutile käske andma peab. Isegi kui keel on "
+"väga lihtne, õpid, kuidas ette mõelda ja programmi koostada. Seda mängu saab "
+"kasutada lastele programmeerimise sissejuhatuseks."
+
+msgid "Sea race (Single Player)"
+msgstr "Purjetamine (1 mängija)"
+
+msgid "The race is already being run"
+msgstr "Ralli on juba pihta hakanud"
+
+#. Manage default cases (no params given)
+#. Final move, add an ofset because we loose space in abs()
+msgid "forward"
+msgstr "edasi"
+
+msgid "COMMANDS ARE"
+msgstr "KÄSUD ON"
+
+#. The two boat arrived in a close time frame (1s), it's a draw
+msgid "This is a draw"
+msgstr "See on viik"
+
+msgid "The Red boat has won"
+msgstr "Punane paat võitis"
+
+msgid "The Green boat has won"
+msgstr "Roheline paat võitis"
+
+msgid "Angle:"
+msgstr "Nurk:"
+
+msgid "Wind:"
+msgstr "Tuul:"
+
+msgid "Syntax error at line"
+msgstr "Kirjaviga real"
+
+msgid "The command"
+msgstr "Käsk"
+
+msgid "Unknown command at line"
+msgstr "Tundmatu käsk real"
+
+msgid "Distance:"
+msgstr "Vahemaa:"
+
+msgid "Direct your boat accurately to win the race."
+msgstr "Võiduajamise võitmiseks juhenda oma paati täpselt."
+
+msgid ""
+"In the text entry, enter one command per line, to control your boat.\n"
+"Commands supported are displayed between the two entry areas. The 'left' and "
+"'right' commands must be followed by an angle in degrees. The angle value is "
+"also called a 'parameter' to the left or right command. By default 45 "
+"degrees is used. The 'forward' command accepts a distance parameter. By "
+"default 1 is used.\n"
+"For example:\n"
+"- left 90: Make a perpendicular left turn\n"
+"- forward 10: Go forward for 10 units (as displayed on the ruler).\n"
+"The goal is to reach the right of the screen (the red line). When done, you "
+"can try to improve your program and start a new race with the same weather "
+"conditions by using the retry button. You can click and drag your mouse "
+"anywhere on the map to get a measurement in distance and angle. Going to the "
+"next level will give you more complex weather conditions."
+msgstr ""
+"Tekstiaknasse sisesta ridahaaval paadile antavad juhised. \n"
+"Käsud mida saab paadile anda on näha kahe tekstiakna vahel. Käsud 'vasakule' "
+"ja 'paremale'  peavad sisaldama pöördenurka kraadides. Kui nurgakraade ei "
+"täpsusta, kasutab arvuti vaikimisi 45 kraadist nurka. Käsk 'edasi' ootab "
+"numbrit, mitme ühiku võrra sa edasi tahad liikuda. Kui numbrit ei täpsusta, "
+"siis vaikimisi 1 ühik. \n"
+"Näiteks:\n"
+"vasakule 90: Tee vasakpööre 90 kraadi\n"
+"edasi 10: Liigu 10 ühiku võrra edasi (nagu näidatud joonlaual)\n"
+"Eesmärk on jõuda üle punase joone ekraani paremas servas. Kui oled paadi "
+"edukalt üle joone suutnud juhendada, proovi endatehtud programmi täiendada "
+"arvestades nüüd juba ilmastikutingimusi (vastutuulest mööda hiilida et "
+"kiirem sõit oleks). Kordusklahviga saad samade ilmastikutingimustega "
+"purjetamist korrata. Võid klõpsata ja tõmmata hiirt igal pool kaardil "
+"mõõtmaks vahemaad ja pöördenurki. Järgmisel tasemel on veel raskemad "
+"ilmastikutingimused."
+
+msgid "Sea race (2 Players)"
+msgstr "Purjetamine (2 mängijat)"
+
+msgid "Count the number of dots on dice before they reach the ground"
+msgstr "Loe täpid täringutel kokku enne kui need maha kukuvad"
+
+msgid "Counting skills"
+msgstr "Arvutamise oskus"
+
+msgid "In a limited time, count the number of dots"
+msgstr "Loe piiratud aja jooksul täpid kokku"
+
+msgid "Numbers with pairs of dice"
+msgstr "2 täringut numbritega"
+
+msgid "With the keyboard, type the number of dots you see on the falling dice."
+msgstr ""
+"Loe täpid täringutel kokku ja vajuta klaviatuuril vastavat numbriklahvi."
+
+msgid "Numbers With Dice"
+msgstr "Täring numbritega"
+
+msgid ""
+"Click on different active elements : engine, rudders and air tanks, in order "
+"to navigate to the required depth. There is a close gate on the right. Catch "
+"the jewel to open it, then pass through it to reach the next level."
+msgstr ""
+"Klõpsa erinevate juhtimisseadmete peal et navigeerida ettenähtud sügavuses:"
+"mootor, tüürid, õhupaagid. Paremal on värav. Värava avanemiseks püüa kinni "
+"juveelid, siis mine väravast läbi ja saad järgmisele tasemele."
+
+msgid "Learn how a submarine works"
+msgstr "Õpi kuidas allveelaev töötab"
+
+msgid "Physics basics"
+msgstr "Algteadmised füüsikast"
+
+msgid "Pilot a submarine"
+msgstr "Juhi allveelaeva"
+
+msgid "Pilot a submarine using air tanks and dive rudders"
+msgstr "Juhi allveelaeva õhupaakide ja tüüride abil"
+
+msgid "Completing the puzzle requires patience and logical ability"
+msgstr "Pusle kokkupanemine nõuab kannatust ja loogilist mõtlemist"
+
+msgid ""
+"For the first level with colored symbols, select a symbol on the left and "
+"click on its target position. For the higher levels, click on an empty "
+"square to give it the keyboard focus. Then enter a possible letter or "
+"number. GCompris will not let you enter invalid data."
+msgstr ""
+"Esimesel tasemel on värvilised sümbolid, tõmba sümbolid vasakul nende "
+"sihtkohta. Kõrgematel tasemetel klõpsa klaviatuurilt sümboli sisestamiseks "
+"tühjal ruudul. Siis sisesta võimalik täht või number. Vigaseid andmeid ei "
+"luba GCompris sul sisestada."
+
+msgid "Sudoku, place unique symbols in a square."
+msgstr "Sudoko, aseta ainulaadsed sümbolid ruutu."
+
+msgid ""
+"Symbols must be unique in a row, in a column, and (if defined) each region."
+msgstr ""
+"Sümbolid peavad olema ainulaadsed samal real, samas veerus ja (kui öeldud) "
+"igal alal."
+
+msgid ""
+"The aim of the puzzle is to enter a symbol or numeral from 1 through 9 in "
+"each cell of a grid, most frequently a 9x9 grid made up of 3x3 subgrids "
+"(called 'regions'), starting with various symbols or numerals given in some "
+"cells (the 'givens'). Each row, column and region must contain only one "
+"instance of each symbol or numeral (Source &lt;http://en.wikipedia.org/wiki/"
+"Sudoku&gt;)."
+msgstr ""
+"Pusle mõte on ruudustiku igasse ruutu sümboli või numbri 1 kuni 9 "
+"sisestamine. Enamasti on ruudustik 9x9 ruutu mis on tehtud 3x3 "
+"alamruudutikust ( nimetatakse 'regiooniks'). Alustuseks on mõned tähed või "
+"numbrid kusagil ruudustikus ette antud. Üheski reas, veerus ega regioonis ei "
+"tohi ükski number või sümbol korduda (Allikas &lt;http://et.wikipedia.org/"
+"wiki/Sudoku&gt;)."
+
+msgid "Super Brain"
+msgstr "Mõttemeister"
+
+msgid "Tux has hidden several items. Find them again in the correct order"
+msgstr "Tux mõtles välja värvikombinatsiooni. Püüa see ära arvata."
+
+msgid "This item is well placed"
+msgstr "See ese on valesti paigutatud"
+
+msgid "This item is misplaced"
+msgstr "See ese on valesti paigutatud"
+
+msgid "One item is well placed"
+msgstr "Üks ese on õigesti paigutatud"
+
+msgid "One item is misplaced"
+msgstr "Üks ese on valesti paigutatud"
+
+msgid ""
+"Click on the items until you find what you think is the correct answer. "
+"Then, click on the OK button in the control bar. In the lower levels, Tux "
+"gives you an indication if you found a hiding place by marking the item with "
+"a black box. You can use the right mouse button to flip the colors in the "
+"opposite order."
+msgstr ""
+"Sina pead jälile jõudma, millise värvikombinatsiooni Tux välja mõtles. "
+"Selleks täida horisontaalses reas värvikombinatsioon. Enter klahvi vajutades "
+"kontrollib Tux sinu kombinatsiooni õigsust. Kui sinu pakutud värv on olemas, "
+"aga real vales kohas, märgib ta seda valge täpiga. Kui sinu pakutud varv on "
+"olemas ja ka õige koha peal, märgib Tux selle musta täpiga. Niimoodi "
+"võrreldes sinu värve ja Tuxi vastuseid jõuad ridahaaval tõele lähemale. "
+"Alates tasemest 4 Tux sulle enam mängulaual täpselt õigeid nuppe kätte ei "
+"näita. Pead need ise katseeksitusmeetodil leidma."
+
+msgid ""
+"From Wikipedia, the free encyclopedia. Tangram (Chinese: literally \"seven "
+"boards of cunning\") is a Chinese puzzle. While the tangram is often said to "
+"be ancient, its existence has only been verified as far back as 1800. It "
+"consists of 7 pieces, called tans, which fit together to form a square; "
+"taking the square as the unit:\n"
+"\t* 5 right isosceles triangles\n"
+"\t\to 2 small (legs of 1)\n"
+"\t\to 1 medium size (legs of square root of 2)\n"
+"\t\to 2 large size (legs of 2)\n"
+"\t* 1 square (side of 1)\n"
+"\t* 1 parallelogram (sides of 1 and square root of 2)"
+msgstr ""
+
+msgid ""
+"Select the tangram to form. Move a piece by dragging it. Right-click on it "
+"to create a symmetrical item. Select an item and drag around it to show the "
+"rotation you want. Once you've shown what shape you want, the computer will "
+"create it. If you need help, click on the shape button, and the border of "
+"the shape will be drawn."
+msgstr ""
+
+msgid "The objective is to form a given shape with seven pieces"
+msgstr "Eesmärk on vormida etteantud kujutis seitsme tükiga"
+
+msgid ""
+"The original code was written by Philippe Banwarth in 1999. It was ported to "
+"GCompris by Yves Combe in 2005."
+msgstr ""
+"Originaalkoodi kirjutas Philippe Banwarth 1999 aastal. 2005 aastal portis "
+"Yves Combe selle programmi GCompris."
+
+msgid "The tangram puzzle game"
+msgstr "Tangrami mosaiik"
+
+#. Set the maximum text to calc the background
+#. Set the correct initial text
+#, c-format
+msgid "Points = %s"
+msgstr "Punkte = %s"
+
+#, c-format
+msgid ""
+"Wind speed = %d\n"
+"kilometers/hour"
+msgstr ""
+"Tuule kiirus = %d\n"
+"km/h"
+
+#, fuzzy, c-format
+msgid "Distance to target = %d meter"
+msgid_plural "Distance to target = %d meters"
+msgstr[0] "Sihtmärgini = %d meetrit"
+msgstr[1] "Sihtmärgini = %d meetrit"
+
+msgid ""
+"Can move the mouse, can read numbers and count up to 15 for the first level"
+msgstr ""
+"Hiire liigutamine, numbrite lugemine ja arvutamine kuni 15-ni esimese tasemes"
+
+msgid ""
+"Check the wind speed and direction, and then click on the target to launch a "
+"dart. When you all your darts are thrown, a window appears asking you to "
+"count your score. Enter the score with the keyboard then press the Enter key "
+"or the OK button."
+msgstr ""
+"Kontrolli tuule suunda ja kiirust. Siis klõpsa märklaua peal, et nool "
+"märklauda lasta. Kui oled kõik nooled ära lasknud, tekib aken mis palub sul "
+"punktisumma kokku lugeda. Sisesta puntisumma kasutades klaviatuuri ja vajuta "
+"Enter klahvi või OK nuppu."
+
+msgid "Hit the target and count your points"
+msgstr "Lase märki ja arvuta punktid kokku"
+
+msgid "Practice addition with a target game"
+msgstr "Harjuta märkilaskmise abil liitmist"
+
+msgid "Throw darts at a target and count your score."
+msgstr "Lase märki ja arvuta enda punktisumma."
+
+msgid "A sliding-block puzzle game"
+msgstr "Nihkuvate klotsidega puslemäng"
+
+msgid ""
+"Each car can only move either horizontally or vertically. You must make some "
+"room in order to let the red car move through the gate on the right."
+msgstr ""
+"Iga auto saab liikuda ainult horisontaalselt või vertikaalselt. Pead tegema "
+"veidi ruumi, et punane auto saaks paremalt väravast välja sõita."
+
+msgid "Remove the red car from the parking lot through the gate on the right"
+msgstr "Eemalda punane auto parklast paremal pool asuva värava kaudu"
+
+msgid ""
+"Cannot find Tuxpaint.\n"
+"Install it to use this activity !"
+msgstr ""
+"Ei leidnud programmi Tuxpaint.\n"
+"Enne kui saad seda mängulauda kasutada, installeri Tuxpaint!"
+
+msgid "Waiting for Tuxpaint to finish"
+msgstr "Ootan Tuxpainti lõpetamist"
+
+msgid "Inherit fullscreen setting from GCompris"
+msgstr "Päri täisekraani seadeid GCompriselt"
+
+msgid "Inherit size setting from GCompris (800x600, 640x480)"
+msgstr "Päri suuruse seaded GCompriselt (800x600, 640x480)"
+
+msgid "Disable shape rotation"
+msgstr "Keela kujundi pööramine"
+
+msgid "Show Uppercase text only"
+msgstr "Näita ainult suuri tähti"
+
+msgid "Disable stamps"
+msgstr "Keela templid"
+
+msgid "Drawing activity (pixmap)"
+msgstr "Joonistamisharjutus (pixmap)"
+
+msgid "Launch Tuxpaint"
+msgstr "Käivita Tuxpaint"
+
+msgid "Tuxpaint"
+msgstr "Tuxpaint"
+
+msgid "Use Tuxpaint to draw. When Tuxpaint is finished this board will end."
+msgstr ""
+"Tuxpainti kasuta joonistamiseks. Kui Tuxpaint on oma töö lõpetanud, sulgub "
+"ka see töölaud."
+
+msgid "mouse and keyboard manipulation"
+msgstr "hiire ja klaviatuuri kasutamine"
+
+msgid "This is a water pump station."
+msgstr "See on pumbajaam."
+
+msgid "This is a water cleanup station."
+msgstr "See on vee puhastamise jaam."
+
+msgid ""
+"A water tower or elevated water tower is a large elevated water storage "
+"container constructed to hold a water supply at a height sufficient to "
+"pressurize a water distribution system."
+msgstr ""
+"Veetorn või kõrge veetorn on suur mahuti vee säilitamiseks piisavalt kõrgel, "
+"et veejaotusvõrgus oleks piisavalt suur veesurve."
+
+msgid ""
+"Click on different active elements : sun, cloud, water pump station, and "
+"water cleanup station, in order to reactivate the entire water system. When "
+"the system is back up and Tux is in the shower, push the shower button for "
+"him."
+msgstr ""
+"Klõpsa kõigil neil elementidel - päike, pilv, pumbajaam, veepuhastusjaam - "
+"et aktiveerida veesüsteem. Kui vesi Tuxi koduni jõuab ja Tux dušši alla "
+"läheb, vajuta duššikraani avamiseks duššinuppu."
+
+msgid "Learn about the water cycle"
+msgstr "Veeringluse õppimine"
+
+msgid "Learn the water cycle"
+msgstr "Õpi veeringlust"
+
+msgid ""
+"Tux has come back from a long fishing party on his boat. Bring the water "
+"system back up so he can take a shower."
+msgstr ""
+"Tux tuli kõvemalt kalapüügivõistluselt tagasi. Aita tal vesi sisse saada et "
+"ta dušši alla saaks minna."
+
+msgid "Research"
+msgstr "Uurimistöö"
+
+msgid "Sentimental"
+msgstr "Härdameelne"
+
+msgid "Official"
+msgstr "Ametlik"
+
+msgid "Flyer"
+msgstr "Lendleht"
+
+msgid "Title"
+msgstr "Pealkiri"
+
+msgid "Heading 1"
+msgstr "Pealkiri 1"
+
+msgid "Heading 2"
+msgstr "Pealkiri 2"
+
+msgid "A simple word processor to enter and save any text"
+msgstr "Lihtne tekstiredaktor teksti sisestamiseks ja salvestamiseks"
+
+msgid ""
+"In this wordprocessor you can type the text you want, save and get it back "
+"later. You can add some style to your text by using the buttons on the left. "
+"The first 4 buttons let you select the style of the line on which your "
+"insert cursor is. The 2 others buttons with multiple choices let you select "
+"from a predefined document and color theme."
+msgstr ""
+
+msgid ""
+"Learn how to enter text in a wordprocessor. This wordprocessor is special in "
+"that it enforces the use of styles. This way, the children will understand "
+"their benefit when moving to more feature full wordprocessor like OpenOffice."
+"org."
+msgstr ""
+
+msgid "The children can type their own text or copy one given by the teacher."
+msgstr ""
+"Lapsed saavad trükkida enda teksti või teksti mille õpetaja on neile ette "
+"andnud."
+
+msgid "Your word processor"
+msgstr "Sinu tekstiredaktor"
+
+msgid "Falling Words"
+msgstr "Langevad sõnad"
+
+msgid "Type the falling words before they reach the ground"
+msgstr "Sisesta kukkuvad sõnad enne kui need maad puudutavad"
+
+msgid "Keyboard training"
+msgstr "Klaviatuuri harjutamine"
+
+msgid "Type the complete word as it falls, before it reachs the ground"
+msgstr "Sisesta kukkuv sõna enne kui see maad puudutab"

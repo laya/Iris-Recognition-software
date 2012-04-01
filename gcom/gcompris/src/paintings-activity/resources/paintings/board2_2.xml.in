@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShapeGame><!-- Created with GComprisShapegame gimp script -->
+  <title color_skin="gcompris/text button" justification="GTK_JUSTIFY_CENTER" x="405" y="495" color_background_skin="gcompris/shadow">
+    <_name>Giovanni Bellini, La Pala di Pesaro - 1475-85</_name>
+  </title>
+  <shape name="A1" pixmapfile="paintings/PalaDiPesaro_a1.png" position="0" x="178.5" y="140.5"/>
+  <shape name="B1" pixmapfile="paintings/PalaDiPesaro_b1.png" position="0" x="378.0" y="140.5"/>
+  <shape name="C1" pixmapfile="paintings/PalaDiPesaro_c1.png" position="0" x="599.5" y="140.5"/>
+  <shape name="A2" pixmapfile="paintings/PalaDiPesaro_a2.png" position="0" x="202.0" y="248.5"/>
+  <shape name="B2" pixmapfile="paintings/PalaDiPesaro_b2.png" position="0" x="424.5" y="261.0"/>
+  <shape name="C2" pixmapfile="paintings/PalaDiPesaro_c2.png" position="0" x="622.5" y="248.5"/>
+  <shape name="A3" pixmapfile="paintings/PalaDiPesaro_a3.png" position="0" x="178.5" y="367.5"/>
+  <shape name="B3" pixmapfile="paintings/PalaDiPesaro_b3.png" position="0" x="401.5" y="379.0"/>
+  <shape name="C3" pixmapfile="paintings/PalaDiPesaro_c3.png" position="0" x="622.5" y="367.5"/>
+</ShapeGame>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="reading"
+	 type="menu"
+	 section="/"
+	 icon="book.svg"
+	 author="">
+	 <_title>Go to the Reading activities</_title>
+	 <_description>Reading activities.</_description>
+  </Board>
+</GCompris>

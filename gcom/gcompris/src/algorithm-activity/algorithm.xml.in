@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="algorithm"
+	 type="python:algorithm"
+	 section="/discovery/miscelaneous"
+	 difficulty="2"
+	 icon="algorithm.svg"
+	 author="Christof Petig and Ingo Konrad"
+	 boarddir="algorithm"
+	 demo="1">
+	 <_title>algorithm</_title>
+	 <_description>Complete a list of symbols</_description>
+	<_prerequisite>Move and click the mouse</_prerequisite>
+	<_goal>Logic training activity</_goal>
+	<_manual>Find the next symbol in a list.</_manual>
+  </Board>
+</GCompris>

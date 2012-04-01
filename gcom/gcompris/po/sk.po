@@ -1,0 +1,5674 @@
+# translation of sk3.po to Slovak
+# Slovak translation of gcompris.HEAD.pot
+# Copyright (C) 1999,2003, 2006 Free Software Foundation, Inc.
+#
+# Zdenko Podobný <zdpo@mailbox.sk>, 2003.
+# Marek Nagy <mnagy@ii.fmph.uniba.sk>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: sk3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-12-21 12:09+0100\n"
+"PO-Revision-Date: 2006-12-31 20:07+0100\n"
+"Last-Translator: Marek Nagy <mnagy@ii.fmph.uniba.sk>\n"
+"Language-Team: Slovak\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: ../boards/administration.xml.in.h:1
+msgid ""
+"- In the 'Boards' section you can change the list of activities. Just "
+"untoggle them in the treeview. You can change the language used for reading, "
+"for example, then the language used for saying the names of colors.\n"
+"- You can save multiple configurations, and switch between them easily. In "
+"the 'Profile' section add a profile, then in the 'Board' section select the "
+"profile in the combobox, then select the boards you want to be active. You "
+"can add multiple profiles, with different lists of boards, and different "
+"languages. You set the default profile in the 'Profile' section, by choosing "
+"the profile you want, then clicking on the 'Default' button. You can also "
+"choose a profile from the command line.\n"
+"- You can add users, classes and for each class, you can create groups of "
+"users. Note that you can import users from a comma-separated file. Assign "
+"one or more groups to a profile, after which those new logins will appear "
+"after restarting GCompris. Being able to identify individual children in "
+"GCompris means we can provide individual reports. It also recognizes the "
+"children as individuals; they can learn to type in and recognize their own "
+"usernames (login is configurable)."
+msgstr ""
+"- V sekcii 'Boards' môžte zmeniť zoznam aktivít. Stačí ich iba odškrtnúť v stromovom prehľade. Tiež môžte napríklad zmeniť jazyk použitý pri čítaní a jazyk pre mená farieb.\n"
+"- Môžte si vytvorť viacero konfigurácií a jednoducho medzi nimi prepínať. V sekcii 'Profil' pridajte nový profil, potom v sekcii 'Board' vyberte daný profil vo výberovej ponuke. Môžte vytvoriť viacero profilov z rozličnými aktivitami a rozličnými jazykmi. Štandardný profil nastavíte v sekcii 'Profil' tak, že vyberiete ten, ktorý chcete a kliknete na tlačítko 'Štandardný'. Profil je možné zvoliť aj z príkazového riadka.\n"
+"- Môžte si vytvárať užívateľov (žiakov), triedy a pre každú triedu aj skupiny užívateľov. Pripomíname, že zoznam žiakov oddeľovaný čiarkami možno priamo načítať zo súboru. Priradením jednej alebo viacerých skupín ku profilu zoprazí (po reštarte GComprisu) prihlasovacie mená. To že sú identifikované v GComprise jednotlivé deti umožňuje generovať o nich individuálne správy. Deti sa učia manipulovať (písať a rozpoznávať) ich vlastné užívateľské mená. (Prihlasovanie je voliteľné.)"
+
+#: ../boards/administration.xml.in.h:4
+msgid "GCompris Administration Menu"
+msgstr "Administračná ponuka GComprisu"
+
+#: ../boards/administration.xml.in.h:5
+msgid ""
+"If you want to fine tune GCompris to your needs, you can use the "
+"administration module here. The ultimate goal is to provide child-specific "
+"reporting for parents and teacher who want to monitor the progress, "
+"strengths and needs of their children."
+msgstr ""
+"Prispôsobenie GComprisu vaším požiadavkám je realizované administračným "
+"modulom. Cieľom modulu je poskytnúť špecifické správy o dieťati.Rodičia a "
+"učiteľ môžu sledovať pokroky, silné a slabé stránky svojich detí."
+
+#: ../boards/administration.xml.in.h:6
+msgid "Left-Click with the mouse to select an activity"
+msgstr "Kliknutím ľavého tlačítka myši vyber aktivitu"
+
+#: ../boards/advanced_colors.xml.in.h:1
+msgid "Advanced colors"
+msgstr "Zložitejšie farby"
+
+#: ../boards/advanced_colors.xml.in.h:2 ../boards/read_colors.xml.in.h:1
+msgid "Can read"
+msgstr "Vedieť čítať"
+
+#: ../boards/advanced_colors.xml.in.h:3
+msgid "Click on the correct color"
+msgstr "Klikni na správnu farbu"
+
+#: ../boards/advanced_colors.xml.in.h:4
+msgid "Click on the correct colored box."
+msgstr "Klikni na správne zafarbenú krabicu."
+
+#: ../boards/advanced_colors.xml.in.h:5
+msgid "Learn to recognize unusual colors."
+msgstr "Naučiť sa rozpoznávať nezvyčajné farby."
+
+#: ../boards/advanced_colors/board1.xml.in.h:1
+msgid "almond"
+msgstr "mandľová"
+
+#: ../boards/advanced_colors/board1.xml.in.h:2
+msgid "chestnut"
+msgstr "gaštanová"
+
+#: ../boards/advanced_colors/board1.xml.in.h:3
+msgid "claret"
+msgstr "bordová"
+
+#: ../boards/advanced_colors/board1.xml.in.h:4
+msgid "cobalt"
+msgstr "kobaltová"
+
+#: ../boards/advanced_colors/board1.xml.in.h:5
+msgid "coral"
+msgstr "koralová"
+
+#: ../boards/advanced_colors/board1.xml.in.h:6
+msgid "corn"
+msgstr "kukuričná"
+
+#: ../boards/advanced_colors/board1.xml.in.h:7
+msgid "cyan"
+msgstr "zelenomodrá"
+
+#: ../boards/advanced_colors/board1.xml.in.h:8
+msgid "sienna"
+msgstr "sienska hneď"
+
+#: ../boards/advanced_colors/board2.xml.in.h:1
+msgid "lime"
+msgstr "citrusová"
+
+#: ../boards/advanced_colors/board2.xml.in.h:2
+msgid "sage"
+msgstr "šalviová"
+
+#: ../boards/advanced_colors/board2.xml.in.h:3
+msgid "salmon"
+msgstr "lososová"
+
+#: ../boards/advanced_colors/board2.xml.in.h:4
+msgid "sapphire"
+msgstr "zafírová"
+
+#: ../boards/advanced_colors/board2.xml.in.h:5
+msgid "sepia"
+msgstr "sépiovo hnedá"
+
+#: ../boards/advanced_colors/board2.xml.in.h:6
+msgid "sulphur"
+msgstr "sírová"
+
+#: ../boards/advanced_colors/board2.xml.in.h:7
+msgid "tea"
+msgstr "čajová"
+
+#: ../boards/advanced_colors/board2.xml.in.h:8
+msgid "turquoise"
+msgstr "tyrkysová"
+
+#: ../boards/advanced_colors/board3.xml.in.h:1
+msgid "absinthe"
+msgstr "absintová"
+
+#: ../boards/advanced_colors/board3.xml.in.h:2
+msgid "alabaster"
+msgstr "alabastrová"
+
+#: ../boards/advanced_colors/board3.xml.in.h:3
+msgid "amber"
+msgstr "jantárová"
+
+#: ../boards/advanced_colors/board3.xml.in.h:4
+msgid "amethyst"
+msgstr "ametystová"
+
+#: ../boards/advanced_colors/board3.xml.in.h:5
+msgid "anise"
+msgstr "anízová"
+
+#: ../boards/advanced_colors/board3.xml.in.h:6
+msgid "aquamarine"
+msgstr "akvamarínová"
+
+#: ../boards/advanced_colors/board3.xml.in.h:7
+msgid "mahogany"
+msgstr "mahagónová"
+
+#: ../boards/advanced_colors/board3.xml.in.h:8
+#: ../boards/advanced_colors/board8.xml.in.h:8
+msgid "vermilion"
+msgstr "rumelková"
+
+#: ../boards/advanced_colors/board4.xml.in.h:1
+#: ../boards/advanced_colors/board5.xml.in.h:1
+msgid "aubergine"
+msgstr "baklažánová"
+
+#: ../boards/advanced_colors/board4.xml.in.h:2
+msgid "ceruse"
+msgstr "bieloba"
+
+#: ../boards/advanced_colors/board4.xml.in.h:3
+msgid "chartreuse"
+msgstr "kartúzová"
+
+#: ../boards/advanced_colors/board4.xml.in.h:4
+msgid "emerald"
+msgstr "smaragdová"
+
+#: ../boards/advanced_colors/board4.xml.in.h:5
+msgid "fawn"
+msgstr "srňačia"
+
+#: ../boards/advanced_colors/board4.xml.in.h:6
+msgid "fuchsia"
+msgstr "fuksínová"
+
+#: ../boards/advanced_colors/board4.xml.in.h:7
+msgid "glaucous"
+msgstr "šedozelená"
+
+#: ../boards/advanced_colors/board4.xml.in.h:8
+msgid "ruby"
+msgstr "rubínová"
+
+#: ../boards/advanced_colors/board5.xml.in.h:2
+msgid "auburn"
+msgstr "zlatohnedá"
+
+#: ../boards/advanced_colors/board5.xml.in.h:3
+msgid "azure"
+msgstr "azúrová"
+
+#: ../boards/advanced_colors/board5.xml.in.h:4
+msgid "bistre"
+msgstr "tmavohnedá"
+
+#: ../boards/advanced_colors/board5.xml.in.h:5
+msgid "celadon"
+msgstr "sivozelená"
+
+#: ../boards/advanced_colors/board5.xml.in.h:6
+msgid "cerulean"
+msgstr "blankytná"
+
+#: ../boards/advanced_colors/board5.xml.in.h:7
+msgid "crimson"
+msgstr "karmínová"
+
+#: ../boards/advanced_colors/board5.xml.in.h:8
+msgid "greyish-brown"
+msgstr "šedohnedá"
+
+#: ../boards/advanced_colors/board6.xml.in.h:1
+msgid "dove"
+msgstr "holúbäcia"
+
+#: ../boards/advanced_colors/board6.xml.in.h:2
+msgid "garnet"
+msgstr "granátový"
+
+#: ../boards/advanced_colors/board6.xml.in.h:3
+msgid "indigo"
+msgstr "indigová"
+
+#: ../boards/advanced_colors/board6.xml.in.h:4
+msgid "ivory"
+msgstr "slonovina"
+
+#: ../boards/advanced_colors/board6.xml.in.h:5
+msgid "jade"
+msgstr "nefritová"
+
+#: ../boards/advanced_colors/board6.xml.in.h:6
+msgid "lavender"
+msgstr "levanduľová"
+
+#: ../boards/advanced_colors/board6.xml.in.h:7
+msgid "lichen"
+msgstr "lišajníková"
+
+#: ../boards/advanced_colors/board6.xml.in.h:8
+msgid "wine"
+msgstr "vínová"
+
+#: ../boards/advanced_colors/board7.xml.in.h:1
+msgid "larch"
+msgstr "smreková"
+
+#: ../boards/advanced_colors/board7.xml.in.h:2
+msgid "lilac"
+msgstr "lilavá"
+
+#: ../boards/advanced_colors/board7.xml.in.h:3
+msgid "magenta"
+msgstr "purpurová"
+
+#: ../boards/advanced_colors/board7.xml.in.h:4
+msgid "malachite"
+msgstr "malachitová"
+
+#: ../boards/advanced_colors/board7.xml.in.h:5
+msgid "mimosa"
+msgstr "mimózová"
+
+#: ../boards/advanced_colors/board7.xml.in.h:6
+msgid "navy"
+msgstr "námornícka modrá"
+
+#: ../boards/advanced_colors/board7.xml.in.h:7
+msgid "ochre"
+msgstr "okrová"
+
+#: ../boards/advanced_colors/board7.xml.in.h:8
+msgid "olive"
+msgstr "olivová"
+
+#: ../boards/advanced_colors/board8.xml.in.h:1
+msgid "greyish blue"
+msgstr "šedomodrá"
+
+#: ../boards/advanced_colors/board8.xml.in.h:2
+msgid "mauve"
+msgstr "svetlo fialová"
+
+#: ../boards/advanced_colors/board8.xml.in.h:3
+msgid "opaline"
+msgstr "opálová"
+
+#: ../boards/advanced_colors/board8.xml.in.h:4
+msgid "pistachio"
+msgstr "pistáciová"
+
+#: ../boards/advanced_colors/board8.xml.in.h:5
+msgid "platinum"
+msgstr "platinová"
+
+#: ../boards/advanced_colors/board8.xml.in.h:6
+msgid "purple"
+msgstr "purpurová"
+
+#: ../boards/advanced_colors/board8.xml.in.h:7
+msgid "ultramarine"
+msgstr "ultramarínová"
+
+#: ../boards/advanced_colors/board9.xml.in.h:1
+msgid "dark purple"
+msgstr "tmavo purpurová"
+
+#: ../boards/advanced_colors/board9.xml.in.h:2
+msgid "plum"
+msgstr "slivková"
+
+#: ../boards/advanced_colors/board9.xml.in.h:3
+msgid "prussian blue"
+msgstr "pruská modrá"
+
+#: ../boards/advanced_colors/board9.xml.in.h:4
+msgid "rust"
+msgstr "hrdzavá"
+
+#: ../boards/advanced_colors/board9.xml.in.h:5
+msgid "saffron"
+msgstr "šafránová"
+
+#: ../boards/advanced_colors/board9.xml.in.h:6
+msgid "vanilla"
+msgstr "vanilková"
+
+#: ../boards/advanced_colors/board9.xml.in.h:7
+msgid "verdigris"
+msgstr "medená"
+
+#: ../boards/advanced_colors/board9.xml.in.h:8
+msgid "veronese"
+msgstr "verónska"
+
+#: ../boards/algebra_by.xml.in.h:1
+msgid ""
+"A multiplication of two numbers is displayed. At the right of the equals "
+"sign, give the answer, the product. Use the left and right arrows to modify "
+"your answer and press the Enter key to check if you've got it right. If not, "
+"just try again."
+msgstr ""
+"Zobrazí sa násobenie dvoch čísiel. Na pravej strane rovnice zadaj odpoveď - "
+"súčin. Odpoveď môžeš ešte upraviť pomocou ľavej a pravej šípky alebo "
+"potvrdiť klávesom Enter a zistiť či je odpoveď správna. Ak nie skús znovu."
+
+#: ../boards/algebra_by.xml.in.h:2 ../boards/algebra_minus.xml.in.h:2
+#: ../boards/algebra_plus.xml.in.h:2
+msgid "Answer some algebra questions"
+msgstr "Vyrieš niekoľko otázok z algebry"
+
+#: ../boards/algebra_by.xml.in.h:3
+msgid "In a limited time, give the product of two numbers"
+msgstr "V časovom limite zadaj výsledok násobenia dvoch čísiel"
+
+#: ../boards/algebra_by.xml.in.h:4
+msgid "Multiplication table"
+msgstr "Násobilka"
+
+#: ../boards/algebra_by.xml.in.h:5
+msgid "Practice the multiplication operation"
+msgstr "Precvičovanie násobilky"
+
+#: ../boards/algebra_group.xml.in.h:1
+msgid "Go to Algebra activities"
+msgstr "Prejsť na algebrické aktivity"
+
+#: ../boards/algebra_group.xml.in.h:2 ../boards/menu.xml.in.h:17
+msgid "Left-click the mouse on an activity to select it."
+msgstr "Klikni ľavým tlačítkom myši a vyber si aktivitu."
+
+#: ../boards/algebra_guesscount.xml.in.h:1 ../boards/erase_clic.xml.in.h:1
+#: ../boards/erase_double_clic.xml.in.h:1
+msgid ""
+"Animal pictures come from the Animal Photography Page of Ralf Schmode "
+"(http://schmode.net/). Ralf has kindly permitted Gcompris to include his "
+"pictures. Thanks a lot, Ralf."
+msgstr ""
+"Obrázky zvierat sú prevzaté zo stránky fotografií zvierat Ralfa Schmodea "
+"(http://schmode.net/). Ralf autorizoval použitie svojich obrázkov v "
+"GComprise. Veľká vďaka Ralf."
+
+#: ../boards/algebra_guesscount.xml.in.h:2
+msgid ""
+"At the top of the board area, choose the numbers and arithmetic operators "
+"that give the specified result. You can deselect a number or operator by "
+"clicking on it again."
+msgstr ""
+"Z hornej časti vyber čísla a aritmetickú operáciu tak, aby si dosiahol "
+"uvedený výsledok. Nesprávnu voľbu môžeš zrušiť opätovným kliknutím na číslo "
+"alebo operáciu."
+
+#: ../boards/algebra_guesscount.xml.in.h:3
+msgid ""
+"Deploy a strategy to arrange a set of arithmetic operations to match a given "
+"value."
+msgstr ""
+"Vymysli stratégiu ako usporiadať sadu aritmetických operácií, aby zodpovedal "
+"výsledok."
+
+#: ../boards/algebra_guesscount.xml.in.h:4
+msgid "Find the series of correct operations that matches the given answer"
+msgstr "Nájdi správnu postupnosť operácií, aby zodpovedal daný výsledok."
+
+#: ../boards/algebra_guesscount.xml.in.h:5
+msgid "The four arithmetic operations. Combine several arithmetic operations."
+msgstr "Štyri aritmetické operácie. Kombinácia niekoľkých aritmetických operácií"
+
+#: ../boards/algebra_guesscount.xml.in.h:6
+msgid ""
+"Work out the right combination of numbers and operations to match the given "
+"value"
+msgstr "Vymysli správnu kombináciu čísiel a operátorov, aby zodpovedal daný výsledok."
+
+#: ../boards/algebra_minus.xml.in.h:1
+msgid ""
+"A subtraction problem with two numbers is displayed. At the right of the "
+"equals sign, give the answer, the difference. Use the left and right arrows "
+"to modify your answer and press the Enter key to check if you've got it "
+"right. If not, just try again."
+msgstr ""
+"Zobrazí sa odčítanie dvoch čísiel. Na pravej strane rovnice zadaj odpoveď - "
+"rozdiel. Odpoveď môžeš ešte upraviť pomocou ľavej a pravej šípky alebo "
+"potvrdiť klávesom Enter a zistiť či je odpoveď správna. Ak nie skús znovu."
+
+#: ../boards/algebra_minus.xml.in.h:3
+msgid "In a limited time, find the difference between two numbers"
+msgstr "V časovom limite zisti výsledok odčítania dvoch čísiel"
+
+#: ../boards/algebra_minus.xml.in.h:4
+msgid "Practice the subtraction operation"
+msgstr "Precvičovanie odčítania"
+
+#: ../boards/algebra_minus.xml.in.h:5
+msgid "Simple subtraction"
+msgstr "Jednoduché odčítanie"
+
+#: ../boards/algebra_plus.xml.in.h:1
+msgid ""
+"An addition problem with two numbers is displayed. At the right of the "
+"equals sign, give the answer, the sum. Use the left and right arrows to "
+"modify your answer and press the Enter key to check if you've got it right. "
+"If not, just try again."
+msgstr ""
+"Zobrazí sa sčítanie dvoch čísiel. Na pravej strane rovnice zadaj odpoveď - "
+"súčet. Odpoveď môžeš ešte upraviť pomocou ľavej a pravej šípky alebo "
+"potvrdiť klávesom Enter a zistiť či je odpoveď správna. Ak nie skús znovu."
+
+#: ../boards/algebra_plus.xml.in.h:3
+msgid ""
+"In a limited time, find the sum of of two numbers. Introduction to simple in-"
+"line addition."
+msgstr "V časovom limite zisti súčet dvoch čísiel. Úvod do jednoduchého sčítania."
+
+#: ../boards/algebra_plus.xml.in.h:4
+msgid "Practice the addition operation"
+msgstr "Precvičovanie sčítania"
+
+#: ../boards/algebra_plus.xml.in.h:5
+msgid "Simple addition. Can recognize written numbers"
+msgstr "Jednoduché sčítanie. Vedieť rozpoznať písané čísla."
+
+#: ../boards/algebramenu.xml.in.h:1
+msgid "Go to calculation activities"
+msgstr "Prejsť na aktivity s počítaním"
+
+#: ../boards/algebramenu.xml.in.h:2
+msgid "Various calculation activities."
+msgstr "Rozličné počítacie aktivity"
+
+#: ../boards/algorithm.xml.in.h:1
+msgid "Complete a list of symbols"
+msgstr "Doplň postupnosť symbolov"
+
+#: ../boards/algorithm.xml.in.h:2
+msgid "Find the next symbol in a list."
+msgstr "Nájdi nalsedujúci symbol postupnosti."
+
+#: ../boards/algorithm.xml.in.h:3
+msgid "Logic training activity"
+msgstr "Aktivita na precvičenie logiky"
+
+#: ../boards/algorithm.xml.in.h:4 ../boards/hexagon.xml.in.h:3
+#: ../boards/melody.xml.in.h:4
+msgid "Move and click the mouse"
+msgstr "Pohybuj a klikaj myšou."
+
+#: ../boards/algorithm.xml.in.h:5
+msgid "algorithm"
+msgstr "Algoritmus"
+
+#: ../boards/anim.xml.in.h:1
+msgid "Create a drawing or an animation"
+msgstr "Vytvor kresbu alebo animáciu"
+
+#: ../boards/anim.xml.in.h:2
+msgid "Free drawing and animation tool."
+msgstr "Nástroj na voľné kreslenie a animovanie."
+
+#: ../boards/anim.xml.in.h:3
+msgid ""
+"In this game, children can draw freely. The goal is to discover how to "
+"create attractive drawings based on basic shapes: rectangles, ellipses and "
+"lines. To give children a wider range of choices, a set of images can also "
+"be used."
+msgstr ""
+"V tejto hre deti môžu voľne kresliť. Cieľom je, aby objavili, ako vytvoriť "
+"pekné kresby pomocou základných tvarov: pravouholníkov, elíps a čiar. Deti "
+"môžu využiť širšiu ponuku možností sady obrázkov."
+
+#: ../boards/anim.xml.in.h:4 ../boards/draw.xml.in.h:4
+msgid "Needs to be capable of moving and clicking the mouse easily"
+msgstr "Byť schopný s ľahkosťou pohybovať a klikať myšou"
+
+#: ../boards/anim.xml.in.h:5
+msgid ""
+"Select a drawing tool on the left, and a color down the bottom. Then click "
+"and drag in the white area to create a new shape. Once you've completed a "
+"drawing, you can take a snapshot of it with the 'camera' button. This "
+"creates a new image with the same content, a copy of your image. You can "
+"then edit it by moving objects a little bit or adding/deleting objects. When "
+"you create several drawings and then click on the 'film' button, you will "
+"see all your images in a continuous slide-show (an infinite loop pattern). "
+"You can also change the viewing speed in this mode. In viewing mode, click "
+"on the 'drawing' button to return to drawing mode. You can then edit each "
+"image in your animation, by using the image selector in the bottom-left "
+"corner of the screen. You can also save and reload your animations with the "
+"'floppy disk' and 'folder' buttons."
+msgstr ""
+"Vyber si kresliaci nástroj v ľavo a patričnú farbu dole na spodku.Potom "
+"kliknutím a ťahaním na bielom papieri vytvor požadovaný tvar.Keď máš hotovú "
+"kresbu, urob si jeho fotku tlačidlom 'foťák'. Vytvoríš si tak kópiu obrázku. "
+"Teraz môžeš kresbu trochu zmeniť, alebo pridať/odobrať objekt. Keď máš už "
+"vytvorenú postupnosť nafotených obrázkov, môžeš kliknúť na tlačítko 'film/"
+"klapka' a pozrieť si ich súslednosť (v nekonečne opakujúcom sa cykle). Tiež "
+"môžeš zmeniť rýchlosť a kliknutím na tlačítko 'palety' sa vrátiš späť do "
+"kresliaceho módu. Každé okienko animácie môžeš upraviť využitím prepínača v "
+"dolnom ľavom rohu obrazovky. Animáciu si môžeš samozrejme uložiť a otvoriť "
+"tlačidlami 'disketa' a 'zložka'."
+
+#: ../boards/awele.xml.in.h:1
+msgid ""
+"At the beginning of the game four seeds are placed in each house. Players "
+"take turns moving the seeds. In each turn, a player chooses one of the six "
+"houses under his or her control. The player removes all seeds from this "
+"house, and distributes them, dropping one in each house counter-clockwise "
+"from the original house, in a process called sowing. Seeds are not "
+"distributed into the end scoring houses, nor into the house drawn from. That "
+"is, the starting house is left empty; if it contained 12 seeds, it is "
+"skipped, and the twelfth seed is placed in the next house. After a turn, if "
+"the last seed was placed into an opponent's house and brought its total to "
+"two or three, all the seeds in that house are captured and placed in the "
+"player's scoring house (or set aside if the board has no scoring houses). If "
+"the previous-to-last seed also brought the total seeds in an opponent's "
+"house to two or three, these are captured as well, and so on. However, if a "
+"move would capture all an opponent's seeds, the capture is forfeited, and "
+"the seeds are instead left on the board, since this would prevent the "
+"opponent from continuing the game. The proscription against capturing all an "
+"opponent's seeds is related to a more general idea, that one ought to make a "
+"move that allows the opponent to continue playing. If an opponent's houses "
+"are all empty, the current player must make a move that gives the opponent "
+"seeds. If no such move is possible, the current player captures all seeds in "
+"his/her own territory, ending the game. (Source Wikipedia &lt;http://en."
+"wikipedia.org/wiki/Oware&gt;)"
+msgstr ""
+
+#: ../boards/awele.xml.in.h:2
+msgid "Oware"
+msgstr "Oware"
+
+#: ../boards/awele.xml.in.h:3
+msgid "Play the Oware strategy game against Tux"
+msgstr "Zahraj si s Tučniakom strategickú hru Oware"
+
+#: ../boards/awele.xml.in.h:4
+msgid ""
+"The object of the game is to capture more seeds than one's opponent. Since "
+"the game has only 48 seeds, capturing 25 is sufficient to accomplish this. "
+"Since there are an even number of seeds, it is possible for the game to end "
+"in a draw, where each player has captured 24. The game is over when one "
+"player has captured 25 or more stones, or both players have taken 24 stones "
+"each (draw). If both players agree that the game has been reduced to an "
+"endless cycle, each player captures the stones on their side of the board."
+msgstr ""
+
+#: ../boards/babymatch.xml.in.h:1 ../boards/babymatch/board1_0.xml.in.h:1
+#: ../boards/babymatch/board2_0.xml.in.h:1
+#: ../boards/babymatch/board3_0.xml.in.h:1
+#: ../boards/babymatch/board4_0.xml.in.h:1
+#: ../boards/babymatch/board5_0.xml.in.h:1
+#: ../boards/babymatch/board6_0.xml.in.h:1
+#: ../boards/babymatch/board7_0.xml.in.h:1
+msgid "Drag and Drop the items to make them match"
+msgstr "Ťahaj a ulož predmety tak, aby vzájomne pasovali"
+
+#: ../boards/babymatch.xml.in.h:2
+msgid ""
+"In the main board area, a set of objects is displayed. In the vertical box "
+"(at the left of the main board) another set of objects is shown, each object "
+"in the group on the left matching exactly one object in the main board area. "
+"This game challenges you to find the logical link between these objects. How "
+"do they fit together? Drag each object to the correct red space in the main "
+"area."
+msgstr ""
+"V hlavnej oblasti dosky je vytlačená sada objektov. Vo vertikálnom ráme "
+"vľavo od hlavnej dosky je vytlačená iná sada objektov, z ktorých každý "
+"zodpovedá práve jednému objektu z hlavnej dosky. Musí byť nájdené logické "
+"spojenie medzi týmito objektami. To je možné dosiahnuť pomocou uloženia "
+"objektov do správnych červených polí v hlavnej oblasti."
+
+#: ../boards/babymatch.xml.in.h:3
+msgid "Matching Items"
+msgstr "Zodpovedajúce predmety"
+
+#: ../boards/babymatch.xml.in.h:4
+msgid "Motor coordination. Conceptual matching."
+msgstr "Koordinácia pohybov. Konceptuálne priraďovanie."
+
+#: ../boards/babymatch.xml.in.h:5
+msgid "Mouse manipulation: movement, drag and drop. Cultural references."
+msgstr "Manipulácia s myšou: pohyb, ťahanie a pustenie. Kultúrne potreby."
+
+#: ../boards/babyshapes.xml.in.h:1
+msgid "Complete the puzzle"
+msgstr "Skompletizuj skladačku"
+
+#: ../boards/babyshapes.xml.in.h:2
+msgid ""
+"Complete the puzzle by dragging each piece from the set of pieces on the "
+"left, to the matching space in the puzzle."
+msgstr "Skompletizuj skladačku z kúskov nachádzajúcich sa vľavo. Potiahni ich na správne miesto v skladačke."
+
+#: ../boards/babyshapes.xml.in.h:3
+msgid "Drag and Drop the shapes on their respective targets"
+msgstr "Ťahaj a ulož útvary na ich príslušné miesta"
+
+#: ../boards/babyshapes.xml.in.h:4
+msgid "Good mouse-control"
+msgstr "Dobré ovládanie myši"
+
+#: ../boards/babyshapes.xml.in.h:5
+msgid "The dog is provided by Andre Connes and released under the GPL"
+msgstr "Psa poskytol Andre Connes a uvoľnil za podmienok GPL"
+
+#: ../boards/babyshapes/board5_0.xml.in.h:1
+msgid "Hello ! My name is Lock."
+msgstr "Ahoj! Volám sa Lok."
+
+#: ../boards/babyshapes/board6_0.xml.in.h:1
+msgid "Lock on the grass."
+msgstr "Lok na tráve."
+
+#: ../boards/babyshapes/board7_0.xml.in.h:1
+msgid "Lock with colored shapes."
+msgstr "Lok s farebnými útvarmi."
+
+#: ../boards/ballcatch.xml.in.h:1
+msgid "Make the ball go to Tux"
+msgstr "Nahraj loptu tučniakovi."
+
+#: ../boards/ballcatch.xml.in.h:2
+msgid ""
+"Press the two shift keys at the same time, to make the ball go in a straight "
+"line."
+msgstr "Stlač naraz obidva 'shift' klávesy, aby si nahral priamo dopredu."
+
+#: ../boards/bargame.xml.in.h:1
+msgid "Brain"
+msgstr "Mozog"
+
+#: ../boards/bargame.xml.in.h:2
+msgid "Don't use the last ball"
+msgstr "Neumiestni poslednú guľu"
+
+#: ../boards/bargame.xml.in.h:3 ../boards/hexagon.xml.in.h:2
+msgid "Logic-training activity"
+msgstr "Aktivita na trénovanie logiky"
+
+#: ../boards/bargame.xml.in.h:4
+msgid ""
+"Place balls in the holes. You win if the computer has to place the last "
+"ball. If you want Tux to begin, just click on him."
+msgstr ""
+"Umiestni gule do jamiek. Vyhráš, ak tučniak umiestni poslednú guľu. Ak "
+"chceš, aby začínal tučniak stačí na ňho kliknúť."
+
+#: ../boards/bargame.xml.in.h:5
+msgid "bar game"
+msgstr "pultová hra"
+
+#: ../boards/billard.xml.in.h:1
+msgid "Kick the ball into the black hole on the right"
+msgstr "Kopni loptu vpravo do čiernej jamy."
+
+#: ../boards/billard.xml.in.h:2
+msgid "Kick the ball into the goal"
+msgstr "Kopni loptu do bránky"
+
+#: ../boards/billard.xml.in.h:3 ../boards/chess_computer.xml.in.h:2
+#: ../boards/chess_movelearn.xml.in.h:3 ../boards/chess_partyend.xml.in.h:2
+#: ../boards/clickgame.xml.in.h:5 ../boards/connect4.xml.in.h:6
+#: ../boards/connect4-2players.xml.in.h:5 ../boards/erase.xml.in.h:3
+#: ../boards/erase_clic.xml.in.h:6 ../boards/erase_double_clic.xml.in.h:6
+#: ../boards/fifteen.xml.in.h:2 ../boards/hanoi.xml.in.h:3
+#: ../boards/memory.xml.in.h:4 ../boards/tangram.xml.in.h:8
+msgid "Mouse-manipulation"
+msgstr "Manipulácia s myšou"
+
+#: ../boards/billard.xml.in.h:4
+msgid ""
+"Point the mouse and click on the ball, to set the speed and direction of the "
+"ball. The closer you click to the centre, the slower the ball moves."
+msgstr ""
+"Ukáž myškou a klikni na loptu čím určíš jej rýchlosť a smer. O čo viac "
+"klikneš ku stredu lopty o to sa bude pohybovať pomalšie."
+
+#: ../boards/billard.xml.in.h:5
+msgid "The football game"
+msgstr "Futbalová hra"
+
+#: ../boards/canal_lock.xml.in.h:1
+msgid "Operate a canal lock"
+msgstr "Obsluhovanie plavebnej komory"
+
+#: ../boards/canal_lock.xml.in.h:2
+msgid ""
+"Tux is in trouble, and needs to take his boat through a lock. Help Tux and "
+"find out how a canal lock works."
+msgstr ""
+"Tučniak má problém, potrebuje prejsť so svojou loďou cez plavebnú komoru. "
+"Pomôž mu a zisti ako funguje plavebná komora."
+
+#: ../boards/canal_lock.xml.in.h:3
+msgid ""
+"You are in charge of the canal lock. Open the gates and the locks in the "
+"right order, so Tux can travel through the gates in both directions."
+msgstr ""
+"Máš zverenú plavebnú komoru. Otváraj vráta a komory v správnom poradí tak, "
+"aby tučniak mohol prejsť oboma smermi."
+
+#: ../boards/chat.xml.in.h:1
+msgid "Chat with your friends"
+msgstr "Dopisuj si s priateľmi"
+
+#: ../boards/chat.xml.in.h:2
+msgid ""
+"This chat activity only work with other GCompris user on your local network, "
+"not the Internet. To use it, just type in messages and hit enter. Your "
+"message is broacasted on the local network and any GCompris running the chat "
+"activity will receive and display the message."
+msgstr "Túto dopisovaciu aktivitu možno použiť iba v rámci lokálnej siete a nie Internetu. Stačí iba napísať správu a odoslať ju tlačítkom 'Enter'. Vaša správa je rozoslaná všetkým na lokálnej sieti (broadcast) a všetky práve bežiace aplikácie GCompris so spusteným dopisovaním, zobrazia správu."
+
+#: ../boards/chat.xml.in.h:3
+msgid "This chat works only on the local network"
+msgstr "Toto dopisovanie funguje iba na lokálnej sieti"
+
+#: ../boards/chess.xml.in.h:1 ../boards/chess_computer.xml.in.h:3
+msgid "Play chess against the computer in a learning mode"
+msgstr "Hraj šach proti počítaču v režime učenia sa"
+
+#: ../boards/chess.xml.in.h:2
+msgid "Practice chess"
+msgstr "Precvičovanie šachov"
+
+#: ../boards/chess_computer.xml.in.h:1 ../boards/chess_movelearn.xml.in.h:2
+#: ../boards/chess_partyend.xml.in.h:1
+msgid "Learning chess"
+msgstr "Učenie sa šachu"
+
+#: ../boards/chess_computer.xml.in.h:4 ../boards/chess_movelearn.xml.in.h:4
+#: ../boards/chess_partyend.xml.in.h:4
+msgid "The chess engine is from gnuchess."
+msgstr "Šachový nástroj je realizovaný aplikáciou gnuchess."
+
+#: ../boards/chess_movelearn.xml.in.h:1
+msgid "Chess training. Catch the computer's pawns."
+msgstr "Trénovanie šachu. Zajmi počítačovho pešca."
+
+#: ../boards/chess_partyend.xml.in.h:3
+msgid "Play the end of the chess game against the computer"
+msgstr "Zakonči šachovú partiu proti počítaču"
+
+#: ../boards/chronos.xml.in.h:1
+msgid "Chronos"
+msgstr "Chronos"
+
+#: ../boards/chronos.xml.in.h:2
+msgid "Drag and Drop the items to organize the story"
+msgstr "Ťahaj a ulož položky tak, aby si usporiadal príbeh"
+
+#: ../boards/chronos.xml.in.h:3
+msgid ""
+"Moon photo is copyright NASA. The space sounds come from Tuxpaint and "
+"Vegastrike which are released under the GPL license. The transportation "
+"images are copyright Franck Doucet. Dates of Transportation are based on "
+"those found in &lt;http://www.wikipedia.org&gt;."
+msgstr "Fotografia mesiaca je v autorstve NASA. Vesmírne zvuky sú z Tuxpaint a Vegastrike, kde sú distribuované pod licenciou GPL. Autorom obrázkov dopravných prostriedkov je Franck Doucet. Dátumy sú prevzaté z &lt;http://www.wikipedia.org&gt;."
+
+#: ../boards/chronos.xml.in.h:4
+msgid "Pick from the pictures on the left and put them on the red dots"
+msgstr "Zober obrázky z ľava a ulož ich na červené bodky"
+
+#: ../boards/chronos.xml.in.h:5
+msgid "Sort the pictures into the order that tells the story"
+msgstr "Usporiadaj obrázky v správnom poradí aby tvorili príbeh"
+
+#: ../boards/chronos.xml.in.h:6
+msgid "Tell a short story"
+msgstr "Vyrozprávaj krátky príbeh"
+
+#: ../boards/chronos/board1_0.xml.in.h:1
+msgid "Moonwalker"
+msgstr "Prechádzka na Mesiaci"
+
+#: ../boards/chronos/board1_1.xml.in.h:1
+msgid "Autumn"
+msgstr "Jeseň"
+
+#: ../boards/chronos/board1_1.xml.in.h:2
+msgid "Spring"
+msgstr "Jar"
+
+#: ../boards/chronos/board1_1.xml.in.h:3
+msgid "Summer"
+msgstr "Leto"
+
+#: ../boards/chronos/board1_1.xml.in.h:4
+msgid "The 4 Seasons"
+msgstr "Štyri ročné obdobia"
+
+#: ../boards/chronos/board1_1.xml.in.h:5
+msgid "Winter"
+msgstr "Zima"
+
+#: ../boards/chronos/board1_2.xml.in.h:1
+msgid "Gardening"
+msgstr "Záhradkárčenie"
+
+#: ../boards/chronos/board2_0.xml.in.h:1
+msgid "Tux and the apple tree"
+msgstr "Tučniak a jabloň"
+
+#: ../boards/chronos/board3_0.xml.in.h:1 ../boards/chronos/board3_2.xml.in.h:1
+#: ../boards/chronos/board3_4.xml.in.h:1 ../boards/chronos/board4_2.xml.in.h:1
+msgid "1769 Cugnot's fardier"
+msgstr "1769 Cugnotov voz"
+
+#: ../boards/chronos/board3_0.xml.in.h:2 ../boards/chronos/board3_3.xml.in.h:5
+#: ../boards/chronos/board3_4.xml.in.h:2
+msgid ""
+"1829 Stephenson's Rocket\n"
+"Steam locomotive"
+msgstr ""
+"1829 Stephensonova 'Raketa'\n"
+" - parná lokomotíva"
+
+#: ../boards/chronos/board3_0.xml.in.h:4
+msgid ""
+"Place each image in the order and\n"
+"on the date it was invented.\n"
+"If not sure, research online at wikipedia:\n"
+"&lt;http://www.wikipedia.org&gt;"
+msgstr ""
+"Umiestni obrázky v správnom poradí\n"
+"a podľa dátumu ich vynájdenia.\n"
+"Ak si si nie istý využi wikipédiu:\n"
+"&lt;http://www.wikipedia.org&gt;"
+
+#: ../boards/chronos/board3_0.xml.in.h:8 ../boards/chronos/board3_1.xml.in.h:6
+#: ../boards/chronos/board3_2.xml.in.h:5 ../boards/chronos/board3_3.xml.in.h:7
+#: ../boards/chronos/board3_4.xml.in.h:4
+msgid "Transportation"
+msgstr "Dopravné prostriedky"
+
+#: ../boards/chronos/board3_1.xml.in.h:1 ../boards/chronos/board3_3.xml.in.h:1
+msgid ""
+"1783 Montgolfier brothers'\n"
+"hot air balloon"
+msgstr ""
+"1783 teplovzdušný balón\n"
+"bratov Montgolfierových"
+
+#: ../boards/chronos/board3_1.xml.in.h:3 ../boards/chronos/board3_2.xml.in.h:4
+#: ../boards/chronos/board3_4.xml.in.h:3 ../boards/chronos/board4_0.xml.in.h:1
+msgid "1880 Clement Ader's Eole"
+msgstr "1880 Clement Aderova Eola"
+
+#: ../boards/chronos/board3_1.xml.in.h:4
+msgid ""
+"1906 Paul Cornu\n"
+"First helicopter flight"
+msgstr ""
+"1906 Paul Cornu\n"
+"Prvý let helikoptéry"
+
+#: ../boards/chronos/board3_2.xml.in.h:2 ../boards/chronos/board3_3.xml.in.h:3
+msgid ""
+"1791 Comte de Sivrac's\n"
+"Celerifere"
+msgstr ""
+"1791 Rýchlochod\n"
+"grófa de Sivrac"
+
+#: ../boards/chronos/board4_0.xml.in.h:2
+msgid "1903 The Wright brothers' Flyer III"
+msgstr "1903 Flyer III bratov Wrightových"
+
+#: ../boards/chronos/board4_0.xml.in.h:3
+msgid ""
+"1909 Louis Bleriot crosses\n"
+"the English Channel"
+msgstr ""
+"1909 Louis Bleriot preletel\n"
+"la Manche"
+
+#: ../boards/chronos/board4_0.xml.in.h:5 ../boards/chronos/board4_1.xml.in.h:7
+msgid "Aviation"
+msgstr "Lietanie"
+
+#: ../boards/chronos/board4_1.xml.in.h:1
+msgid ""
+"1927 Charles Lindbergh\n"
+"crosses the Atlantic Ocean"
+msgstr ""
+"1927 Charles Lindbergh\n"
+"preletel Atlantický oceán"
+
+#: ../boards/chronos/board4_1.xml.in.h:3
+msgid ""
+"1934 Hélène Boucher's\n"
+"speed record of 444km/h"
+msgstr ""
+"1934 Hélène Boucher - \n"
+"rýchlostný rekord 444km/h"
+
+#: ../boards/chronos/board4_1.xml.in.h:5
+msgid ""
+"1947 Chuck Yeager\n"
+"breaks the sound-barrier"
+msgstr ""
+"1947 Chuck Yeager\n"
+"prekročil hranicu zvuku"
+
+#: ../boards/chronos/board4_2.xml.in.h:2
+msgid "1878 Léon Bollé's \"La Mancelle\""
+msgstr "1878 Léon Bolléova \"La Mancelle\""
+
+#: ../boards/chronos/board4_2.xml.in.h:3
+msgid ""
+"1885 The first petrol\n"
+"car by Benz"
+msgstr ""
+"1885 prvý benzínový\n"
+"automobil od Benzu"
+
+#: ../boards/chronos/board4_2.xml.in.h:5
+msgid "The car"
+msgstr "Automobil"
+
+#: ../boards/chronos/board4_3.xml.in.h:1
+msgid "1899 Renault \"voiturette\""
+msgstr "1899 Renault \"voiturette\""
+
+#: ../boards/chronos/board4_3.xml.in.h:2
+msgid "1923 Lancia Lambda"
+msgstr "1923 Lancia Lambda"
+
+#: ../boards/chronos/board4_3.xml.in.h:3
+msgid "1955 Citroën ds 19"
+msgstr "1955 Citroën ds 19"
+
+#: ../boards/chronos/board4_3.xml.in.h:4
+msgid "Cars"
+msgstr "Autá"
+
+#: ../boards/click_on_letter.xml.in.h:1
+msgid ""
+"A letter is spoken. Click on the matching letter in the main area. You can "
+"listen to the letter again, by clicking on the mouth icon in the bottom box."
+msgstr ""
+"Je vyslovené písmenko. Klikni na zodpovedajúce písmenko v hlavnej časti. "
+"Písmenko si môžeš znova vypočuť, keď klikneš na ikonku 'ústa' v dolnom ráme."
+
+#: ../boards/click_on_letter.xml.in.h:2
+msgid "Click on a letter"
+msgstr "Klikni na písmenko"
+
+#: ../boards/click_on_letter.xml.in.h:3
+msgid "Letter-name recognition"
+msgstr "Rozoznávanie písmen"
+
+#: ../boards/click_on_letter.xml.in.h:4
+msgid "Listen to a letter and click on the right one"
+msgstr "Vypočuj si písmenko a potom naň klikni"
+
+#: ../boards/click_on_letter.xml.in.h:5
+msgid "Visual letter-recognition. Can move the mouse."
+msgstr "Vizuálne rozpoznávanie písmen. Vedieť hýbať myšou."
+
+#: ../boards/clickgame.xml.in.h:1
+msgid "Click On Me"
+msgstr "Klikni na mňa"
+
+#: ../boards/clickgame.xml.in.h:2
+msgid ""
+"Fish are taken from the Unix utility xfishtank. All image credits belong to "
+"Guillaume Rousse."
+msgstr "Rybky sú prevzaté z Unixovej pomôcky xfishtank. Autorom všetkých obrázkov je Guillaume Rousse."
+
+#: ../boards/clickgame.xml.in.h:3
+msgid ""
+"Left-Click with the mouse on all the swimming fish before they leave the "
+"fishtank"
+msgstr ""
+"Klikni ľavým tlačítkom myši na všetky plávajúce ryby skôr ako odplávajú z "
+"akvária"
+
+#: ../boards/clickgame.xml.in.h:4
+msgid "Motor coordination: moving and clicking the mouse."
+msgstr "Koordinácia pohybov: pohyb a klikanie myšou."
+
+#: ../boards/clickgame.xml.in.h:6
+msgid "Use the left mouse button to click on the moving fish."
+msgstr "Použi ľavé tlačidlo myši, aby si klikol na pohybujúcu sa rybu."
+
+#: ../boards/clockgame.xml.in.h:1
+msgid ""
+"Distinguish between time-units (hour, minute and second). Set and display "
+"time on a clock."
+msgstr ""
+"Rozoznávať rozdiely medzi hodinou, minútou a sekundou. Nastav a zobraz čas "
+"na hodinách."
+
+#: ../boards/clockgame.xml.in.h:2
+msgid "Learn how to tell the time"
+msgstr "Uč sa ako čítať čas"
+
+#: ../boards/clockgame.xml.in.h:3
+msgid "Learning Clock"
+msgstr "Učenie sa hodín"
+
+#: ../boards/clockgame.xml.in.h:4
+msgid ""
+"Set the clock to the time given, in the time-units shown (hours:minutes or "
+"hours:minutes:seconds). Click on the different arrows, and move the mouse, "
+"to make the numbers go up or down."
+msgstr "Nastav hodiny podľa zadaného času v danom tvare (hodiny:minúty alebo hodiny:minúty:sekundy). Klikni na ručičky a posúvaj ich myškou do požadovanej polohy."
+
+#: ../boards/clockgame.xml.in.h:5
+msgid "The concept of time. Reading the time."
+msgstr "Koncept času. Čítanie času"
+
+#: ../boards/colors.xml.in.h:1
+msgid "Can move the mouse."
+msgstr "Vie hýbať myšou."
+
+#: ../boards/colors.xml.in.h:2
+msgid "Click on the right color"
+msgstr "Klikni na správnu farbu"
+
+#: ../boards/colors.xml.in.h:3
+msgid "Colors"
+msgstr "Farby"
+
+#: ../boards/colors.xml.in.h:4
+msgid "Listen to the color and click on the matching duck."
+msgstr "Vypočuj si farbu a klikni na zodpovedajúcu kačičku."
+
+#: ../boards/colors.xml.in.h:5
+msgid ""
+"This board teaches you to recognize different colors. When you hear the name "
+"of the color, click on the duck wearing it."
+msgstr "Táto hra ťa učí rozpoznávať rozličné farby. Keď si vypočuješ meno farby, klikni na kačičku danej farby."
+
+#: ../boards/colors_group.xml.in.h:1
+msgid "Colors based activities."
+msgstr "Aktivity založené na farbách."
+
+#: ../boards/colors_group.xml.in.h:2
+msgid "Go to Color activities"
+msgstr "Prejdi na aktivity s farbami"
+
+#: ../boards/computer.xml.in.h:1
+msgid "Discover the Computer"
+msgstr "Preskúmaj počítač"
+
+#: ../boards/computer.xml.in.h:2
+msgid "Play with computer peripherals."
+msgstr "Pohraj sa s počítačovým príslušenstvom."
+
+#: ../boards/connect4.xml.in.h:1 ../boards/connect4-2players.xml.in.h:1
+msgid "Arrange four coins in a row"
+msgstr "Usporiadaj štyri mince do jedného radu"
+
+#: ../boards/connect4.xml.in.h:2 ../boards/connect4-2players.xml.in.h:2
+msgid ""
+"Click anywhere in the line where you want to drop a piece. Alternatively, "
+"you can use the arrow keys to move and the down, or space key to drop a "
+"piece."
+msgstr "Klikni kdekoľvek vrámci stĺpca, do ktorého chceš hodiť mincu. Prípadne môžeš použiť šípky klávesnice vľavo-vpravo a mincu vhodíš šipkou dole alebo medzerníkom."
+
+#: ../boards/connect4.xml.in.h:3
+msgid "Connect 4"
+msgstr "Vytvorenie štvorky"
+
+#: ../boards/connect4.xml.in.h:4 ../boards/connect4-2players.xml.in.h:4
+msgid ""
+"Create a line of 4 pieces either horizontally (lying down) or vertically "
+"(standing up)"
+msgstr "Vytvor rad štyroch mincí buď horizontálne (ležiaci rad, vedľa seba) alebo vertikálne (stojací rad, nad sebou)."
+
+#: ../boards/connect4.xml.in.h:5
+msgid ""
+"Laurent Lacheny. Images and Artificial Intelligence taken from project "
+"4stattack by Jeroen Vloothuis. The original project can be found on &lt;"
+"http://forcedattack.sourceforge.net&gt;"
+msgstr "Laurent Lacheny. Obrázky a umelá inteligencia je prevzatá z projektu 4stattack od Jeroen Vloothuis-a. Pôvodný projekt sa nachádza na &lt;http://forcedattack.sourceforge.net&gt;"
+
+#: ../boards/connect4-2players.xml.in.h:3
+msgid "Connect 4 (2 Players)"
+msgstr "Vytvorenie štvorky (2 hráči)"
+
+#: ../boards/connect4-2players.xml.in.h:6
+msgid ""
+"The original code was written in 2005 by Laurent Lacheny. In 2006, Miguel de "
+"Izarra made the two players game. Images and Artificial Intelligence taken "
+"from project 4stattack by Jeroen Vloothuis. The original project can be "
+"found on &lt;http://forcedattack.sourceforge.net&gt;"
+msgstr "Pôvodný kód napísal v roku 2005 Laurent Lacheny. V roku 2006 Miguel de Izarra vytvoril variant pre dvoch hráčov. Obrázky a umelá inteligencia je prevzatá z projektu 4stattack od Jeroen Vloothuis-a. Pôvodný projekt sa nachádza na &lt;http://forcedattack.sourceforge.net&gt;"
+
+#: ../boards/crane.xml.in.h:1
+msgid "Build the same model"
+msgstr "Postavaj rovnaký model"
+
+#: ../boards/crane.xml.in.h:2
+msgid "Drive the crane and copy the model"
+msgstr "Ovládaj žeriav a postav podľa predlohy"
+
+#: ../boards/crane.xml.in.h:3 ../boards/erase.xml.in.h:2
+#: ../boards/erase_clic.xml.in.h:5 ../boards/erase_double_clic.xml.in.h:5
+msgid "Motor-coordination"
+msgstr "Koordinácia pohybov"
+
+#: ../boards/crane.xml.in.h:4 ../boards/hanoi_real.xml.in.h:2
+msgid "Mouse manipulation"
+msgstr "Manipulácia s myšou"
+
+#: ../boards/crane.xml.in.h:5
+msgid ""
+"Move the items in the bottom left frame to copy their position in the top "
+"right model. Below the crane itself, you will find four arrows that let you "
+"move items. To select the item to move, just click on it."
+msgstr "Presúvaj predmety v ľavom spodnom rámčeku tak aby zodpovedali predlohe vpravo hore. Pod rámčekom môžeš nájsť štyri šípky, ktorými pohybuješ predmetmi. Na predmet, s ktorým chceš hýbať klikni."
+
+#: ../boards/discovery.xml.in.h:1
+msgid "Colors, sounds, memory..."
+msgstr "Farby, zvuky, pamäť..."
+
+#: ../boards/discovery.xml.in.h:2
+msgid "Go to discovery activities"
+msgstr "Prejsť na objavovacie aktivity"
+
+#: ../boards/doubleentry.xml.in.h:1
+msgid "Basic counting skills"
+msgstr "Základné matematické zručnosti"
+
+#: ../boards/doubleentry.xml.in.h:2
+msgid "Double-entry table"
+msgstr "Tabuľka s dvojitou legendou"
+
+#: ../boards/doubleentry.xml.in.h:3
+msgid "Drag and Drop each proposed item on its destination"
+msgstr "Zober a ulož všetky ponúkané predmety na správnu pozíciu"
+
+#: ../boards/doubleentry.xml.in.h:4
+msgid "Drag and Drop the items in the double-entry table"
+msgstr "Zober a ulož položky do tabuľky s dvojitou legendou"
+
+#: ../boards/doubleentry.xml.in.h:5
+msgid ""
+"Move the items on the left to their proper position in the double-entry "
+"table."
+msgstr "Presuň položky zľava na ich správne miesto v tabuľke s dvojitou legendou."
+
+#: ../boards/doubleentry/board3_0.xml.in.h:1
+msgid "Click on an item and listen to its target position"
+msgstr "Klikni na položku a počúvaj kam ju máš umiestniť"
+
+#: ../boards/draw.xml.in.h:1
+msgid "A creative board where you can draw freely"
+msgstr "Kreatívna tabuľa, kde môžeš voľne kresliť"
+
+#: ../boards/draw.xml.in.h:2
+msgid "A simple vector-drawing tool"
+msgstr "Jednoduchý vektorový kresliaci nástroj"
+
+#: ../boards/draw.xml.in.h:3
+msgid ""
+"In this game, children can draw freely. The goal is to discover how to "
+"create attractive drawings based on basic shapes: rectangles, ellipses and "
+"lines."
+msgstr "V tejto hre deti môžu voľne kresliť. Cieľom je, aby objavili, ako vytvoriť pekné kresby pomocou základných tvarov: pravouholníkov, elíps a čiar."
+
+#: ../boards/draw.xml.in.h:5
+msgid ""
+"Select a drawing tool on the left, and a color down the bottom, then click "
+"and drag in the white area to create a new shape. To save time, you can "
+"click with the middle mouse button to delete an object."
+msgstr ""
+"Vľavo si vyber nástroj na kreslenie, dole si vyber farbu a potom klikni na bielu plochu a ťahaj, čím vytvoríš nový tvar. Prostredné tlačítko zmaže "
+"objekt."
+
+#: ../boards/electric.xml.in.h:1
+msgid "Create and simulate an electric schema"
+msgstr "Vytvor a simuluj elektrickú schému"
+
+#: ../boards/electric.xml.in.h:2
+msgid ""
+"Drag electrical components from the selector and drop them in the working "
+"area. Create wires by clicking on a connection spot, dragging the mouse to "
+"the next connection spot, and letting go. You can also move components by "
+"dragging them. You can delete wires by clicking on them. To delete a "
+"component, select the deletion tool on top of the component selector. You "
+"can click on the switch to open and close it. You can change the rheostat "
+"value by dragging its wiper. In order to simulate what happens when a bulb "
+"is blown, you can blown it by right-clicking on it. The simulation is "
+"updated in real time by any user action."
+msgstr "Myškou zober (panel vľavo) a umiestni elektrické komponenty na pracovnú plochu. Prepojenia s drôtmi možno vytvoriť kliknutím na prípojný bod, potiahnutím myšky na druhý prípojný bod a následným pustením tlačítka myšky. Komponenty možno dodatočne ešte poposúvať. Prepojenia možno zrušiť jednoduchým kliknutím na ne. Elektrický komponent možno odstrániť z plochy zvolením režimu odstraňovanie (guma) v hornej časti ľavého panelu a následným kliknutím na nepotrebný komponent. Elektrický vypínač možno zapnúť a vypnúť klikaním myši. Reostat možno nastavovať jeho posúvatkom. Žiarovku možno prepáliť pravým tlačítkom myši a sledovať čo sa bude diať (ľavým klikom ju opäť opravíme). Simulácia elektrického obvodu je aktualizovaná okamžite po užívateľských zmenách."
+
+#: ../boards/electric.xml.in.h:3
+msgid "Electricity"
+msgstr "Elektrina"
+
+#: ../boards/electric.xml.in.h:4
+msgid "Freely create an electric schema with a real time simulation of it."
+msgstr "Vytváranie elektrickej schémy s real-time simuláciou."
+
+#: ../boards/electric.xml.in.h:5
+msgid ""
+"GCompris uses the Gnucap electric simulator as a backend. You can get more "
+"information on gnucap at &lt;http://geda.seul.org/tools/gnucap/&gt;."
+msgstr "GCompris používa na pozadí Gnucap elektrický simulátor. Viac informácií o simulátore môžte získať na &lt;http://geda.seul.org/tools/gnucap/&gt;."
+
+#: ../boards/electric.xml.in.h:6
+msgid "Requires some basic understanding of the concept of electricity."
+msgstr "Vyžadujú sa základné znalosti pojmov elektrických obvodov."
+
+#: ../boards/enumerate.xml.in.h:1
+msgid "Basic enumeration"
+msgstr "Základné počítanie"
+
+#: ../boards/enumerate.xml.in.h:2
+msgid "Count the items"
+msgstr "Spočítaj predmety"
+
+#: ../boards/enumerate.xml.in.h:3
+msgid ""
+"First, properly organize the items so that you can count them. Then, select "
+"the item you want to answer in the bottom right area. Enter the answer with "
+"the keyboard and press the OK button or the 'Enter' key."
+msgstr "Najprv poriadne preorganizuj predmety tak, aby si ich mohol posčitovať. Potom klikni na patričnú položku v zozname vpravo a napíš patričné číslo na klávesnici. Tvoja kompletná odpoveď sa skontroluje, keď klikneš na tlačítko 'OK' alebo kláves 'Enter'."
+
+#: ../boards/enumerate.xml.in.h:4 ../boards/planegame.xml.in.h:5
+#: ../src/boards/enumerate.c:89
+msgid "Numeration training"
+msgstr "Trénovanie počítania"
+
+#: ../boards/enumerate.xml.in.h:5 ../src/boards/enumerate.c:90
+msgid "Place the items in the best way to count them"
+msgstr "Čo najlepšie si umiestni predmety tak, aby si si ich spočítal"
+
+#: ../boards/erase.xml.in.h:1
+msgid ""
+"Animal pictures are taken from the Animal Photography Page of Ralf Schmode "
+"(&lt;http://schmode.net/&gt;) and from LE BERRE Daniel. These people kindly "
+"gave GCompris the authorization to include their pictures. Thanks a lot, "
+"both of you."
+msgstr "Obrázky zvierat sú prevzaté zo stránky fotografií zvierat Ralfa Schmodea (http://schmode.net/) a od LE BERRE Daniel. Týto ľudia autorizovali použitie svojich obrázkov pre GCompris. Vďaka vám obom."
+
+#: ../boards/erase.xml.in.h:4 ../src/boards/erase.c:118
+#: ../src/boards/machpuzzle.c:88
+msgid "Move the mouse"
+msgstr "Pohyb myši"
+
+#: ../boards/erase.xml.in.h:5 ../src/boards/erase.c:119
+msgid "Move the mouse to erase the area and discover the background"
+msgstr "Pohybom myši očisti oblasť a objav pozadie"
+
+#: ../boards/erase.xml.in.h:6
+msgid "Move the mouse until all the blocks disappear."
+msgstr "Pohybuj myšou pokiaľ sa všetky bloky nestratia."
+
+#: ../boards/erase_clic.xml.in.h:2
+msgid "Click the mouse"
+msgstr "Klikanie myšou"
+
+#: ../boards/erase_clic.xml.in.h:3
+msgid "Click the mouse on rectangles until all the blocks disappear."
+msgstr "Klikaj myšou pokiaľ sa všetky bloky nestratia."
+
+#: ../boards/erase_clic.xml.in.h:4
+msgid "Click the mouse to erase the area and discover the background"
+msgstr "Klikaním myšou očisti oblasť a objav pozadie"
+
+#: ../boards/erase_double_clic.xml.in.h:2
+msgid "Double-Click the mouse to erase the area and discover the background"
+msgstr "Dvojklikaním myšou očisti oblasť a objav pozadie"
+
+#: ../boards/erase_double_clic.xml.in.h:3
+msgid "Double-click the mouse"
+msgstr "Dvojklikanie myšou"
+
+#: ../boards/erase_double_clic.xml.in.h:4
+msgid "Double-click the mouse on rectangles until all the blocks disappear."
+msgstr "Dvojklikaj myšou na obdĺžniky pokiaľ sa všetky bloky nestratia."
+
+#: ../boards/experience.xml.in.h:1
+msgid "Go to experiential activities"
+msgstr "Prejsť na experimentálne aktivity"
+
+#: ../boards/experience.xml.in.h:2
+msgid "Various activities based on physical movement."
+msgstr "Rozličné aktivity založené na fyzických pohyboch."
+
+#: ../boards/experimental.xml.in.h:1
+msgid "Go to Experimental activities"
+msgstr "Prejsť na experimentálne aktivity"
+
+#: ../boards/experimental.xml.in.h:2
+msgid "Run gcompris --experimental to see this menu."
+msgstr "Spusti gcompris --experimental aby si videl toto menu."
+
+#: ../boards/fifteen.xml.in.h:1
+msgid ""
+"Click on any item that has a free block beside it, and it will be swapped "
+"with the empty block."
+msgstr "Klikni na ľubovolnú položku, ktorá má vedľa seba voľný blok. Bude prehodená s prázdnym blokom."
+
+#: ../boards/fifteen.xml.in.h:3
+msgid "Move each item to make an increasing series: from the smallest to the largest"
+msgstr "Presúvaj hracie bloky a vytvor rastúcu postupnosť (od najmenšieho po najväčšie)"
+
+#: ../boards/fifteen.xml.in.h:4
+msgid "Original code taken from the libgnomecanvas demo"
+msgstr "Pôvodný kód prevzatý s dema libgnomecanvas"
+
+#: ../boards/fifteen.xml.in.h:5
+msgid "The fifteen game"
+msgstr "Hra pätnásť"
+
+#: ../boards/followline.xml.in.h:1
+msgid "Control the hose-pipe"
+msgstr "Ovládanie polievacej hadice"
+
+#: ../boards/followline.xml.in.h:2
+msgid "Fine motor coordination"
+msgstr "Jemná koordinácia pohybov"
+
+#: ../boards/followline.xml.in.h:3
+msgid ""
+"Move the mouse over the red part of the hose-pipe. This will move it, "
+"bringing it, part by part, up to the flowers. Be careful, if you move off "
+"the hose, the red part will go back down."
+msgstr "Prejdi myškou nad červenú časť polievacej hadice. Túto treba posúvať a pomaličky presunúť ku kvetom. Musíš byť opatrný, lebo keď vyjdeš myškou mimo hadice, červená časť sa vráti späť,"
+
+#: ../boards/followline.xml.in.h:4
+msgid "Tux needs to water the flowers, but the hose is blocked."
+msgstr "Tučniak potrebuje poliať kvety, ale hadica je upchatá."
+
+#: ../boards/fun.xml.in.h:1
+msgid "Go to Amusement activities"
+msgstr "Prejsť k zábavným aktivitám"
+
+#: ../boards/fun.xml.in.h:2
+msgid "Various fun activities."
+msgstr "Rozličné zábavné aktivity"
+
+#: ../boards/gcompris/mimetypes/mime_type.xml.in.h:1
+msgid "gcompris animation"
+msgstr "gcompris animácia"
+
+#: ../boards/gcompris/mimetypes/mime_type.xml.in.h:2
+msgid "gcompris drawing"
+msgstr "gcompris kresba"
+
+#: ../boards/gcompris/mimetypes/mime_type.xml.in.h:3
+msgid "svg drawing"
+msgstr "svg kresba"
+
+#: ../boards/gcompris/mimetypes/mime_type.xml.in.h:4
+msgid "svg mozilla animation"
+msgstr "svg mozilla animácia"
+
+#: ../boards/geography.xml.in.h:1
+msgid "Drag and Drop the items to redraw the whole map"
+msgstr "Ťahaj a pusti položky tak, aby si nakreslil kompletnú mapu"
+
+#: ../boards/geography.xml.in.h:2
+msgid "Locate the countries"
+msgstr "Hladanie krajín"
+
+#: ../boards/geography.xml.in.h:3
+msgid "Mouse manipulation: movement, drag and drop"
+msgstr "Manipulácia s myšou: pohyb, ťahanie a pustenie"
+
+#: ../boards/geography.xml.in.h:4
+msgid ""
+"The map of Germany comes from Wikipedia and is released under the GNU Free "
+"Documentation License. Olaf Ronneberger and his children Lina and Julia "
+"Ronneberger created the German level."
+msgstr "Mapa Nemecka pochádza z Wikipédie a je pod licenciou GNU Free Documentation License. Úroveň s Nemeckom vytvorili Olaf Ronneberger a jeho deti Lina and Julia Ronnebergerové."
+
+#: ../boards/geography/board1_0.xml.in.h:1
+#: ../boards/geography/board4_2.xml.in.h:1
+msgid "Africa"
+msgstr "Afrika"
+
+#: ../boards/geography/board1_0.xml.in.h:2
+msgid "America"
+msgstr "Amerika"
+
+#: ../boards/geography/board1_0.xml.in.h:3
+msgid "Antartica"
+msgstr "Antarktída"
+
+#: ../boards/geography/board1_0.xml.in.h:4
+msgid "Asia"
+msgstr "Ázia"
+
+#: ../boards/geography/board1_0.xml.in.h:5
+msgid "Continents"
+msgstr "Kontinenty"
+
+#: ../boards/geography/board1_0.xml.in.h:6
+msgid "Europe"
+msgstr "Európa"
+
+#: ../boards/geography/board1_0.xml.in.h:7
+msgid "Oceania"
+msgstr "Oceánia"
+
+#: ../boards/geography/board2_0.xml.in.h:1
+msgid "Alaska"
+msgstr "Alijaška"
+
+#: ../boards/geography/board2_0.xml.in.h:2
+msgid "Bahamas"
+msgstr "Bahamy"
+
+#: ../boards/geography/board2_0.xml.in.h:3
+msgid "Canada"
+msgstr "Kanada"
+
+#: ../boards/geography/board2_0.xml.in.h:4
+msgid "Cuba"
+msgstr "Kuba"
+
+#: ../boards/geography/board2_0.xml.in.h:5
+msgid "Dominican Republic"
+msgstr "Dominikánska republika"
+
+#: ../boards/geography/board2_0.xml.in.h:6
+msgid "Greenland"
+msgstr "Greenland"
+
+#: ../boards/geography/board2_0.xml.in.h:7
+msgid "Haiti"
+msgstr "Haity"
+
+#: ../boards/geography/board2_0.xml.in.h:8
+#: ../boards/geography/board3_0.xml.in.h:7
+msgid "Iceland"
+msgstr "Island"
+
+#: ../boards/geography/board2_0.xml.in.h:9
+msgid "Jamaica"
+msgstr "Jamajka"
+
+#: ../boards/geography/board2_0.xml.in.h:10
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: ../boards/geography/board2_0.xml.in.h:11
+msgid "North America"
+msgstr "Severná Amerika"
+
+#: ../boards/geography/board2_0.xml.in.h:12
+msgid "United States of America"
+msgstr "Spojené štáty americké"
+
+#: ../boards/geography/board2_1.xml.in.h:1
+msgid "Argentina"
+msgstr "Argentína"
+
+#: ../boards/geography/board2_1.xml.in.h:2
+msgid "Bolivia"
+msgstr "Bolívia"
+
+#: ../boards/geography/board2_1.xml.in.h:3
+msgid "Brazil"
+msgstr "Brazília"
+
+#: ../boards/geography/board2_1.xml.in.h:4
+msgid "Chile"
+msgstr "Čile"
+
+#: ../boards/geography/board2_1.xml.in.h:5
+msgid "Colombia"
+msgstr "Kolumbia"
+
+#: ../boards/geography/board2_1.xml.in.h:6
+msgid "Ecuador"
+msgstr "Ekuádor"
+
+#: ../boards/geography/board2_1.xml.in.h:7
+msgid "French Guiana"
+msgstr "Francúzka Guajana"
+
+#: ../boards/geography/board2_1.xml.in.h:8
+msgid "Guyana"
+msgstr "Guyana"
+
+#: ../boards/geography/board2_1.xml.in.h:9
+msgid "Panama"
+msgstr "Panama"
+
+#: ../boards/geography/board2_1.xml.in.h:10
+msgid "Paraguay"
+msgstr "Paraguaj"
+
+#: ../boards/geography/board2_1.xml.in.h:11
+msgid "Peru"
+msgstr "Peru"
+
+#: ../boards/geography/board2_1.xml.in.h:12
+msgid "South America"
+msgstr "Južná Amerika"
+
+#: ../boards/geography/board2_1.xml.in.h:13
+msgid "Suriname"
+msgstr "Suriname"
+
+#: ../boards/geography/board2_1.xml.in.h:14
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: ../boards/geography/board2_1.xml.in.h:15
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: ../boards/geography/board3_0.xml.in.h:1
+msgid "Austria"
+msgstr "Rakúsko"
+
+#: ../boards/geography/board3_0.xml.in.h:2
+msgid "Belgium"
+msgstr "Belgicko"
+
+#: ../boards/geography/board3_0.xml.in.h:3
+msgid "Denmark"
+msgstr "Dánsko"
+
+#: ../boards/geography/board3_0.xml.in.h:4
+msgid "Finland"
+msgstr "Fínsko"
+
+#: ../boards/geography/board3_0.xml.in.h:5
+msgid "France"
+msgstr "Francúzsko"
+
+#: ../boards/geography/board3_0.xml.in.h:6
+msgid "Germany"
+msgstr "Nemecko"
+
+#: ../boards/geography/board3_0.xml.in.h:8
+msgid "Ireland"
+msgstr "Írsko"
+
+#: ../boards/geography/board3_0.xml.in.h:9
+msgid "Italy"
+msgstr "Taliansko"
+
+#: ../boards/geography/board3_0.xml.in.h:10
+msgid "Luxembourg"
+msgstr "Luxembursko"
+
+#: ../boards/geography/board3_0.xml.in.h:11
+msgid "Norway"
+msgstr "Nórsko"
+
+#: ../boards/geography/board3_0.xml.in.h:12
+msgid "Portugal"
+msgstr "Portugalsko"
+
+#: ../boards/geography/board3_0.xml.in.h:13
+msgid "Spain"
+msgstr "Španielsko"
+
+#: ../boards/geography/board3_0.xml.in.h:14
+msgid "Sweden"
+msgstr "Švédsko"
+
+#: ../boards/geography/board3_0.xml.in.h:15
+msgid "Switzerland"
+msgstr "Švajčiarsko"
+
+#: ../boards/geography/board3_0.xml.in.h:16
+msgid "The Netherlands"
+msgstr "Holandsko"
+
+#: ../boards/geography/board3_0.xml.in.h:17
+msgid "United Kingdom"
+msgstr "Spojené kráľovstvo"
+
+#: ../boards/geography/board3_0.xml.in.h:18
+msgid "Western Europe"
+msgstr "Západná Európa"
+
+#: ../boards/geography/board3_1.xml.in.h:1
+msgid "Albania"
+msgstr "Albánsko"
+
+#: ../boards/geography/board3_1.xml.in.h:2
+msgid "Belarus"
+msgstr "Bielorusko"
+
+#: ../boards/geography/board3_1.xml.in.h:3
+msgid "Bosnia Herzegovina"
+msgstr "Bosna Hercegovina"
+
+#: ../boards/geography/board3_1.xml.in.h:4
+msgid "Bulgaria"
+msgstr "Bulharsko"
+
+#: ../boards/geography/board3_1.xml.in.h:5
+msgid "Croatia"
+msgstr "Chorvátsko"
+
+#: ../boards/geography/board3_1.xml.in.h:6
+msgid "Cyprus"
+msgstr "Ciprus"
+
+#: ../boards/geography/board3_1.xml.in.h:7 ../src/gcompris/config.c:65
+msgid "Czech Republic"
+msgstr "Česko"
+
+#: ../boards/geography/board3_1.xml.in.h:8
+msgid "Eastern Europe"
+msgstr "Východná Európa"
+
+#: ../boards/geography/board3_1.xml.in.h:9
+msgid "Estonia"
+msgstr "Estónsko"
+
+#: ../boards/geography/board3_1.xml.in.h:10
+msgid "Greece"
+msgstr "Grécko"
+
+#: ../boards/geography/board3_1.xml.in.h:11
+msgid "Hungary"
+msgstr "Maďarsko"
+
+#: ../boards/geography/board3_1.xml.in.h:12
+msgid "Latvia"
+msgstr "Lotyšsko"
+
+#: ../boards/geography/board3_1.xml.in.h:13
+msgid "Lithuania"
+msgstr "Litva"
+
+#: ../boards/geography/board3_1.xml.in.h:14
+msgid "Macedonia"
+msgstr "Macedónsko"
+
+#: ../boards/geography/board3_1.xml.in.h:15
+msgid "Moldova"
+msgstr "Moldova"
+
+#: ../boards/geography/board3_1.xml.in.h:16
+msgid "Poland"
+msgstr "Poľsko"
+
+#: ../boards/geography/board3_1.xml.in.h:17
+msgid "Romania"
+msgstr "Rumunsko"
+
+#: ../boards/geography/board3_1.xml.in.h:18
+msgid "Russia"
+msgstr "Rusko"
+
+#: ../boards/geography/board3_1.xml.in.h:19
+msgid "Serbia Montenegro"
+msgstr "Srbsko Čierna hora"
+
+#: ../boards/geography/board3_1.xml.in.h:20
+msgid "Slovak Republic"
+msgstr "Slovensko"
+
+#: ../boards/geography/board3_1.xml.in.h:21
+msgid "Slovenia"
+msgstr "Slovinsko"
+
+#: ../boards/geography/board3_1.xml.in.h:22
+msgid "Turkey"
+msgstr "Turecko"
+
+#: ../boards/geography/board3_1.xml.in.h:23
+msgid "Ukraine"
+msgstr "Ukrajina"
+
+#: ../boards/geography/board4_0.xml.in.h:1
+#: ../boards/geography/board4_2.xml.in.h:2
+msgid "Algeria"
+msgstr "Algeria"
+
+#: ../boards/geography/board4_0.xml.in.h:2
+#: ../boards/geography/board4_2.xml.in.h:4
+msgid "Benin"
+msgstr "Benin"
+
+#: ../boards/geography/board4_0.xml.in.h:3
+#: ../boards/geography/board4_2.xml.in.h:6
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: ../boards/geography/board4_0.xml.in.h:4
+#: ../boards/geography/board4_2.xml.in.h:7
+msgid "Cameroon"
+msgstr "Cameroon"
+
+#: ../boards/geography/board4_0.xml.in.h:5
+#: ../boards/geography/board4_2.xml.in.h:8
+msgid "Central African Republic"
+msgstr "Central African Republic"
+
+#: ../boards/geography/board4_0.xml.in.h:6
+#: ../boards/geography/board4_2.xml.in.h:9
+msgid "Chad"
+msgstr "Chad"
+
+#: ../boards/geography/board4_0.xml.in.h:7
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: ../boards/geography/board4_0.xml.in.h:8
+#: ../boards/geography/board4_2.xml.in.h:11
+msgid "Egypt"
+msgstr "Egypt"
+
+#: ../boards/geography/board4_0.xml.in.h:9
+#: ../boards/geography/board4_1.xml.in.h:5
+msgid "Equatorial Guinea"
+msgstr "Rovníková Guinea"
+
+#: ../boards/geography/board4_0.xml.in.h:10
+#: ../boards/geography/board4_2.xml.in.h:12
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: ../boards/geography/board4_0.xml.in.h:11
+#: ../boards/geography/board4_2.xml.in.h:13
+msgid "Ethiopia"
+msgstr "Etiópia"
+
+#: ../boards/geography/board4_0.xml.in.h:12
+#: ../boards/geography/board4_1.xml.in.h:6
+#: ../boards/geography/board4_2.xml.in.h:14
+msgid "Gabon"
+msgstr "Gabon"
+
+#: ../boards/geography/board4_0.xml.in.h:13
+msgid "Gambia"
+msgstr "Gambia"
+
+#: ../boards/geography/board4_0.xml.in.h:14
+#: ../boards/geography/board4_2.xml.in.h:15
+msgid "Ghana"
+msgstr "Ghana"
+
+#: ../boards/geography/board4_0.xml.in.h:15
+#: ../boards/geography/board4_2.xml.in.h:16
+msgid "Guinea"
+msgstr "Guinea"
+
+#: ../boards/geography/board4_0.xml.in.h:16
+msgid "Guinea Bissau"
+msgstr "Guinea Bissau"
+
+#: ../boards/geography/board4_0.xml.in.h:17
+#: ../boards/geography/board4_2.xml.in.h:17
+msgid "Ivory Coast"
+msgstr "Ivory Coast"
+
+#: ../boards/geography/board4_0.xml.in.h:18
+#: ../boards/geography/board4_2.xml.in.h:19
+msgid "Liberia"
+msgstr "Liberia"
+
+#: ../boards/geography/board4_0.xml.in.h:19
+#: ../boards/geography/board4_2.xml.in.h:20
+msgid "Libya"
+msgstr "Líbia"
+
+#: ../boards/geography/board4_0.xml.in.h:20
+#: ../boards/geography/board4_2.xml.in.h:23
+msgid "Mali"
+msgstr "Mali"
+
+#: ../boards/geography/board4_0.xml.in.h:21
+#: ../boards/geography/board4_2.xml.in.h:24
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: ../boards/geography/board4_0.xml.in.h:22
+#: ../boards/geography/board4_2.xml.in.h:25
+msgid "Morocco"
+msgstr "Morocco"
+
+#: ../boards/geography/board4_0.xml.in.h:23
+#: ../boards/geography/board4_2.xml.in.h:28
+msgid "Niger"
+msgstr "Niger"
+
+#: ../boards/geography/board4_0.xml.in.h:24
+#: ../boards/geography/board4_2.xml.in.h:29
+msgid "Nigeria"
+msgstr "Nigéria"
+
+#: ../boards/geography/board4_0.xml.in.h:25
+msgid "Northern Africa"
+msgstr "Severná Africa"
+
+#: ../boards/geography/board4_0.xml.in.h:26
+#: ../boards/geography/board4_1.xml.in.h:14
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: ../boards/geography/board4_0.xml.in.h:27
+#: ../boards/geography/board4_2.xml.in.h:30
+msgid "Senegal"
+msgstr "Senegal"
+
+#: ../boards/geography/board4_0.xml.in.h:28
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: ../boards/geography/board4_0.xml.in.h:29
+#: ../boards/geography/board4_2.xml.in.h:31
+msgid "Somalia"
+msgstr "Somalia"
+
+#: ../boards/geography/board4_0.xml.in.h:30
+#: ../boards/geography/board4_2.xml.in.h:33
+msgid "Sudan"
+msgstr "Sudán"
+
+#: ../boards/geography/board4_0.xml.in.h:31
+#: ../boards/geography/board4_2.xml.in.h:35
+msgid "Togo"
+msgstr "Togo"
+
+#: ../boards/geography/board4_0.xml.in.h:32
+#: ../boards/geography/board4_2.xml.in.h:36
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: ../boards/geography/board4_0.xml.in.h:33
+#: ../boards/geography/board4_1.xml.in.h:19
+#: ../boards/geography/board4_2.xml.in.h:37
+msgid "Uganda"
+msgstr "Uganda"
+
+#: ../boards/geography/board4_0.xml.in.h:34
+msgid "Western Sahara"
+msgstr "Západná sahara"
+
+#: ../boards/geography/board4_1.xml.in.h:1
+#: ../boards/geography/board4_2.xml.in.h:3
+msgid "Angola"
+msgstr "Angola"
+
+#: ../boards/geography/board4_1.xml.in.h:2
+#: ../boards/geography/board4_2.xml.in.h:5
+msgid "Botswana"
+msgstr "Botswana"
+
+#: ../boards/geography/board4_1.xml.in.h:3
+msgid "Burundi"
+msgstr "Burundi"
+
+#: ../boards/geography/board4_1.xml.in.h:4
+#: ../boards/geography/board4_2.xml.in.h:10
+msgid "Democratic Republic of Congo"
+msgstr "Demokratická republika Kongo"
+
+#: ../boards/geography/board4_1.xml.in.h:7
+#: ../boards/geography/board4_2.xml.in.h:18
+msgid "Kenya"
+msgstr "Keňa"
+
+#: ../boards/geography/board4_1.xml.in.h:8
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: ../boards/geography/board4_1.xml.in.h:9
+#: ../boards/geography/board4_2.xml.in.h:21
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: ../boards/geography/board4_1.xml.in.h:10
+#: ../boards/geography/board4_2.xml.in.h:22
+msgid "Malawi"
+msgstr "Malawi"
+
+#: ../boards/geography/board4_1.xml.in.h:11
+#: ../boards/geography/board4_2.xml.in.h:26
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: ../boards/geography/board4_1.xml.in.h:12
+#: ../boards/geography/board4_2.xml.in.h:27
+msgid "Namibia"
+msgstr "Namíbia"
+
+#: ../boards/geography/board4_1.xml.in.h:13
+msgid "Republic of Congo"
+msgstr "Republika Kongo"
+
+#: ../boards/geography/board4_1.xml.in.h:15
+#: ../boards/geography/board4_2.xml.in.h:32
+msgid "South Africa"
+msgstr "Južná Afrika"
+
+#: ../boards/geography/board4_1.xml.in.h:16
+msgid "Southern Africa"
+msgstr "Južná Afrika"
+
+#: ../boards/geography/board4_1.xml.in.h:17
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: ../boards/geography/board4_1.xml.in.h:18
+#: ../boards/geography/board4_2.xml.in.h:34
+msgid "Tanzania"
+msgstr "Tanzánia"
+
+#: ../boards/geography/board4_1.xml.in.h:20
+#: ../boards/geography/board4_2.xml.in.h:38
+msgid "Zambia"
+msgstr "Zambia"
+
+#: ../boards/geography/board4_1.xml.in.h:21
+#: ../boards/geography/board4_2.xml.in.h:39
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: ../boards/geography/board5_0.xml.in.h:1
+msgid "Regions of France"
+msgstr "Regióny Francúzska"
+
+#: ../boards/geography/board6_0.xml.in.h:1
+msgid "Deutschland Bundesländer"
+msgstr "Deutschland Bundesländer"
+
+#: ../boards/geometry.xml.in.h:1
+msgid "Geometry"
+msgstr "Geometria"
+
+#: ../boards/geometry.xml.in.h:2
+msgid "Geometry activities."
+msgstr "Geometrické aktivity."
+
+#: ../boards/gletters.xml.in.h:1 ../boards/wordsgame.xml.in.h:2
+msgid "Keyboard manipulation"
+msgstr "Manipulácia s klávesnicou"
+
+#: ../boards/gletters.xml.in.h:2
+msgid "Letter association between the screen and the keyboard"
+msgstr "Asociácie písmen medzi obrazovkou a klávesnicou"
+
+#: ../boards/gletters.xml.in.h:3 ../src/boards/gletters.c:134
+msgid "Simple Letters"
+msgstr "Jednoduché písmená"
+
+#: ../boards/gletters.xml.in.h:4 ../src/boards/gletters.c:135
+msgid "Type the falling letters before they reach the ground"
+msgstr "Stlač klávesu padajúceho písmena skôr ako dopadne"
+
+#: ../boards/gnumch-equality.xml.in.h:1
+msgid "Equality Number Munchers"
+msgstr "Čísložrút - rovnosť"
+
+#: ../boards/gnumch-equality.xml.in.h:2
+msgid ""
+"Guide the Number Muncher to the expressions that equal the number at the top "
+"of the screen."
+msgstr "Doveď Čísložrúta na výraz, ktorý sa rovná číslu uvedenému v hornej časti obrazovky."
+
+#: ../boards/gnumch-equality.xml.in.h:3
+msgid "Practice addition, multiplication, division and subtraction."
+msgstr "Precvič si sčítanie, násobenie, delenie a odčítanie."
+
+#: ../boards/gnumch-equality.xml.in.h:4 ../boards/gnumch-inequality.xml.in.h:4
+msgid ""
+"Use the arrow keys to navigate around the board and to avoid the Troggles. "
+"Press the spacebar to eat a number."
+msgstr "Použi šipky klávesnice, pohybuj sa po doske a vyhni sa Troglom. Keď stlačíš medzerník obsah políčka zješ."
+
+#: ../boards/gnumch-factors.xml.in.h:1
+msgid "Factor Number Munchers"
+msgstr "Čísložrút - delitele"
+
+#: ../boards/gnumch-factors.xml.in.h:2
+msgid ""
+"Guide the Number Muncher to all the factors of the number at the top of the "
+"screen."
+msgstr "Doveď Čísložrúta na všetky delitele čísla uvedeného v hornej časti obrazovky."
+
+#: ../boards/gnumch-factors.xml.in.h:3
+msgid "Learn about factors and multiples."
+msgstr "Nauč sa o deliteľoch a násobkoch."
+
+#: ../boards/gnumch-factors.xml.in.h:4
+msgid ""
+"The factors of a number are all the numbers that divide that number evenly. "
+"For example, the factors of 6 are 1, 2, 3 and 6. 4 is not a factor of 6 "
+"because 6 cannot be divided into 4 equal pieces. If one number is a multiple "
+"of a second number, then the second number is a factor of the first number. "
+"You can think of multiples as families, and factors are the people in those "
+"families. So 1, 2, 3 and 6 all fit into the 6 family, but 4 belongs to "
+"another family. Use the arrow keys to navigate around the board and to avoid "
+"the Troggles. Press the spacebar to eat a number."
+msgstr "Delitele čísla sú všetky čísla, ktoré toto číslo delia bez zvyšku. Napríklad delitele čísla 6 sú 1, 2, 3 a 6. Číslo 4 nie je deliteľom 6, pretože 6 nemožno rozdeliť na 4 rovnaké kúsky. Použi šipky klávesnice, pohybuj sa po doske a vyhni sa Troglom. Keď stlačíš medzerník obsah políčka zješ."
+
+#: ../boards/gnumch-inequality.xml.in.h:1
+msgid ""
+"Guide the Number Muncher to the all the expressions that do not equal the "
+"number at the top of the screen."
+msgstr "Doveď Čísložrúta na výrazy, ktoré sa nerovnajú číslu uvedenému v hornej časti obrazovky."
+
+#: ../boards/gnumch-inequality.xml.in.h:2
+msgid "Inequality Number Munchers"
+msgstr "Čísložrút - nerovnosť"
+
+#: ../boards/gnumch-inequality.xml.in.h:3
+msgid "Practice addition, subtraction, multiplication and division."
+msgstr "Precvič si sčítanie, odčítanie, násobenie a delenie."
+
+#: ../boards/gnumch-multiples.xml.in.h:1
+msgid ""
+"Guide the Number Muncher to all the multiples of the number at the top of "
+"the screen."
+msgstr "Doveď Čísložrúta na všetky násobky čísla uvedeného v hornej časti obrazovky."
+
+#: ../boards/gnumch-multiples.xml.in.h:2
+msgid "Learn about multiples and factors."
+msgstr "Nauč sa o násobkoch a deliteľoch."
+
+#: ../boards/gnumch-multiples.xml.in.h:3
+msgid "Multiple Number Munchers"
+msgstr "Čísložrút - násobky"
+
+#: ../boards/gnumch-multiples.xml.in.h:4
+msgid ""
+"The multiples of a number are all the numbers that are equal to the original "
+"number times another number. For example, 24, 36, 48 and 60 are all "
+"multiples of 12. 25 is not a multiple of 12 because there isn't any number "
+"that can be multiplied by 12 to get 25. If one number is a factor of a "
+"second number, then the second number is a multiple of the first number. "
+"Again, you can think of multiples as families, and factors are the people "
+"who belong to those families. The factor 5, has parents 10, grandparents 15, "
+"great-grandparents 20, great-great-grandparents 25, and every extra step of "
+"5 is another great- in front! But the number 5 does not belong in the 8 or "
+"23 families. You can't fit any number of 5s into 8 or 23 with nothing left "
+"over. So '8 isn't a multiple of 5, nor is 23. Only 5, 10, 15, 20, 25 ... are "
+"multiples (or families or steps) of 5. Use the arrow keys to navigate around "
+"the board and to avoid the Troggles. Press the spacebar to eat a number."
+msgstr "Násobky čísla sú všetky čísla, ktoré sú rovné originálnemu číslu prenásobenému iným ľubovoľným číslom. Napríklad 24, 36, 48 a 60 sú násobky čísla 12. Ale číslo 25 nie je násobkom 12, pretože neexistuje číslo, ktorým by sa prenásobila 12 s výsledkom 25. Použi šipky klávesnice, pohybuj sa po doske a vyhni sa Troglom. Keď stlačíš medzerník obsah políčka zješ."
+
+#: ../boards/gnumch-primes.xml.in.h:1
+msgid "Guide the Number Muncher to all the prime numbers."
+msgstr "Doveď Čísložrúta na všetky prvočísla, ktoré sú menšie ako číslo uvedené v hornej časti obrazovky."
+
+#: ../boards/gnumch-primes.xml.in.h:2
+msgid "Learn about prime numbers"
+msgstr "Nauč sa o prvočíslach"
+
+#: ../boards/gnumch-primes.xml.in.h:3
+msgid "Prime Number Munchers"
+msgstr "Čísložrút - prvočísla"
+
+#: ../boards/gnumch-primes.xml.in.h:4
+msgid ""
+"Prime numbers are numbers that are only divisible by themselves and 1. For "
+"example, 3 is a prime number, but 4 isn't (because 4 is divisible by 2). You "
+"can think of prime numbers as very small families: they only ever have two "
+"people in them! Only themselves and 1. You can't fit any other numbers into "
+"them with nothing left over. 5 is one of these lonely numbers (only 5 × 1 = "
+"5), but you can see that 6 has 2 and 3 in its family as well (6 × 1 = 6, 2 × "
+"3 = 6). So 6 is not a prime number. Use the arrow keys to navigate around "
+"the board and to avoid the Troggles. Press the spacebar to eat a number."
+msgstr "Prvočísla sú čísla, ktoré sú deliteľné iba samím sebou a číslom 1. Napríklad 3 je prvočíslo, ale 4 nie je (pretože 4 je deliteľná s 2). Na prvočísla sa možno pozerať ako na malé rodinky: majú iba dvoch ľudí! Seba a 1. Žiadne číslo k nim nenapasuješ, tak aby po predelení nezostal zvyšok. Takýmto samotárom - prvočíslom je aj 5 (iba 5 x 1 = 5). Ale číslo 6 má vo svojej rodinke 2 a 3 (6 x 1 = 6, 2 x 3 = 6) a preto nie je prvočíslom. Použi šipky klávesnice, pohybuj sa po doske a vyhni sa Troglom. Keď stlačíš medzerník obsah políčka zješ."
+
+#: ../boards/gnumchmenu.xml.in.h:1
+msgid "Go to Number Munchers activities"
+msgstr "Prejsť k aktivitám s Čísložrútmi"
+
+#: ../boards/gnumchmenu.xml.in.h:2
+msgid "Number Munchers are games to play with arithmetic."
+msgstr "Čísložrúti - hry s aritmetikou"
+
+#: ../boards/guessnumber.xml.in.h:1
+msgid "Guess a number"
+msgstr "Hádaj číslo"
+
+#: ../boards/guessnumber.xml.in.h:2
+msgid "Help Tux escape the cave. Tux hides a number for you to find."
+msgstr "Pomôž tučniakovi uniknúť z jaskyne. Hádaj číslo, ktoré si tučniak myslí."
+
+#: ../boards/guessnumber.xml.in.h:3
+msgid "Numbers from 1 to 1000 for the last level."
+msgstr "Čísla od 1 do 1000 poslednej úrovne."
+
+#: ../boards/guessnumber.xml.in.h:4
+msgid ""
+"Read the instructions that give you the range of the number to find. Enter a "
+"number in the top right blue entry box. Tux will tell you if your number is "
+"higher or lower. Then enter another number. The distance between Tux and the "
+"escape area on the right represents how far you are from the correct number. "
+"If Tux is over or under the escape area, it means your number is over or "
+"under the correct number."
+msgstr "Prečítaj si inštrukcie (horná časť obrazovky), ktoré hovoria o intervale čísiel, z ktorého hádaš. Napíš číslo do modrého okienka vpravo hore. Tučniak ti povie či je tvoje číslo väčšie alebo menšie. Potom napíš iné číslo. Vzdialenosť tučniaka od východu reprezentuje ako blízko si k myslenému číslu. Ak je tučniak nad východom, znamená to, že tvoje číslo je väčšie. Podobne, keď je tučniak pod východom, tvoje číslo je menšie."
+
+#: ../boards/hanoi.xml.in.h:1
+msgid "Concept taken from EPI games."
+msgstr "Koncept prevzatý z hier EPI"
+
+#: ../boards/hanoi.xml.in.h:2
+msgid ""
+"Drag and Drop one top piece at a time, from one peg to another, to reproduce "
+"the tower on the right in the empty space on the left."
+msgstr "Prekladaj kruhy z jedného kolíka na druhý, tak aby si na ľavý prázdny kolík poskladal takú istú vežu ako je vpravo."
+
+#: ../boards/hanoi.xml.in.h:4 ../src/boards/hanoi.c:97
+msgid "Reproduce the given tower"
+msgstr "Vytvor kópiu danej veže"
+
+#: ../boards/hanoi.xml.in.h:5
+msgid "Reproduce the tower on the right in the empty space on the left"
+msgstr "Vytvor kópiu veže z pravého kolíka na prázdny ľavý kolík"
+
+#: ../boards/hanoi.xml.in.h:6 ../src/boards/hanoi.c:96
+msgid "Simplified Tower of Hanoi"
+msgstr "Zjednodušené Hanojské veže"
+
+#: ../boards/hanoi_real.xml.in.h:1
+msgid ""
+"Drag and Drop the top pieces only from one peg to another, to reproduce the "
+"tower on the right in the empty space on the left."
+msgstr "Prekladaj kruhy z jedného kolíka na druhý, tak aby si na krajný pravý kolík poskladal takú istú vežu ako je vľavo."
+
+#: ../boards/hanoi_real.xml.in.h:3
+msgid "Reproduce the tower on the right side"
+msgstr "Vytvor vpravo kópiu danej veže"
+
+#: ../boards/hanoi_real.xml.in.h:4
+msgid "The Tower of Hanoi"
+msgstr "Hanojské veže"
+
+#: ../boards/hanoi_real.xml.in.h:5
+msgid ""
+"The object of the game is to move the entire stack to another peg, obeying "
+"the following rules:\n"
+"* only one disc may be moved at a time\n"
+"* no disc may be placed atop a smaller disc"
+msgstr ""
+"Cieľom hry je preložiť celú kopu kruhov na pravý kolík dodržiavajúc nasledujúce pravidlá:\n"
+"* naraz možno prenášať iba jeden kruh\n"
+"* väčší kruh nemôže byť položený na menší"
+
+#: ../boards/hanoi_real.xml.in.h:8
+msgid ""
+"The puzzle was invented by the French mathematician Edouard Lucas in 1883. "
+"There is a legend about a Hindu temple whose priests were constantly engaged "
+"in moving a set of 64 discs according to the rules of the Tower of Hanoi "
+"puzzle. According to the legend, the world would end when the priests "
+"finished their work. The puzzle is therefore also known as the Tower of "
+"Brahma puzzle. It is not clear whether Lucas invented this legend or was "
+"inspired by it. (source Wikipedia &lt;http://en.wikipedia.org/wiki/"
+"Tower_of_hanoi&gt;)"
+msgstr ""
+
+#: ../boards/hexagon.xml.in.h:1
+msgid "Find the strawberry by clicking on the blue fields"
+msgstr "Nájdi jahôdku klikaním na modré políčka"
+
+#: ../boards/hexagon.xml.in.h:4
+msgid ""
+"Try to find the strawberry under the blue fields. The fields become redder "
+"as you get closer."
+msgstr "Pokús sa nájsť jahôdku pod modrými políčkami. Políčka sa stávajú tým červenejšie, čím si bližšie k jahôdke."
+
+#: ../boards/hexagon.xml.in.h:5
+msgid "hexagon"
+msgstr "Hexagon"
+
+#: ../boards/imageid.xml.in.h:1
+msgid "Click on the word corresponding to the printed image."
+msgstr "Klikni na slovo zodpovedajúce zobrazenému obrázku."
+
+#: ../boards/imageid.xml.in.h:2
+msgid "Practice reading by finding the word matching an image"
+msgstr "Precvičovanie čítania pomocou hľadania vhodného slova k obrázku"
+
+#: ../boards/imageid.xml.in.h:3 ../boards/imagename.xml.in.h:4
+#: ../boards/readingh.xml.in.h:4 ../boards/readingv.xml.in.h:4
+#: ../src/boards/imageid.c:103 ../src/boards/missingletter.c:101
+msgid "Reading"
+msgstr "Čítanie"
+
+#: ../boards/imageid.xml.in.h:4
+msgid "Reading practice"
+msgstr "Cvičenie čítania"
+
+#: ../boards/imageid/board1.xml.in.h:1 ../boards/imagename/board4_0.xml.in.h:2
+msgid "apple"
+msgstr "jablko"
+
+#: ../boards/imageid/board1.xml.in.h:2
+msgid "back"
+msgstr "späť"
+
+#: ../boards/imageid/board1.xml.in.h:3
+msgid "bag"
+msgstr "taška"
+
+#: ../boards/imageid/board1.xml.in.h:4 ../boards/imagename/board6_0.xml.in.h:2
+msgid "ball"
+msgstr "lopta"
+
+#: ../boards/imageid/board1.xml.in.h:5
+msgid "banana"
+msgstr "banán"
+
+#: ../boards/imageid/board1.xml.in.h:6
+msgid "bed"
+msgstr "posteľ"
+
+#: ../boards/imageid/board1.xml.in.h:7
+msgid "boat"
+msgstr "loď"
+
+#: ../boards/imageid/board1.xml.in.h:8
+msgid "book"
+msgstr "kniha"
+
+#: ../boards/imageid/board1.xml.in.h:9 ../boards/imagename/board2_0.xml.in.h:2
+msgid "bottle"
+msgstr "fľaša"
+
+#: ../boards/imageid/board1.xml.in.h:10
+msgid "cake"
+msgstr "torta"
+
+#: ../boards/imageid/board1.xml.in.h:11
+msgid "camel"
+msgstr "ťava"
+
+#: ../boards/imageid/board1.xml.in.h:12
+#: ../boards/imagename/board4_0.xml.in.h:4
+msgid "car"
+msgstr "auto"
+
+#: ../boards/imageid/board1.xml.in.h:13
+msgid "cat"
+msgstr "mačka"
+
+#: ../boards/imageid/board1.xml.in.h:14
+msgid "catch"
+msgstr "chytiť"
+
+#: ../boards/imageid/board1.xml.in.h:15
+msgid "cheese"
+msgstr "syr"
+
+#: ../boards/imageid/board1.xml.in.h:16
+msgid "cow"
+msgstr "krava"
+
+#: ../boards/imageid/board1.xml.in.h:17
+msgid "dog"
+msgstr "pes"
+
+#: ../boards/imageid/board1.xml.in.h:18
+msgid "finish"
+msgstr "dokončiť"
+
+#: ../boards/imageid/board1.xml.in.h:19
+msgid "fish"
+msgstr "ryba"
+
+#: ../boards/imageid/board1.xml.in.h:20
+#: ../boards/imagename/board3_0.xml.in.h:2
+msgid "house"
+msgstr "dom"
+
+#: ../boards/imageid/board1.xml.in.h:21
+msgid "pear"
+msgstr "hruška"
+
+#: ../boards/imageid/board1.xml.in.h:22
+msgid "plane"
+msgstr "lietadlo"
+
+#: ../boards/imageid/board1.xml.in.h:23
+msgid "satchel"
+msgstr "aktovka"
+
+#: ../boards/imagename.xml.in.h:1 ../boards/imagename/board1_0.xml.in.h:1
+#: ../boards/imagename/board2_0.xml.in.h:1
+#: ../boards/imagename/board3_0.xml.in.h:1
+#: ../boards/imagename/board4_0.xml.in.h:1
+#: ../boards/imagename/board5_0.xml.in.h:1
+#: ../boards/imagename/board6_0.xml.in.h:1
+msgid "Drag and Drop each item onto its name"
+msgstr "Ťahaj a pusti položky na ich napísaný názov"
+
+#: ../boards/imagename.xml.in.h:2
+msgid ""
+"Drag each image from the (vertical) box on the left to its (corresponding) "
+"name on the right. Click the OK button to check your answer."
+msgstr "Zober obrázky z ľavého rámčeka na ich pozíciu prislúchajúcu názvu vpravo. Klikni na tlačítko 'OK' a skontroluj odpoveď."
+
+#: ../boards/imagename.xml.in.h:3
+msgid "Image Name"
+msgstr "Názov obrázka"
+
+#: ../boards/imagename.xml.in.h:5
+msgid "Vocabulary and reading"
+msgstr "Slovná zásoba a čítanie"
+
+#: ../boards/imagename/board1_0.xml.in.h:2
+msgid "bulb"
+msgstr "žiarovka"
+
+#: ../boards/imagename/board1_0.xml.in.h:3
+msgid "fishing boat"
+msgstr "rybárska loď"
+
+#: ../boards/imagename/board1_0.xml.in.h:4
+msgid "lamp"
+msgstr "lampa"
+
+#: ../boards/imagename/board1_0.xml.in.h:5
+msgid "mail box"
+msgstr "poštová schránka"
+
+#: ../boards/imagename/board1_0.xml.in.h:6
+#: ../boards/imagename/board5_0.xml.in.h:3
+msgid "postcard"
+msgstr "pohľadnica"
+
+#: ../boards/imagename/board1_0.xml.in.h:7
+#: ../boards/imagename/board3_0.xml.in.h:5
+#: ../boards/imagename/board6_0.xml.in.h:7
+msgid "sailing boat"
+msgstr "plachetnica"
+
+#: ../boards/imagename/board2_0.xml.in.h:3
+msgid "egg"
+msgstr "vajíčko"
+
+#: ../boards/imagename/board2_0.xml.in.h:4
+msgid "eggcup"
+msgstr "pohár na vajíčko"
+
+#: ../boards/imagename/board2_0.xml.in.h:5
+msgid "flower"
+msgstr "kvet"
+
+#: ../boards/imagename/board2_0.xml.in.h:6
+msgid "glass"
+msgstr "pohár"
+
+#: ../boards/imagename/board2_0.xml.in.h:7
+msgid "vase"
+msgstr "váza"
+
+#: ../boards/imagename/board3_0.xml.in.h:3
+msgid "light house"
+msgstr "maják"
+
+#: ../boards/imagename/board3_0.xml.in.h:4
+msgid "rocket"
+msgstr "raketa"
+
+#: ../boards/imagename/board3_0.xml.in.h:6
+msgid "sofa"
+msgstr "pohovka"
+
+#: ../boards/imagename/board3_0.xml.in.h:7
+#: ../boards/imagename/board5_0.xml.in.h:5
+msgid "star"
+msgstr "hviezda"
+
+#: ../boards/imagename/board4_0.xml.in.h:3
+msgid "bicycle"
+msgstr "bicykel"
+
+#: ../boards/imagename/board4_0.xml.in.h:5
+msgid "carrot"
+msgstr "mrkva"
+
+#: ../boards/imagename/board4_0.xml.in.h:6
+msgid "grater"
+msgstr "strúhadlo"
+
+#: ../boards/imagename/board4_0.xml.in.h:7
+msgid "tree"
+msgstr "strom"
+
+#: ../boards/imagename/board5_0.xml.in.h:2
+msgid "pencil"
+msgstr "ceruzka"
+
+#: ../boards/imagename/board5_0.xml.in.h:4
+msgid "spruce"
+msgstr "smrek"
+
+#: ../boards/imagename/board5_0.xml.in.h:6
+msgid "truck"
+msgstr "kamión"
+
+#: ../boards/imagename/board5_0.xml.in.h:7
+msgid "van"
+msgstr "dodávka"
+
+#: ../boards/imagename/board6_0.xml.in.h:3
+msgid "castle"
+msgstr "hrad"
+
+#: ../boards/imagename/board6_0.xml.in.h:4
+msgid "crown"
+msgstr "koruna"
+
+#: ../boards/imagename/board6_0.xml.in.h:5
+msgid "flag"
+msgstr "zástava"
+
+#: ../boards/imagename/board6_0.xml.in.h:6
+msgid "racket"
+msgstr "raketa"
+
+#: ../boards/keyboard.xml.in.h:1
+msgid "Discover the keyboard."
+msgstr "Preskúmaj klávesnicu."
+
+#: ../boards/keyboard.xml.in.h:2
+msgid "Keyboard-manipulation boards"
+msgstr "Aktivity na prácu s klávesnicou"
+
+#: ../boards/leftright.xml.in.h:1
+msgid "Determine if a hand is a right or a left hand"
+msgstr "Zisti či je to pravá alebo ľavá ruka"
+
+#: ../boards/leftright.xml.in.h:2
+msgid ""
+"Distinguish right and left hands from different points of view. Spatial "
+"representation"
+msgstr "Rozoznávanie ľavej ruky od pravej z rôznych pohľadov. Priestorová orientácia."
+
+#: ../boards/leftright.xml.in.h:3
+msgid "Find your left and right hands"
+msgstr "Nájdi svoje ľavé a pravé ruky"
+
+#: ../boards/leftright.xml.in.h:4 ../boards/railroad.xml.in.h:4
+msgid "None"
+msgstr "Žiadny"
+
+#: ../boards/leftright.xml.in.h:5
+msgid ""
+"You can see a hand: is it a left hand or a right hand? Click on the red "
+"button on the left, or the green button on the right."
+msgstr ""
+"Je zobrazená ruka. Musíš poznať, či je to pravá alebo ľavá ruka. Klikni na "
+"červené tlačítko - vľavo alebo na zelené tlačítko - vpravo."
+
+#: ../boards/login.xml.in.h:1
+msgid "GCompris identifies each child, so we can provide child-specific reports."
+msgstr "GCompris identifikuje každé dieťa, vďaka čomu je možné poskytnúť individuálne správy o deťoch."
+
+#: ../boards/login.xml.in.h:2
+msgid "GCompris login screen"
+msgstr "Prihlasovacia obrazovka GComprisu"
+
+#: ../boards/login.xml.in.h:3
+msgid ""
+"In order to activate the login screen, you must \n"
+"first add users in the administration part of GCompris. \n"
+"You access Administration by running 'gcompris -a'.\n"
+"In Administration, you can create different profiles. In each profile,\n"
+"you can have a different set of users and select which activities are "
+"available to them.\n"
+"To run GCompris for a specific profile, you use 'gcompris -p profile' where "
+"'profile'\n"
+"is the name of a profile as you created it in Administration."
+msgstr ""
+"Aby sa aktivovalo prihlasovanie musíte najprv pridať užívateľov v administračnej časti GComprisu spustením 'gcompris -a'.\n"
+"V administračnej časti môžte vytvárať profily, rozličné množiny užívateľov a určovať aké aktivity sú im k dispozícii.\n"
+"GCompris so špecifickým profilom sa spúšťa 'gcompris -p meno_profilu', kde meno_profilu je meno požadovaného profilu, ktorý ste vytvorili."
+
+#: ../boards/login.xml.in.h:10
+msgid "Select or enter your name to log in to GCompris"
+msgstr "Vyber alebo napíš svoje meno, aby si sa prihlásil do GComprisu"
+
+#: ../boards/magic_hat_plus.xml.in.h:1 ../boards/memory_add.xml.in.h:1
+msgid "Addition"
+msgstr "Sčítanie"
+
+#: ../boards/magic_hat_plus.xml.in.h:2
+msgid ""
+"Click on the hat to open or close it. Under the hat, how many stars can you "
+"see moving around? Count carefully. :) Click in the bottom-right area to "
+"input your answer."
+msgstr "Klikni na klobúk, aby si ho odokryl a zakryl pod ním hviezdičky. Koľko hviezdičiek si videl? Počítaj pozorne. :) Odpoveď vyplň v tabuľke vpravo dole."
+
+#: ../boards/magic_hat_plus.xml.in.h:3
+msgid "Count how many items are under the magic hat"
+msgstr "Spočítaj koľko hviezdičiek je pod čarovným klobúkom"
+
+#: ../boards/magic_hat_plus.xml.in.h:4
+msgid "Learn addition"
+msgstr "Uč sa sčítavať"
+
+#: ../boards/magic_hat_plus.xml.in.h:5 ../boards/magic_hat_minus.xml.in.h:5
+msgid "The magician hat"
+msgstr "Čarovný klobúk"
+
+#: ../boards/magic_hat_minus.xml.in.h:1
+msgid "Count how many items are under the magic hat after some have got away"
+msgstr "Spočítaj koľko hviezdičiek je pod čarovným klobúkom potom čo boli nejaké odobraté"
+
+#: ../boards/magic_hat_minus.xml.in.h:2
+msgid "Learn subtraction"
+msgstr "Uč sa odčítavať"
+
+#: ../boards/magic_hat_minus.xml.in.h:3
+msgid ""
+"Look at the magician, he tells the number of stars that are under his magic "
+"hat. Then, click on the hat to open it. A few stars escape. Click again on "
+"the hat to close it. You have to count how many are still under the hat. "
+"Click on the bottom right area to answer."
+msgstr "Pozri sa na čarodejný klobúk. Číslo na ňom hovorí koľko hviezdičiek je pod ním. Potom klikni na klobúk, ktorý sa odkryje a niekoľko hviezdičiek uletí. Klikni opäť na klobúk. Zvyšné hviezdičky sa zakryjú. Koľko ich je? Odpoveď naklikaj v tabuľke vpravo dole."
+
+#: ../boards/magic_hat_minus.xml.in.h:4 ../boards/memory_add_minus.xml.in.h:3
+#: ../boards/memory_add_minus_tux.xml.in.h:3 ../boards/memory_minus.xml.in.h:2
+#: ../boards/memory_minus_tux.xml.in.h:2
+msgid "Subtraction"
+msgstr "Odčítanie"
+
+#: ../boards/math.xml.in.h:1
+msgid "Mathematical activities."
+msgstr "Matematické aktivity"
+
+#: ../boards/math.xml.in.h:2
+msgid "Mathematics"
+msgstr "Matematika"
+
+#: ../boards/maze.xml.in.h:1 ../boards/maze2DRelative.xml.in.h:1
+#: ../boards/maze3D.xml.in.h:2 ../boards/mazeInvisible.xml.in.h:1
+msgid "Can use the keyboard arrow to move an object."
+msgstr "Vie používať šípky na klávesnici pre pohyb objektov."
+
+#: ../boards/maze.xml.in.h:2 ../src/boards/maze.c:129
+msgid "Find your way out of the maze"
+msgstr "Nájdi cestu z bludiska"
+
+#: ../boards/maze.xml.in.h:3 ../boards/maze2DRelative.xml.in.h:3
+#: ../boards/maze3D.xml.in.h:4 ../boards/mazeInvisible.xml.in.h:3
+msgid "Help Tux get out of this maze."
+msgstr "Pomôž tučniakovi dostať sa von z bludiska."
+
+#: ../boards/maze.xml.in.h:4 ../boards/maze2DRelative.xml.in.h:4
+#: ../boards/mazeInvisible.xml.in.h:4 ../src/boards/maze.c:128
+msgid "Maze"
+msgstr "Bludisko"
+
+#: ../boards/maze.xml.in.h:5
+msgid "Use the keyboard arrows to move Tux up to the door."
+msgstr "Použi šípky na klávesnici na premiestnenie tučniaka ku dverám."
+
+#: ../boards/maze2DRelative.xml.in.h:2
+msgid "Find your way out of the maze (Move is relative)"
+msgstr "Nájdi cestu z bludiska (Pohyb je relatívny)"
+
+#: ../boards/maze2DRelative.xml.in.h:5
+msgid ""
+"Use the keyboard arrows to move Tux up to the door. In this maze, the move "
+"is relative (first person). Use the up arrow to go forward. The other arrow "
+"let you turn Tux in another direction."
+msgstr "Použi šípky z klávesnice a presuň tučniaka do dverí. V tomto bludisku je pohyb relatívny (z pohľadu tučniaka). Šípka hore je pohyb dopredu. Šípky vľavo a vpravo otáčajú tučniaka do iných smerov."
+
+#: ../boards/maze3D.xml.in.h:1
+msgid "3D Maze"
+msgstr "3D Bludisko"
+
+#: ../boards/maze3D.xml.in.h:3
+msgid "Find your way out of the 3D maze"
+msgstr "Nájdi cestu z 3D bludiska"
+
+#: ../boards/maze3D.xml.in.h:5
+msgid ""
+"Use the keyboard arrows to move Tux up to the door. Use the spacebar to "
+"switch between 2D and 3D modes. 2D mode just gives you an indication of your "
+"position, like a map. You cannot move Tux in 2D mode."
+msgstr ""
+"Použi šípky na klávesnici a presuň tučniaka hore do dverí. Na prepínanie "
+"medzi 2D a 3D režimom použi kláves 'medzera'. 2D mód iba zobrazuje tvoju pozíciu ako keby na mape (nie je možné hýbať tučniakom)."
+
+#: ../boards/mazeInvisible.xml.in.h:2
+msgid "Find your way out of the invisible maze"
+msgstr "Nájdi cestu z neviditeľného bludiska"
+
+#: ../boards/mazeInvisible.xml.in.h:5
+msgid ""
+"Use the keyboard arrows to move Tux up to the door. Use the spacebar to "
+"switch between invisible and visible modes. Visible mode just gives you an "
+"indication of your position, like a map. You cannot move Tux in visible mode."
+msgstr ""
+"Použi šípky na klávesnici a presuň tučniaka hore do dverí. Na prepínanie "
+"medzi neviditeľným a viditeľným režimom použi kláves 'medzera'. Viditeľný mód iba zobrazuje tvoju pozíciu ako keby na mape (nie je možné hýbať tučniakom). "
+
+#: ../boards/mazeMenu.xml.in.h:1
+msgid "Find your way out of different types of mazes"
+msgstr "Nájdi cestu z rozličných typov bludísk"
+
+#: ../boards/mazeMenu.xml.in.h:2
+msgid "Go to Maze activities"
+msgstr "Prejsť na bludiskové aktivity"
+
+#: ../boards/melody.xml.in.h:1
+msgid "Ear-training activity"
+msgstr "Aktivita na precvičenie sluchu"
+
+#: ../boards/melody.xml.in.h:2
+msgid ""
+"Listen to the sound sequence played, and repeat it by clicking on the "
+"elements. You can listen again by clicking on the repeat button."
+msgstr "Počúvaj zahranú postupnosť zvukov a zopakuj ju klikaním na prvky. Odohranú sekvenciu si môžeš pripomenúť kliknutím na 'opakovacie' tlačítko."
+
+#: ../boards/melody.xml.in.h:3
+msgid "Melody"
+msgstr "Melódia"
+
+#: ../boards/melody.xml.in.h:5
+msgid "Repeat a melody"
+msgstr "Zopakuj melódiu"
+
+#: ../boards/memory.xml.in.h:1
+msgid ""
+"A set of blank cards is shown. Each card has a picture on the other side, "
+"and each picture card has a twin exactly the same. Click on a card to see "
+"its hidden picture, and try to match the twins. You can only turn over two "
+"cards at once, so you need to remember where a picture is, while you look "
+"for its twin. When you turn over the twins, they both disappear."
+msgstr ""
+"Pexeso\n"
+"Zobrazí sa sada kariet. Každá karta ma na druhej strane obrázok. Klikaním otáčas vždy dve karty. Tvojou úlohou je nájsť dve rovnaké obrázky, ktoré sa odoberú."
+
+#: ../boards/memory.xml.in.h:2
+msgid "Flip the cards to find the matching pairs"
+msgstr "Otáčaj karty a nájdi zhodné páry"
+
+#: ../boards/memory.xml.in.h:3
+msgid "Memory Game with images"
+msgstr "Pamäťová hra s obrázkami (Pexeso)"
+
+#: ../boards/memory.xml.in.h:5 ../boards/memory_tux.xml.in.h:4
+msgid "Train your memory and remove all the cards"
+msgstr "Precvič si svoju pamäť a vyzbieraj všetky karty"
+
+#: ../boards/memory_add.xml.in.h:2
+msgid "Addition memory game"
+msgstr "Pamäťová hra so sčítavaním"
+
+#: ../boards/memory_add.xml.in.h:3 ../boards/memory_add_tux.xml.in.h:3
+msgid "Practise adding up, until all the cards are gone."
+msgstr "Precvič si pričítavanie a vyzbieraj karty."
+
+#: ../boards/memory_add.xml.in.h:4 ../boards/memory_add_tux.xml.in.h:4
+msgid ""
+"Turn the cards over to find two numbers which add up the same, until all the "
+"cards are gone."
+msgstr "Otáčaj karty a hľadaj dve, ktorých číselný výsledok je rovnaký. Takto vyzbieraj všetky dvojice."
+
+#: ../boards/memory_add.xml.in.h:5 ../boards/memory_add_tux.xml.in.h:5
+msgid ""
+"You can see some cards, but you can't see what's on the other side of them. "
+"Each card is hiding an adding-up sum, or the answer to the sum.\n"
+"An adding-up sum looks like this: 2 + 2 = 4\n"
+"The numbers on one side of the equals sign (=) have to be the same as the "
+"number on the other side. So 2 (1, 2) and 2 more (3, 4) makes 4. Count aloud "
+"when you work this out, and count on your fingers, because the more ways you "
+"do something, the better you remember it. You can also use blocks, or "
+"buttons, or anything you can count. If you have lots of brothers and "
+"sisters, you can count them! Or the kids in your class at school. Sing "
+"counting songs. Count lots of things, for practice, and you'll be very good "
+"at adding-up!\n"
+"\n"
+"In this game, these cards are hiding the two parts of an adding-up sum (also "
+"called an addition sum). You need to find the two parts of the sum, and "
+"bring them together again. Click on a card to see what number it's hiding, "
+"then try to find the other card that goes with it, to make a whole sum. You "
+"can only turn over two cards in one go, so you need to remember where the "
+"numbers are hiding, then you can match them when you find their other half. "
+"You're doing the job of the equals sign, and the numbers need you to put "
+"them together and make a proper sum. When you do that, both those cards "
+"disappear! When you've made them all disappear, found all the sums, you've "
+"won the game! :)"
+msgstr ""
+
+#: ../boards/memory_add_minus.xml.in.h:1
+msgid "Addition and subtraction memory game"
+msgstr "Pamäťová hra na sčítanie a odčítanie"
+
+#: ../boards/memory_add_minus.xml.in.h:2
+#: ../boards/memory_add_minus_tux.xml.in.h:2
+msgid "Practise addition, subtraction, until all the cards are gone."
+msgstr "Precvič si sčítanie a odčítanie a vyzbieraj všetky karty."
+
+#: ../boards/memory_add_minus.xml.in.h:4
+#: ../boards/memory_add_minus_tux.xml.in.h:4
+msgid ""
+"Turn the cards over to find two numbers which add or subtract the same, "
+"until all the cards are gone."
+msgstr "Otáčaj karty a hľadaj dvojice, ktorých číselný výsledok (sčítanie,odčítanie) je rovnaký. Takto vyzbieraj všetky dvojice."
+
+#: ../boards/memory_add_minus.xml.in.h:5
+#: ../boards/memory_add_minus_mult_div.xml.in.h:5
+#: ../boards/memory_add_minus_mult_div_tux.xml.in.h:5
+#: ../boards/memory_add_minus_tux.xml.in.h:5 ../boards/memory_div.xml.in.h:5
+#: ../boards/memory_div_tux.xml.in.h:5 ../boards/memory_mult.xml.in.h:5
+#: ../boards/memory_mult_div.xml.in.h:5
+#: ../boards/memory_mult_div_tux.xml.in.h:5
+#: ../boards/memory_mult_tux.xml.in.h:5
+msgid ""
+"You can see some cards, but you can't see what's on the other side of them. "
+"Each card is hiding an operation, or the answer to it.\n"
+"\n"
+"In this game, these cards are hiding the two parts of an operation. You need "
+"to find the two parts of the operation, and bring them together again. Click "
+"on a card to see what number it's hiding, then try to find the other card "
+"that goes with it, to make a whole operation. You can only turn over two "
+"cards in one go, so you need to remember where the numbers are hiding, then "
+"you can match them when you find their other half. You're doing the job of "
+"the equals sign, and the numbers need you to put them together and make a "
+"proper equality. When you do that, both those cards disappear! When you've "
+"made them all disappear, found all the operations, you've won the game! :)"
+msgstr ""
+
+#: ../boards/memory_add_minus_mult_div.xml.in.h:1
+#: ../boards/memory_add_minus_mult_div_tux.xml.in.h:1
+msgid "Addition, subtraction, multiplication, division"
+msgstr "Sčítanie, odčítanie, násobenie, delenie"
+
+#: ../boards/memory_add_minus_mult_div.xml.in.h:2
+msgid "All operations memory game"
+msgstr "Pamäťová hra na všetky operácie"
+
+#: ../boards/memory_add_minus_mult_div.xml.in.h:3
+#: ../boards/memory_add_minus_mult_div_tux.xml.in.h:3
+msgid ""
+"Practise addition, subtraction, multiplication, division, until all the "
+"cards are gone."
+msgstr "Precvič si sčítanie, odčítanie, násobenie, delenie a vyzbieraj všetky karty."
+
+#: ../boards/memory_add_minus_mult_div.xml.in.h:4
+#: ../boards/memory_add_minus_mult_div_tux.xml.in.h:4
+#: ../boards/memory_div.xml.in.h:4 ../boards/memory_div_tux.xml.in.h:4
+#: ../boards/memory_mult_div.xml.in.h:4
+#: ../boards/memory_mult_div_tux.xml.in.h:4
+#: ../boards/memory_mult_tux.xml.in.h:4
+msgid ""
+"Turn the cards over to find a matching operation, until all the cards are "
+"gone."
+msgstr "Otáčaj karty a hľadaj dvojice s rovnakým číselným výsledkom. Takto vyzbieraj všetky karty."
+
+#: ../boards/memory_add_minus_mult_div_tux.xml.in.h:2
+msgid "All operations memory game against Tux"
+msgstr "Pamäťová hra na všetky operácie proti tučniakovi"
+
+#: ../boards/memory_add_minus_tux.xml.in.h:1
+msgid "Addition and subtraction memory game against Tux"
+msgstr "Pamäťová hra na sčítanie a odčítanie proti tučniakovi"
+
+#: ../boards/memory_add_tux.xml.in.h:1
+msgid "Addition memory game against Tux"
+msgstr "Pamäťová hra so sčítavaním proti tučniakovi"
+
+#: ../boards/memory_add_tux.xml.in.h:2 ../boards/memory_mult_tux.xml.in.h:1
+msgid "Additions"
+msgstr "Sčítania"
+
+#: ../boards/memory_div.xml.in.h:1 ../boards/memory_div_tux.xml.in.h:1
+msgid "Division"
+msgstr "Delenie"
+
+#: ../boards/memory_div.xml.in.h:2
+msgid "Division memory game"
+msgstr "Pamäťová hra na delenie"
+
+#: ../boards/memory_div.xml.in.h:3 ../boards/memory_div_tux.xml.in.h:3
+msgid "Practise division, until all the cards are gone."
+msgstr "Precvič si delenie a vyzbieraj všetky karty."
+
+#: ../boards/memory_div_tux.xml.in.h:2
+msgid "Division memory game against Tux"
+msgstr "Pamäťová hra na delenie proti tučniakovi"
+
+#: ../boards/memory_group.xml.in.h:1
+msgid "Go to Memory activities"
+msgstr "Prejsť na pamäťové aktivity"
+
+#: ../boards/memory_group.xml.in.h:2
+msgid "Various memory activities (images, letters, sounds)."
+msgstr "Rozličné pamäťové aktivity (obrázky, písmenká, zvuky)."
+
+#: ../boards/memory_minus.xml.in.h:1 ../boards/memory_minus_tux.xml.in.h:1
+msgid "Practise subtraction, until all the cards are gone."
+msgstr "Precvič si odčítanie a vyzbieraj všetky karty."
+
+#: ../boards/memory_minus.xml.in.h:3
+msgid "Subtraction memory game"
+msgstr "Pamäťová hra na odčítavanie"
+
+#: ../boards/memory_minus.xml.in.h:4 ../boards/memory_minus_tux.xml.in.h:4
+msgid ""
+"Turn the cards over to find two numbers which subtract the same, until all "
+"the cards are gone."
+msgstr "Otáčaj karty a hľadaj dve, ktorých číselný výsledok je rovnaký. Takto vyzbieraj všetky dvojice."
+
+#: ../boards/memory_minus.xml.in.h:5 ../boards/memory_minus_tux.xml.in.h:5
+msgid ""
+"You can see some cards, but you can't see what's on the other side of them. "
+"Each card is hiding a subtraction, or the answer to it.\n"
+"A subtraction looks like this: 3 - 1 = 2\n"
+"The numbers on one side of the equals sign (=) have to be the same as the "
+"number on the other side. So 3 (1, 2, 3) less 1 (1) makes 2. Count aloud "
+"when you work this out, and count on your fingers, because the more ways you "
+"do something, the better you remember it. You can also use blocks, or "
+"buttons, or anything you can count. If you have lots of brothers and "
+"sisters, you can count them! Or the kids in your class at school. Sing "
+"counting songs. Count lots of things, for practice, and you'll be very good "
+"at adding-up!\n"
+"\n"
+"In this game, these cards are hiding the two parts of a subtraction. You "
+"need to find the two parts of the subraction, and bring them together again. "
+"Click on a card to see what number it's hiding, then try to find the other "
+"card that goes with it, to make a whole sum. You can only turn over two "
+"cards in one go, so you need to remember where the numbers are hiding, then "
+"you can match them when you find their other half. You're doing the job of "
+"the equals sign, and the numbers need you to put them together and make a "
+"proper sum. When you do that, both those cards disappear! When you've made "
+"them all disappear, found all the subtracts, you've won the game! :)"
+msgstr ""
+
+#: ../boards/memory_minus_tux.xml.in.h:3
+msgid "Subtraction memory game against Tux"
+msgstr "Pamäťová hra na odčítavanie proti tučniakovi"
+
+#: ../boards/memory_mult.xml.in.h:1
+msgid "Multiplication"
+msgstr "Násobenie"
+
+#: ../boards/memory_mult.xml.in.h:2
+msgid "Multiplication memory game"
+msgstr "Pamäťová hra na násobenie"
+
+#: ../boards/memory_mult.xml.in.h:3
+msgid "Practise multiplication, until all the cards are gone."
+msgstr "Precvič si násobenie a vyzbieraj všetky karty."
+
+#: ../boards/memory_mult.xml.in.h:4
+msgid ""
+"Turn the cards over to find two numbers which multiply the same, until all "
+"the cards are gone."
+msgstr "Otáčaj karty a hľadaj dve, ktorých číselný výsledok po násobení je rovnaký. Takto vyzbieraj všetky dvojice."
+
+#: ../boards/memory_mult_div.xml.in.h:1
+msgid "Multiplication and division memory game"
+msgstr "Pamäťová hra na násobenie a delenie"
+
+#: ../boards/memory_mult_div.xml.in.h:2
+#: ../boards/memory_mult_div_tux.xml.in.h:2
+msgid "Multiplication, division"
+msgstr "Násobenie, delenie"
+
+#: ../boards/memory_mult_div.xml.in.h:3
+#: ../boards/memory_mult_div_tux.xml.in.h:3
+msgid "Practise multiplication, division, until all the cards are gone."
+msgstr "Precvič si násobenie, delenie a vyzbieraj všetky karty."
+
+#: ../boards/memory_mult_div_tux.xml.in.h:1
+msgid "Multiplication and division memory game against Tux"
+msgstr "Pamäťová hra na násobenie a delenie proti tučniakovi"
+
+#: ../boards/memory_mult_tux.xml.in.h:2
+msgid "Multiplication memory game against Tux"
+msgstr "Pamäťová hra na násobenie proti tučniakovi"
+
+#: ../boards/memory_mult_tux.xml.in.h:3
+msgid "Practise multiplication until all the cards are gone."
+msgstr "Precvič si násobenie a vyzbieraj všetky karty."
+
+#: ../boards/memory_op_group.xml.in.h:1
+msgid "Go to mathematics memory activities"
+msgstr "Prejsť na matematické pamäťové aktivity"
+
+#: ../boards/memory_op_group.xml.in.h:2
+#: ../boards/memory_op_group_tux.xml.in.h:2
+msgid "Memory activities based on operations"
+msgstr "Pamäťové aktivity založené na matematických operáciách"
+
+#: ../boards/memory_op_group_tux.xml.in.h:1
+msgid "Go to mathematics memory activities against Tux"
+msgstr "Prejsť na matematické pamäťové aktivity proti tučniakovi"
+
+#: ../boards/memory_sound.xml.in.h:1 ../boards/memory_sound_tux.xml.in.h:1
+msgid ""
+"A set of violinist Tux is shown. Each Tux has an associated sound, and each "
+"sound has a twin exactly the same. Click on a Tux to see its hidden sound, "
+"and try to match the twins. You can only activate two Tux at once, so you "
+"need to remember where a sound is, while you listen to its twin. When you "
+"turn over the twins, they both disappear."
+msgstr ""
+
+#: ../boards/memory_sound.xml.in.h:2
+msgid "Audio memory game"
+msgstr "Zvuková pamäťová hra"
+
+#: ../boards/memory_sound.xml.in.h:3
+msgid "Click on Tux the violinist and listen to find the matching sounds"
+msgstr "Klikni na tučniaka-hudobníka, počúvaj a hľadaj rovnaké zvuky"
+
+#: ../boards/memory_sound.xml.in.h:4 ../boards/memory_sound_tux.xml.in.h:3
+#: ../boards/memory_tux.xml.in.h:3
+msgid "Mouse manipulation, Brain."
+msgstr "Manipulácia s myšou, Mozog"
+
+#: ../boards/memory_sound.xml.in.h:5 ../boards/memory_sound_tux.xml.in.h:5
+msgid "Train your audio memory and remove all the violonists Tux."
+msgstr "Precvič si svoju sluchovú pamäť a odstráň všetkých tučniakov-hudobníkov."
+
+#: ../boards/memory_sound_tux.xml.in.h:2
+msgid "Audio memory game against Tux"
+msgstr "Zvuková pamäťová hra proti tučniakovi"
+
+#: ../boards/memory_sound_tux.xml.in.h:4
+msgid "Play the audio memory game against Tux"
+msgstr "Zahraj si zvuková pamäťová hra proti tučniakovi"
+
+#: ../boards/memory_tux.xml.in.h:1
+msgid "Have a memory competition with Tux."
+msgstr "Zahraj si pamäťovú súťaž s tučniakom."
+
+#: ../boards/memory_tux.xml.in.h:2
+msgid "Memory Game with images, against Tux"
+msgstr "Pamäťová hra s obrázkami (Pexeso) proti tučniakovi"
+
+#: ../boards/memory_tux.xml.in.h:5
+msgid ""
+"You can see a set of cards that all look the same. Each card has a picture "
+"on the other side, and each picture has a twin somewhere in the set. You can "
+"only turn over two cards at once, so you need to remember where the pictures "
+"are until you can find the twin. When you turn over twins, they disappear! "
+"You take turns with Tux, and to win the game, you have to find more pairs of "
+"twins than he does."
+msgstr ""
+"Pexeso\n"
+"Zobrazí sa sada kariet. Každá karta ma na druhej strane obrázok. Klikaním otáčas vždy dve karty. Tvojou úlohou je nájsť dve rovnaké obrázky, ktoré sa odoberú. V hľadaní sa striedaš s tučniakom. Ak chceš vyhrať musíš vyzbierať viac párov ako tučniak."
+
+#: ../boards/menu.xml.in.h:1
+msgid ""
+"A simple click on an icon brings you to an activity or a menu of "
+"activities.\n"
+"At the bottom of the screen is the gcompris control bar.\n"
+"The following icons are displayed from right to left.\n"
+"(note that each icon is displayed only if available in the current "
+"activity)\n"
+"    Home - Back to previous menu or exit gcompris if at the top\n"
+"    Thumb - OK. Confirm your answer\n"
+"    Dice - Display the current level. Click to select another level\n"
+"    Music note - Repeat the question\n"
+"    Question Mark - Help\n"
+"    Tool - The configuration menu\n"
+"    Tux Plane - About GCompris\n"
+"The stars show suitable age groups for each game:\n"
+"    1, 2 or 3 simple stars  - from 2 to 6 years old\n"
+"    1, 2 or 3 complex stars - 7 years and up"
+msgstr ""
+"Jednoduché kliknutie na ikonu ťa privedie k aktivite alebo ponuke.\n"
+"V spodnej časti obrazovky je ovládací panel GComprisu. Nižšie je popísaný význam ikon, ktoré sú zobrazené zprava doľava. Tieto ikony sa zobrazujú, len pokiaľ sú v aktivite k "
+"dispozícií.\n"
+"Domov - Späť na predchádzajúcu ponuku alebo ukončí program;\n"
+"Palec - OK, potvrdí vašu voľbu;\n"
+"Kocka - Zobrazuje aktuálnu úroveň. Kliknutím na ňu zmeníš obtiažnosť;\n"
+"Nota - Požiadavka, aby GCompris zopakoval otázku;\n "
+"Otáznik - Pomocník;\n"
+"Škatuľa s náradím - Ponuka s nastaveniami;\n"
+"Lietadlo s Tuxom - O programe;\n"
+"Hviezdičky (pri ikonke) reprezentujú vhodnú vekovú skupinu každej aktivity:\n"
+"1, 2 alebo 3 hviezdičky - od 2 do 6 rokov;\n"
+"1, 2 alebo 3 komplexné hviezdičky - od 7 rokov;"
+
+#: ../boards/menu.xml.in.h:15
+msgid "GCompris Main Menu"
+msgstr "Hlavná ponuka GComprisu"
+
+#: ../boards/menu.xml.in.h:16 ../src/boards/menu2.c:1009
+msgid ""
+"GCompris is a collection of educational games that provides different "
+"activities for children aged 2 and up."
+msgstr "GComris je kolekcia edukačných hier, ktoré zabezpečujú rôzne aktivity pre deti od 2 rokov."
+
+#: ../boards/menu.xml.in.h:18
+msgid ""
+"The goal of gcompris is to provide a free alternative to popular proprietary "
+"edutainment software"
+msgstr ""
+"Cieľom GComprisu je vytvoriť slobodnú alternatívu k populárnym proprietárnym "
+"vzdelávacím softvérom"
+
+#: ../boards/miscelaneous.xml.in.h:1
+msgid "Miscellaneous activities"
+msgstr "Rozličné aktivity"
+
+#: ../boards/miscelaneous.xml.in.h:2
+msgid "Time, Geography, ..."
+msgstr "Čas, Zemepis, ..."
+
+#: ../boards/missing_letter.xml.in.h:1
+msgid ""
+"An object is displayed in the main area, and an incomplete word is printed "
+"under the picture. Select the missing letter to complete the word."
+msgstr ""
+"V hlavnej oblasti sa zobrazuje objekt. Pod obrázkom je vytlačené neúplné "
+"slovo. Vyber chýbajúce písmeno pre doplnenie slova."
+
+#: ../boards/missing_letter.xml.in.h:2
+msgid "Fill in the missing letter"
+msgstr "Vyplň chýbajúce písmená"
+
+#: ../boards/missing_letter.xml.in.h:3
+msgid "Missing Letter"
+msgstr "Chýbajúce písmeno"
+
+#: ../boards/missing_letter.xml.in.h:4
+msgid "Training reading skills"
+msgstr "Precvič si čítacie schopnosti"
+
+#: ../boards/missing_letter.xml.in.h:5
+msgid "Word reading"
+msgstr "Čítanie slov"
+
+#: ../boards/missing_letter/board1.xml.in.h:1
+msgid "apple/_pple/a/i/o"
+msgstr "jablko/_ablko/j/k/t"
+
+#: ../boards/missing_letter/board1.xml.in.h:2
+msgid "apple/app_e/l/h/n"
+msgstr "jablko/jab_ko/l/h/o"
+
+#: ../boards/missing_letter/board1.xml.in.h:3
+msgid "apple/appl_/e/h/a"
+msgstr "jablko/j_blko/a/i/o"
+
+#: ../boards/missing_letter/board1.xml.in.h:4
+msgid "ball/_all/b/p/d"
+msgstr "lopta/_opta/l/b/d"
+
+#: ../boards/missing_letter/board1.xml.in.h:5
+msgid "ball/b_ll/a/u/o"
+msgstr "lopta/l_pta/o/e/i"
+
+#: ../boards/missing_letter/board1.xml.in.h:6
+msgid "ball/bal_/l/h/s"
+msgstr "lopta/lo_ta/p/b/d"
+
+#: ../boards/missing_letter/board1.xml.in.h:7
+msgid "banana/_anana/b/p/d"
+msgstr "banán/_anán/b/p/d"
+
+#: ../boards/missing_letter/board1.xml.in.h:8
+msgid "banana/b_nana/a/o/i"
+msgstr "banán/b_nán/a/o/i"
+
+#: ../boards/missing_letter/board1.xml.in.h:9
+msgid "banana/ba_ana/n/m/b"
+msgstr "banán/ba_án/n/m/b"
+
+#: ../boards/missing_letter/board1.xml.in.h:10
+msgid "bed/_ed/b/l/f"
+msgstr "posteľ/_osteľ/p/l/f"
+
+#: ../boards/missing_letter/board1.xml.in.h:11
+msgid "bed/b_d/e/a/i"
+msgstr "posteľ/p_steľ/o/i/e"
+
+#: ../boards/missing_letter/board1.xml.in.h:12
+msgid "bed/be_/d/p/b"
+msgstr "posteľ/po_teľ/s/p/d"
+
+#: ../boards/missing_letter/board1.xml.in.h:13
+msgid "bottle/_ottle/b/t/p"
+msgstr "fľaša/_ľaša/f/t/b"
+
+#: ../boards/missing_letter/board1.xml.in.h:14
+msgid "bottle/b_ttle/o/u/d"
+msgstr "fľaša/fľ_ša/a/o/u"
+
+#: ../boards/missing_letter/board1.xml.in.h:15
+msgid "bottle/bott_e/l/y/r"
+msgstr "fľaša/fľa_a/š/l/s"
+
+#: ../boards/missing_letter/board1.xml.in.h:16
+msgid "cake/_ake/c/p/d"
+msgstr "torta/_orta/t/z/b"
+
+#: ../boards/missing_letter/board1.xml.in.h:17
+msgid "cake/c_ke/a/o/e"
+msgstr "torta/t_rta/o/a/e"
+
+#: ../boards/missing_letter/board1.xml.in.h:18
+msgid "cake/ca_e/k/q/c"
+msgstr "torta/to_ta/r/c/l"
+
+#: ../boards/missing_letter/board1.xml.in.h:19
+msgid "car/_ar/c/k/b"
+msgstr "auto/au_o/t/z/b"
+
+#: ../boards/missing_letter/board1.xml.in.h:20
+msgid "car/c_r/a/k/o"
+msgstr "auto/a_to/u/i/e"
+
+#: ../boards/missing_letter/board1.xml.in.h:21
+msgid "car/ca_/r/w/k"
+msgstr "auto/aut_/o/i/u"
+
+#: ../boards/missing_letter/board1.xml.in.h:22
+msgid "dog/_og/d/p/q"
+msgstr "pes/_es/p/s/q"
+
+#: ../boards/missing_letter/board1.xml.in.h:23
+msgid "dog/d_g/o/g/a"
+msgstr "pes/p_s/e/o/a"
+
+#: ../boards/missing_letter/board1.xml.in.h:24
+msgid "dog/do_/g/p/q"
+msgstr "pes/pe_/s/p/q"
+
+#: ../boards/missing_letter/board1.xml.in.h:25
+msgid "fish/_ish/f/h/l"
+msgstr "ryba/_yba/r/h/f"
+
+#: ../boards/missing_letter/board1.xml.in.h:26
+msgid "fish/f_sh/i/u/l"
+msgstr "ryba/r_ba/y/u/l"
+
+#: ../boards/missing_letter/board1.xml.in.h:27
+msgid "fish/fis_/h/o/i"
+msgstr "ryba/ryb_/a/o/i"
+
+#: ../boards/missing_letter/board1.xml.in.h:28
+msgid "house/_ouse/h/e/j"
+msgstr "dom/_om/d/t/k"
+
+#: ../boards/missing_letter/board1.xml.in.h:29
+msgid "house/h_use/o/f/u"
+msgstr "dom/d_m/o/u/f"
+
+#: ../boards/missing_letter/board1.xml.in.h:30
+msgid "house/hous_/e/a/i"
+msgstr "dom/do_/m/n/k"
+
+#: ../boards/missing_letter/board1.xml.in.h:31
+msgid "plane/_lane/p/g/d"
+msgstr "lietadlo/_ietadlo/l/j/v"
+
+#: ../boards/missing_letter/board1.xml.in.h:32
+msgid "plane/p_ane/l/j/i"
+msgstr "lietadlo/lieta_lo/d/t/h"
+
+#: ../boards/missing_letter/board1.xml.in.h:33
+msgid "plane/pl_ne/a/o/s"
+msgstr "lietadlo/lietad_o/l/j/v"
+
+#: ../boards/missing_letter/board1.xml.in.h:34
+msgid "satchel/_atchel/s/c/l"
+msgstr "aktovka/a_tovka/k/u/r"
+
+#: ../boards/missing_letter/board1.xml.in.h:35
+msgid "satchel/s_tchel/a/o/i"
+msgstr "aktovka/_ktovka/a/o/i"
+
+#: ../boards/missing_letter/board1.xml.in.h:36
+msgid "satchel/sa_chel/t/p/c"
+msgstr "aktovka/ak_ovka/t/p/c"
+
+#: ../boards/money.xml.in.h:1 ../boards/money_cents.xml.in.h:1
+msgid "Can count"
+msgstr "Vie počítať"
+
+#: ../boards/money.xml.in.h:2 ../boards/money_cents.xml.in.h:2
+msgid ""
+"Click on the coins or paper money at the bottom of the screen to pay. If you "
+"want to remove a coin or note, click on it on the upper screen area."
+msgstr ""
+"Zaplať kliknutím na mincu alebo papierové peniaze v spodnej časti obrazovky. "
+"Pokiaľ chceš odstrániť mincu alebo bankovku, klikni na ňu v hornej časti "
+"obrazovky."
+
+#: ../boards/money.xml.in.h:3 ../boards/money_cents.xml.in.h:3
+msgid "Money"
+msgstr "Peniaze"
+
+#: ../boards/money.xml.in.h:4
+msgid "Practice money usage"
+msgstr "Precvičovanie používania peňazí"
+
+#: ../boards/money.xml.in.h:5 ../boards/money_cents.xml.in.h:5
+msgid ""
+"You must buy the different items and give the exact price. At higher levels, "
+"several items are displayed, and you must first calculate the total price."
+msgstr ""
+"Musíš kupovať rôzne veci a platiť presne. Vo vyššej úrovni je zobrazených "
+"viac vecí a preto musíš najskôr spočítať celkovú cenu."
+
+#: ../boards/money_cents.xml.in.h:4
+msgid "Practice money usage including cents"
+msgstr "Precvičovanie používania peňazí vrátane halierov"
+
+#: ../boards/mosaic.xml.in.h:1
+msgid "Rebuild the mosaic"
+msgstr "Poskladaj mozaiku"
+
+#: ../boards/mouse.xml.in.h:1
+msgid "Mouse-manipulation activities."
+msgstr "Aktivity na manipuláciu s myšou"
+
+#: ../boards/mouse.xml.in.h:2
+msgid "Various mouse-based activities (clicking, moving)"
+msgstr "Rozličné aktivity založené na práci s myšou (klikanie, ťahanie)"
+
+#: ../boards/numeration.xml.in.h:1
+msgid "Numeration"
+msgstr "Počítanie"
+
+#: ../boards/numeration.xml.in.h:2
+msgid "Numeration activities."
+msgstr "Číselné aktivity."
+
+#: ../boards/oscar_and_friends.xml.in.h:1
+msgid "Improve reading skill and the ability to understand what is read."
+msgstr "Zlepši sa v čítaní a v schopnosti pochopiť čo si čítal"
+
+#: ../boards/oscar_and_friends.xml.in.h:2
+msgid "Read and play with the story"
+msgstr "Čítaj a zahraj sa s príbehom"
+
+#: ../boards/oscar_and_friends.xml.in.h:3
+msgid "The story of Oscar and friend"
+msgstr "Príbeh o Oskarovi a jeho priateľoch"
+
+#: ../boards/oscar_and_friends.xml.in.h:4
+msgid "reading"
+msgstr "Čítanie"
+
+#: ../boards/paintings.xml.in.h:1
+msgid "Assemble the puzzle"
+msgstr "Poskladaj skladačku"
+
+#: ../boards/paintings.xml.in.h:2
+msgid "Drag and Drop the items to rebuild the original paintings"
+msgstr "Ťahaj a pusti položky tak, aby si znovu vytvorili pôvodnú maľbu"
+
+#: ../boards/paintings.xml.in.h:3
+msgid ""
+"Drag the image parts from the box on the left to create a painting on the "
+"main board."
+msgstr "Zober kúsky obrázku z ľavého rámčeka a poskladaj z nich maľbu v hlavnej časti plochy."
+
+#: ../boards/paintings.xml.in.h:4
+msgid "Mouse-manipulation: movement, drag and drop"
+msgstr "Manipulácia s myšou: pohyb, ťahanie a pustenie"
+
+#: ../boards/paintings.xml.in.h:5
+msgid "Spatial representation"
+msgstr "Reprezentácia priestoru"
+
+#: ../boards/paintings/board1_0.xml.in.h:1
+msgid "Edgar Degas, The Dancing Class - 1873-75"
+msgstr "Edgar Degas, Tanečná trieda - 1873-75"
+
+#: ../boards/paintings/board2_0.xml.in.h:1
+msgid "Pierre-Auguste Renoir, Le Moulin de la Galette - 1876"
+msgstr "Pierre-Auguste Renoir, Le Moulin de la Galette - 1876"
+
+#: ../boards/paintings/board3_0.xml.in.h:1
+msgid "Pierre-Auguste Renoir, Girls At The Piano - 1892"
+msgstr "Pierre-Auguste Renoir, Dievča pri klavíry - 1892"
+
+#: ../boards/paintings/board3_1.xml.in.h:1
+msgid "Kandinsky, Wassily, Composition VIII - 1923"
+msgstr "Kandinsky, Wassily, Kompozícia VIII - 1923"
+
+#: ../boards/paintings/board3_1.xml.in.h:2
+msgid "Oil on canvas, 140 x 201 cm; Solomon R. Guggenheim Museum, New York"
+msgstr "Olej na plátne , 140 x 201 cm; Solomon R. Guggenheim Museum, New York"
+
+#: ../boards/paintings/board4_0.xml.in.h:1
+msgid "Bazille, The Ramparts at Aigues-Mortes - 1867"
+msgstr "Bazille, Hradby v Aigues-Mortes - 1867"
+
+#: ../boards/paintings/board5_0.xml.in.h:1
+msgid "Cassatt, Mary - Summertime - 1894"
+msgstr "Cassatt, Mary - Leto - 1895"
+
+#: ../boards/paintings/board6_0.xml.in.h:1
+msgid "Vincent Van Gogh, Village Street in Auvers - 1890"
+msgstr "Vincent Van Gogh, Dedinská ulica v Auvers - 1890"
+
+#: ../boards/paratrooper.xml.in.h:1
+msgid "Help Tux the parachutist land safely"
+msgstr "Pomôž tučniakovi-parašutistovi bezpečne pristáť "
+
+#: ../boards/paratrooper.xml.in.h:2
+msgid ""
+"Hit any key or click on the plane to make Tux jump. Hit another key or click "
+"on Tux to open the parachute."
+msgstr "Stlač ľubovolný kláves alebo klikni na lietadlo a tučniak vyskočí. Opäť stlač ľubovolný kláves alebo klikni na tučniaka a otvorí sa mu padák."
+
+#: ../boards/paratrooper.xml.in.h:3
+msgid ""
+"In this game, Tux the parachutist needs help to land safely on the fishing "
+"boat. He needs to allow for the wind direction and speed."
+msgstr ""
+"V tejto hre deti sa budú pokúšať, aby prieskumník Tux bezpečne pristál na "
+"rybárskej lodi. Bude treba brať do úvahy smer vetra a rýchlosť."
+
+#: ../boards/paratrooper.xml.in.h:4
+msgid "Parachutist"
+msgstr "Parašutista"
+
+#: ../boards/paratrooper.xml.in.h:5
+msgid "This board is game-oriented. No specific skills are needed to play."
+msgstr ""
+"Táto tabuľa je orientovaná na hru. Nevyžaduje špecifické schopnosti, aby si "
+"ju mohol hrať."
+
+#: ../boards/planegame.xml.in.h:1
+msgid ""
+"Catch the numbers in increasing order, using the up, down, right and left "
+"arrows on the keyboard to move the helicopter."
+msgstr ""
+
+#: ../boards/planegame.xml.in.h:2
+msgid "Move the helicopter to catch the clouds in the correct order"
+msgstr "Pohybuj lietadlom tak, aby zachytil oblaky v správnom poradí"
+
+#: ../boards/planegame.xml.in.h:3
+msgid "Number"
+msgstr "Číslo"
+
+#: ../boards/planegame.xml.in.h:4 ../src/boards/planegame.c:74
+msgid "Numbers in Order"
+msgstr "Čísla v poradí"
+
+#: ../boards/puzzle.xml.in.h:1
+msgid "Puzzles"
+msgstr "Skladačky"
+
+#: ../boards/puzzle.xml.in.h:2
+msgid "Various puzzles."
+msgstr "Rozličné skladačky."
+
+#: ../boards/pythontest.xml.in.h:1
+msgid "Add a language-binding to gcompris."
+msgstr "Pridať ku gcomprisu rozšírenie pre iný jazyk."
+
+#: ../boards/pythontest.xml.in.h:2
+msgid "Advanced Python Programmer :)"
+msgstr "Pokročilý programátor v Pythone :)"
+
+#: ../boards/pythontest.xml.in.h:3
+msgid "Python Test"
+msgstr "Test Pythonu"
+
+#: ../boards/pythontest.xml.in.h:4
+msgid "Test board for the python plugin"
+msgstr "Testovacia doska pre zásuvný modul python"
+
+#: ../boards/pythontest.xml.in.h:5
+msgid "Thanks to Guido van Rossum and the python team for this powerful language!"
+msgstr "Vďaka Guidovi van Rossumovi a týmu pythonu za tento výkonný jazyk"
+
+#: ../boards/railroad.xml.in.h:1
+msgid "A memory game based on trains"
+msgstr "Pamäťová hra založená na vlakoch"
+
+#: ../boards/railroad.xml.in.h:2
+msgid ""
+"A train - a locomotive and carriage(s) - is displayed at the top of the main "
+"area for a few seconds. Rebuild it at the top of the screen by selecting the "
+"appropriate carriages and locomotive. Deselect an item by clicking on it "
+"again. Check your construction by clicking on the hand at the bottom."
+msgstr ""
+"V hornej časti hlavnej oblasti je zobrazený vlak - lokomotíva a vagón(y). Po "
+"niekoľkých sekundách vlak odíde. Potom ho musíš v hornej časti obrazovky "
+"znovu zostaviť vybraním správnych vagónov a lokomotívy. Vyradiť položku "
+"môžeš kedykoľvek pomocou kliknutia na ňu. Svoj výber potvrď kliknutím na "
+"ruku v spodnej časti."
+
+#: ../boards/railroad.xml.in.h:3
+msgid "Memory-training"
+msgstr "Precvičovanie pamäte"
+
+#: ../boards/railroad.xml.in.h:5
+msgid "Railway"
+msgstr "Železnica"
+
+#: ../boards/read_colors.xml.in.h:2
+msgid "Click on the correct colored object."
+msgstr "Klikni na objekt so správnou farbou."
+
+#: ../boards/read_colors.xml.in.h:3
+msgid "Click on the matching color"
+msgstr "Klikni na zodpovedajúcu farbu"
+
+#: ../boards/read_colors.xml.in.h:4
+msgid "Read the names of colors"
+msgstr "Čítanie názvov farieb"
+
+#: ../boards/read_colors.xml.in.h:5
+msgid "This board teaches basic colors."
+msgstr "Táto doska učí základné farby."
+
+#: ../boards/read_colors/board1.xml.in.h:1
+msgid "black"
+msgstr "čiernu"
+
+#: ../boards/read_colors/board1.xml.in.h:2
+msgid "blue"
+msgstr "modrú"
+
+#: ../boards/read_colors/board1.xml.in.h:3
+msgid "brown"
+msgstr "hnedú"
+
+#: ../boards/read_colors/board1.xml.in.h:4
+msgid "green"
+msgstr "zelenú"
+
+#: ../boards/read_colors/board1.xml.in.h:5
+msgid "grey"
+msgstr "šedú"
+
+#: ../boards/read_colors/board1.xml.in.h:6
+msgid "orange"
+msgstr "oranžovú"
+
+#: ../boards/read_colors/board1.xml.in.h:7
+msgid "pink"
+msgstr "ružovú"
+
+#: ../boards/read_colors/board1.xml.in.h:8
+msgid "red"
+msgstr "červenú"
+
+#: ../boards/read_colors/board1.xml.in.h:9
+msgid "violet"
+msgstr "fialová"
+
+#: ../boards/read_colors/board1.xml.in.h:10
+msgid "white"
+msgstr "bielu"
+
+#: ../boards/read_colors/board1.xml.in.h:11
+msgid "yellow"
+msgstr "žltú"
+
+#: ../boards/reading.xml.in.h:1
+msgid "Go to the Reading activities"
+msgstr "Prejsť k čítacím aktivitám"
+
+#: ../boards/reading.xml.in.h:2
+msgid "Reading activities."
+msgstr "Čítacie aktivity."
+
+#: ../boards/readingh.xml.in.h:1 ../boards/readingv.xml.in.h:1
+msgid ""
+"A word is shown at the top right of the board. A list of words will appear "
+"and disappear on the left. Does the given word belong to the list?"
+msgstr ""
+
+#: ../boards/readingh.xml.in.h:2
+msgid "Horizontal reading practice"
+msgstr "Precvičovanie vodorovného čítania"
+
+#: ../boards/readingh.xml.in.h:3
+msgid "Read a list of words and work out if a given word is in it"
+msgstr "Prečítaj zoznam slov a potom povedz, či dané slovo bolo v ňom"
+
+#: ../boards/readingh.xml.in.h:5
+msgid "Reading training in a limited time"
+msgstr "Trénovanie čítania v obmedzenom čase"
+
+#: ../boards/readingv.xml.in.h:2
+msgid "Read a vertical list of words and work out if a given word is in it"
+msgstr "Prečítaj zvislý zoznam slov a potom povedz, či dané slovo bolo v ňom"
+
+#: ../boards/readingv.xml.in.h:3
+msgid "Read training in a limited time"
+msgstr "Trénovanie čítania v obmedzenom čase"
+
+#: ../boards/readingv.xml.in.h:5
+msgid "Vertical-reading practice"
+msgstr "Precvičovanie zvislého čítania"
+
+#: ../boards/redraw.xml.in.h:1
+msgid "Copy a drawing from the box on the right into the box on the left."
+msgstr ""
+
+#: ../boards/redraw.xml.in.h:2
+msgid ""
+"First, select the proper tool from the toolbar. Then drag the mouse to "
+"create objects. When you are done, click on the OK button. Errors will be "
+"marked with a little red cross. The order of objects (above/under) is not "
+"important but be careful not to end up with unwanted objects under others."
+msgstr ""
+
+#: ../boards/redraw.xml.in.h:3
+msgid "Redraw the given item"
+msgstr "Prekresli daný obrázok"
+
+#: ../boards/redraw_symmetrical.xml.in.h:1
+msgid ""
+"Copy the mirror image of an object from the box on the right into the box on "
+"the left."
+msgstr ""
+
+#: ../boards/redraw_symmetrical.xml.in.h:2
+msgid ""
+"First, select the proper tool from the toolbar. Then drag the mouse to "
+"create objects. When you are done, click on the OK button. A little red "
+"cross will show you where something isn't right yet. The order of objects "
+"(above/under) is not important but be careful not to end up with unwanted "
+"objects under others."
+msgstr ""
+
+#: ../boards/redraw_symmetrical.xml.in.h:3
+msgid "Mirror the given item"
+msgstr "Prekresli daný obrázok"
+
+#: ../boards/reversecount.xml.in.h:1
+msgid ""
+"Can move the mouse, can read numbers and subtract numbers up to 10 for the "
+"first level"
+msgstr ""
+
+#: ../boards/reversecount.xml.in.h:2
+msgid ""
+"Click on the dice to show how many ice spots there are between Tux and the "
+"fish. Click the dice with the right mouse button to count backwards. When "
+"done, click on the OK button or hit the Enter key."
+msgstr ""
+"Najskôr spočítaj koľko kusov ľadu je medzi Tuxom a rybou. Potom vyber "
+"správne číslo kliknutím na kocku. Na kocke môžeš taktiež počítať dozadu. Keď "
+"budeš hotový, klikni na tlačítko OK alebo stlač kláves Enter."
+
+#: ../boards/reversecount.xml.in.h:3
+msgid "Practice subtraction with a fun game"
+msgstr "Precvičovanie odčítania pomocou zábavnej hry"
+
+#: ../boards/reversecount.xml.in.h:4
+msgid "Tux is hungry. Help him find fish by counting to the correct ice spot."
+msgstr ""
+"Tux je hladný. Pomôž mu nájsť ryby pomocou počítania ľadových bodov "
+"potrebných na ich dosiahnutie."
+
+#: ../boards/scalesboard.xml.in.h:1
+msgid "Balance the scales properly"
+msgstr "Správne vyváž váhy"
+
+#: ../boards/scalesboard.xml.in.h:2
+msgid "Drag and Drop masses to balance the scales"
+msgstr "Ťahaj a pusti závažia a vyrovnaj váhy"
+
+#: ../boards/scalesboard.xml.in.h:3
+msgid "Mental calculation, arithmetic equality"
+msgstr "Výpočet v duchu, aritmetická rovnosť"
+
+#: ../boards/scalesboard.xml.in.h:4
+msgid ""
+"The painting is an original painting created by Virginie MOREAU (virginie."
+"moreau@free.fr) in 2001. Its name is 'Spices Seller in Egypt'. It is "
+"released under the GPL licence."
+msgstr ""
+"Kresba je originálna maľba, ktorú Virginie MOREAU (virginie.moreau@free.fr) "
+"nakreslil v roku 2001. Volá sa 'predavač korenia v Egypte'. Je uvoľnená pod "
+"podmienkami licencie GPL."
+
+#: ../boards/scalesboard.xml.in.h:5
+msgid ""
+"To balance the scales, move the masses on the left side. The masses can be "
+"arranged in any order."
+msgstr ""
+"Na vyrovnanie váh presuň závažia na ich ľavú misku. Závažia môžu byť "
+"usporiadané v ľubovolnom poradí."
+
+#: ../boards/searace.xml.in.h:1
+msgid "Direct your boat accurately to win the race."
+msgstr "Nasmeruj svoju loďku tak, aby si vyhral preteky."
+
+#: ../boards/searace.xml.in.h:2 ../boards/searace1player.xml.in.h:2
+msgid ""
+"In the text entry, enter one command per line, to control your boat. "
+"Commands supported are displayed between the two entry areas. The 'left' and "
+"'right' commands must be followed by an angle in degrees. The angle value is "
+"also called a 'parameter' to the left or right command. By default 45 "
+"degrees is used. The 'forward' command accepts a distance parameter. By "
+"default 1 is used. For example: left 90 => Make a perpendicular left turn "
+"forward 10 => Go forward for 10 units (as displayed on the ruler). The goal "
+"is to reach the right of the screen (the red line). When done, you can try "
+"to improve your program and start a new race with the same weather "
+"conditions by using the retry button. You can click and drag your mouse "
+"anywhere on the map to get a measurement in distance and angle. Going to the "
+"next level will give you more complex weather conditions."
+msgstr ""
+
+#: ../boards/searace.xml.in.h:3 ../boards/searace1player.xml.in.h:3
+msgid ""
+"In this activity, you will learn how to enter commands into a computer. Even "
+"if the language is extremely basic, you learn here how to think ahead and "
+"construct a program. This activity can be used to introduce the programming "
+"concept to children."
+msgstr ""
+
+#: ../boards/searace.xml.in.h:4
+msgid "Sea race (2 Players)"
+msgstr "Morské preteky (2 hráči)"
+
+#: ../boards/searace1player.xml.in.h:1
+msgid "Give good instructions to your ship in order to be first in the race."
+msgstr "Daj správne inštrukcie svojej loďke tak, aby si bol prvý v pretekoch."
+
+#: ../boards/searace1player.xml.in.h:4
+msgid "Sea race (Single Player)"
+msgstr "Morské preteky (jeden hráč)"
+
+#: ../boards/smallnumbers.xml.in.h:1 ../boards/smallnumbers2.xml.in.h:1
+msgid "Count the number of dots on dice before they reach the ground"
+msgstr "Spočítaj bodky na kocke skôr než dopadne na zem"
+
+#: ../boards/smallnumbers.xml.in.h:2 ../boards/smallnumbers2.xml.in.h:2
+msgid "Counting skills"
+msgstr "Schopnosť počítať"
+
+#: ../boards/smallnumbers.xml.in.h:3 ../boards/smallnumbers2.xml.in.h:3
+msgid "In a limited time, count the number of dots"
+msgstr "V obmedzenom čase spočítaj počet bodiek"
+
+#: ../boards/smallnumbers.xml.in.h:4
+msgid "Numbers With Dice"
+msgstr "Čísla s kockami"
+
+#: ../boards/smallnumbers.xml.in.h:5 ../boards/smallnumbers2.xml.in.h:5
+msgid "With the keyboard, type the number of dots you see on the falling dice."
+msgstr "Stlač na klávesnici číslo zodpovedajúce počtu bodiek na padajúcej kocke."
+
+#: ../boards/smallnumbers2.xml.in.h:4
+msgid "Numbers with pairs of dice"
+msgstr "Čísla s dvomi kockami"
+
+#: ../boards/sound_group.xml.in.h:1
+msgid "Go to Sound activities"
+msgstr "Prejdi na zvukové aktivity"
+
+#: ../boards/sound_group.xml.in.h:2
+msgid "Sound based activities."
+msgstr "Zvukové aktivity."
+
+#: ../boards/strategy.xml.in.h:1
+msgid "Strategy games"
+msgstr "Strategické hry"
+
+#: ../boards/strategy.xml.in.h:2
+msgid "Strategy games like chess, connect4, ..."
+msgstr "Strategické hry ako šach, vytvor štvoricu, ..."
+
+#: ../boards/submarine.xml.in.h:1
+msgid ""
+"Click on different active elements : engine, rudders and air tanks, in order "
+"to navigate to the required depth. There is a gate on the right. Pass "
+"through it to reach the next level."
+msgstr ""
+"Klikni na rôzne aktívne elementy: motor, kormidlá a vzduchové nádrže, aby "
+"si plával v prikázanie hĺbke."
+
+#: ../boards/submarine.xml.in.h:2
+msgid "Learn how a submarine works"
+msgstr "Nauč sa, ako funguje ponorka"
+
+#: ../boards/submarine.xml.in.h:3
+msgid "Physics basics"
+msgstr "Základy fyziky"
+
+#: ../boards/submarine.xml.in.h:4
+msgid "Pilot a submarine"
+msgstr "Pilotovanie ponorky"
+
+#: ../boards/submarine.xml.in.h:5
+msgid "Pilot a submarine using air tanks and dive rudders"
+msgstr "Riadenie ponorky pomocou vzduchových nádrží a výškových kormidiel"
+
+#: ../boards/sudoku.xml.in.h:1
+msgid "Completing the puzzle requires patience and logical ability"
+msgstr ""
+
+#: ../boards/sudoku.xml.in.h:2
+msgid ""
+"For the first level with colored symbols, drag symbols on the left to their "
+"target position. For the higher levels, click on an empty square to give it "
+"the keyboard focus. Then enter a possible letter or number. GCompris will "
+"not let you enter invalid data."
+msgstr ""
+
+#: ../boards/sudoku.xml.in.h:3
+msgid "Sudoku, place unique symbols in a square."
+msgstr "Sudoku, umiestni jedinečný symbol do štvorčeka."
+
+#: ../boards/sudoku.xml.in.h:4
+msgid "Symbols must be unique in a row, in a column, and (if defined) each region."
+msgstr ""
+
+#: ../boards/sudoku.xml.in.h:5
+msgid ""
+"The aim of the puzzle is to enter a symbol or numeral from 1 through 9 in "
+"each cell of a grid, most frequently a 9x9 grid made up of 3x3 subgrids "
+"(called 'regions'), starting with various symbols or numerals given in some "
+"cells (the 'givens'). Each row, column and region must contain only one "
+"instance of each symbol or numeral (Source &lt;http://en.wikipedia.org/wiki/"
+"Sudoku&gt;)."
+msgstr ""
+
+#: ../boards/superbrain.xml.in.h:1
+msgid ""
+"Click on the items until you find what you think is the correct answer. "
+"Then, click on the OK button in the control bar. In the lower levels, Tux "
+"gives you an indication if you found a hiding place by marking the item with "
+"a black box. You can use the right mouse button to flip the colors in the "
+"opposite order."
+msgstr ""
+"Klikaj na položky pokiaľ nenájdeš to, o čom si myslíš, že je to správna "
+"odpoveď. Potom klikni na tlačítko OK na ovládacom panely. Na najnižšej "
+"úrovni ti tučniak naznačuje, či máš dobrú pozíciu, označením položky čiernou "
+"škatuľkou. Na zámenu farieb môžeš použiť pravé tlačítko myši."
+
+#: ../boards/superbrain.xml.in.h:2 ../src/boards/superbrain.c:106
+msgid "Super Brain"
+msgstr "Super mozog"
+
+#: ../boards/superbrain.xml.in.h:3 ../src/boards/superbrain.c:107
+msgid "Tux has hidden several items. Find them again in the correct order"
+msgstr "Tučniak skryl niekoľko farebných vecí, nájdi ich v správnom poradí"
+
+#: ../boards/tangram.xml.in.h:1
+msgid ""
+"From Wikipedia, the free encyclopedia. Tangram (Chinese: literally \"seven "
+"boards of cunning\") is a Chinese puzzle. While the tangram is often said to "
+"be ancient, its existence has only been verified as far back as 1800. It "
+"consists of 7 pieces, called tans, which fit together to form a square; "
+"taking the square as the unit:\n"
+"\t* 5 right isosceles triangles\n"
+"\t\to 2 small (legs of 1)\n"
+"\t\to 1 medium size (legs of square root of 2)\n"
+"\t\to 2 large size (legs of 2)\n"
+"\t* 1 square (side of 1)\n"
+"\t* 1 parallelogram (sides of 1 and square root of 2)"
+msgstr ""
+
+#: ../boards/tangram.xml.in.h:9
+msgid ""
+"Select the tangram to form. Move a piece by dragging it. Right-click on it "
+"to create a symmetrical item. Select an item and drag around it to show the "
+"rotation you want. Once you've shown what shape you want, the computer will "
+"create it. If you need help, click on the shape button, and the border of "
+"the shape will be drawn."
+msgstr ""
+
+#: ../boards/tangram.xml.in.h:10
+msgid "The objective is to form a given shape with seven pieces"
+msgstr ""
+
+#: ../boards/tangram.xml.in.h:11
+msgid ""
+"The original code was written by Philippe Banwarth in 1999. It was ported to "
+"GCompris by Yves Combe in 2005."
+msgstr ""
+
+#: ../boards/tangram.xml.in.h:12
+msgid "The tangram puzzle game"
+msgstr "Tangram - skladačková hra"
+
+#: ../boards/target.xml.in.h:1
+msgid "Can move the mouse, can read numbers and count up to 15 for the first level"
+msgstr "Môžeš pohybovať myšou, čítať čísla a sčítavať čísla do 15 v prvej úrovni"
+
+#: ../boards/target.xml.in.h:2
+msgid ""
+"Check the wind speed and direction, and then click on the target to launch a "
+"dart. When you all your darts are thrown, a window appears asking you to "
+"count your score. Enter the score with the keyboard then press the Enter key "
+"or the OK button."
+msgstr ""
+"Najskôr skontroluj silu a smer vetra, potom kliknutím vypusť šípku na cieľ. "
+"Až vypustíš všetky svoje šípky, objaví sa okno, ktoré ťa požiada o "
+"spočítanie tvojho skóre. Zadaj skóre pomocou klávesnice a potom stlač kláves "
+"Enter alebo klikni na ikonu OK."
+
+#: ../boards/target.xml.in.h:3
+msgid "Hit the target and count your points"
+msgstr "Zasiahni terč a spočítaj svoje body"
+
+#: ../boards/target.xml.in.h:4
+msgid "Practice addition with a target game"
+msgstr "Precvičovanie sčítania pomocou terčovej hry"
+
+#: ../boards/target.xml.in.h:5
+msgid "Throw darts at a target and count your score."
+msgstr "Hoď šípky do terča a spočítaj si svoje skóre."
+
+#: ../boards/traffic.xml.in.h:1
+msgid "A sliding-block puzzle game"
+msgstr "Hra s posúvaním blokov"
+
+#: ../boards/traffic.xml.in.h:2
+msgid ""
+"Each car can only move either horizontally or vertically. You must make some "
+"room in order to let the red car move through the gate on the right."
+msgstr ""
+
+#: ../boards/traffic.xml.in.h:3
+msgid "Remove the red car from the parking lot through the gate on the right"
+msgstr "Cieľom je presunúť červené auto z parkoviska cez bránu vpravo"
+
+#: ../boards/tuxpaint.xml.in.h:1
+msgid "Drawing activity (pixmap)"
+msgstr "Kresliaca aktivita (pixmap)"
+
+#: ../boards/tuxpaint.xml.in.h:2
+msgid "Launch Tuxpaint"
+msgstr "Spusti Kreslenie s tučniakom (TuxPaint)"
+
+#: ../boards/tuxpaint.xml.in.h:3
+msgid "Tuxpaint"
+msgstr "Kreslenie s tučniakom (Tuxpaint)"
+
+#: ../boards/tuxpaint.xml.in.h:4
+msgid "Use Tuxpaint to draw. When Tuxpaint is finished this board will end."
+msgstr "Využi Tuxpaint a kresli. Keď Tuxpaint ukončíš automaticky sa zavrie táto doska."
+
+#: ../boards/tuxpaint.xml.in.h:5
+msgid "mouse and keyboard manipulation"
+msgstr "Manipulácia s klávesnicou a myšou"
+
+#: ../boards/watercycle.xml.in.h:1
+msgid ""
+"Click on different active elements : sun, cloud, water pump station, and "
+"water cleanup station, in order to reactivate the entire water system. When "
+"the system is back up and Tux is in the shower, push the shower button for "
+"him."
+msgstr ""
+"Klikaj na rôzne aktívne elementy : slnko, oblaky, vodnú čerpaciu stanicu, "
+"čističku vody v správnom poradí, aby si aktivoval celý vodný systém. Keď "
+"skončíš a tučniak je vo svojej sprche, stlač mu tlačítko sprchy."
+
+#: ../boards/watercycle.xml.in.h:2
+msgid "Learn about the water cycle"
+msgstr "Zisti ako funguje vodný cyklus"
+
+#: ../boards/watercycle.xml.in.h:3
+msgid "Learn the water cycle"
+msgstr "Oboznám sa s vodným cyklom"
+
+#: ../boards/watercycle.xml.in.h:4
+msgid ""
+"Tux has come back from a long fishing party on his boat. Bring the water "
+"system back up so he can take a shower."
+msgstr ""
+"Tučniak príde z dlhého rybacieho večierku, ktorý bol na jeho lodi. Musíš "
+"opraviť vodný systém, aby sa mohol osprchoval."
+
+#: ../boards/wordsgame.xml.in.h:1 ../src/boards/wordsgame.c:110
+msgid "Falling Words"
+msgstr "Padajúce slová"
+
+#: ../boards/wordsgame.xml.in.h:3
+msgid "Keyboard training"
+msgstr "Precvičovanie s klávesnicou"
+
+#: ../boards/wordsgame.xml.in.h:4
+msgid "Type the complete word as it falls, before it reachs the ground"
+msgstr "Napíš padajúce slovo na klávesnici skôr ako dopadne na zem"
+
+#: ../boards/wordsgame.xml.in.h:5 ../src/boards/wordsgame.c:111
+msgid "Type the falling words before they reach the ground"
+msgstr "Úplne napíš padajúce slová skôr ako dopadnú na zem"
+
+#: ../boards/wordprocessor.xml.in.h:1
+msgid "A simple word processor to enter and save any text"
+msgstr "Jednoduchý textový editor na písanie a ukladanie textov"
+
+#: ../boards/wordprocessor.xml.in.h:2
+msgid "Your word processor"
+msgstr "Tvoj textový editor"
+
+#: ../gcompris-edit.desktop.in.h:1
+msgid "Administration for gcompris"
+msgstr "Administrácia pre GCompris"
+
+#: ../gcompris.desktop.in.h:1
+msgid "Educational game for ages 2 to 10"
+msgstr "Vzdelávacia hra pre deti od 2 do 10 rokov"
+
+#: ../gcompris.desktop.in.h:2
+msgid "Educational suite GCompris"
+msgstr "Náučná súprava GCompris"
+
+#: ../gcompris.desktop.in.h:3
+msgid "Multi-activity educational game"
+msgstr "Mnoho aktivitová edukačná hra"
+
+#: ../src/boards/awele.c:350 ../src/boards/awele.c:360
+msgid "NORTH"
+msgstr "SEVER"
+
+#: ../src/boards/awele.c:372 ../src/boards/awele.c:382
+msgid "SOUTH"
+msgstr "JUH"
+
+#: ../src/boards/awele.c:551
+msgid "Choose a house"
+msgstr "Vyber dom"
+
+#: ../src/boards/awele.c:679
+msgid "Your turn to play ..."
+msgstr "Si na ťahu ..."
+
+#: ../src/boards/awele.c:748
+msgid "Not allowed! Try again !"
+msgstr "Nedovolené! Skús znovu!"
+
+#: ../src/boards/chess.c:179
+msgid "Error: The external program gnuchess died unexpectedly"
+msgstr ""
+
+#: ../src/boards/chess.c:194
+msgid ""
+"Error: The external program gnuchess is required\n"
+"to play chess in gcompris.\n"
+"Find this program on http://www.rpmfind.net or in your\n"
+"GNU/Linux distribution\n"
+"And check it is located here: "
+msgstr ""
+"Chyba: Pre hranie šachov v gcompris\n"
+"je potrebný program gnuchess.\n"
+"Tento program si nájdi pomocou http://www.rpmfind.net\n"
+"alebo vo svojej distribúcií GNU/Linux\n"
+"a presvedč sa, či je nainštalovaný"
+
+#: ../src/boards/chess.c:236
+msgid ""
+"Error: The external program gnuchess is mandatory\n"
+"to play chess in gcompris.\n"
+"First install it, and check it is in "
+msgstr ""
+"Chyba: Pre hranie šachov v gcompris\n"
+"je potrebný program gnuchess.\n"
+"Tento program si nájdi pomocou http://www.rpmfind.net\n"
+"alebo vo svojej distribúcií GNU/Linux\n"
+"a presvedč sa, či je nainštalovaný"
+
+#: ../src/boards/chess.c:579
+msgid "White's Turn"
+msgstr "Ťah bieleho"
+
+#: ../src/boards/chess.c:579
+msgid "Black's Turn"
+msgstr "Ťah čierneho"
+
+#: ../src/boards/chess.c:723
+msgid "White checks"
+msgstr "Biely v šachu"
+
+#: ../src/boards/chess.c:725
+msgid "Black checks"
+msgstr "Čierny v šachu"
+
+#: ../src/boards/chess.c:1082
+msgid "Black mates"
+msgstr "Čierny dáva mat"
+
+#: ../src/boards/chess.c:1087
+msgid "White mates"
+msgstr "Biely dáva mat"
+
+#: ../src/boards/chess.c:1092 ../src/gcompris/bonus.c:359
+#: ../src/gcompris/bonus.c:368
+msgid "Drawn game"
+msgstr "Remíza"
+
+#: ../src/boards/chess.c:1120
+msgid "Error: The external program gnuchess died unexpectingly"
+msgstr ""
+
+#: ../src/boards/click_on_letter.c:259 ../src/boards/memory.c:832
+msgid ""
+"Error: this activity cannot be played with the\n"
+"sound effects disabled.\n"
+"Go to the configuration dialog to\n"
+"enable the sound"
+msgstr ""
+"Chyba: túto aktivitu nie je možné hrať\n"
+"bez povolenia zvukových efektov.\n"
+"Zvuk povoľ v dialógu\n"
+"nastavenia"
+
+#. TRANSLATORS: Put here the alphabet in your language
+#. require by all utf8-functions
+#. TRANSLATORS: Put here the alphabet lowercase in your language
+#: ../src/boards/click_on_letter.c:264 ../src/boards/gletters.c:231
+#: ../src/boards/memory.c:853
+msgid "abcdefghijklmnopqrstuvwxyz"
+msgstr "aáäbcčdďeéfghiíjklľmnňoóôpqrsštťuúvwxyýzž"
+
+#: ../src/boards/click_on_letter.c:286
+#, c-format
+msgid ""
+"Error: this activity requires that you first install\n"
+"the packages with gcompris voices for the locale '%s' or '%s'"
+msgstr ""
+"Chyba: táto aktivita vyžaduje, aby si najskôr nainštaloval\n"
+"balíček voices pre lokalizáciu '%s' or '%s'"
+
+#: ../src/boards/click_on_letter.c:294
+#, c-format
+msgid ""
+"Error: this activity requires that you first install\n"
+"the packages with GCompris voices for the locale '%s' ! Fallback to english, "
+"sorry!"
+msgstr ""
+"Chyba: táto aktivita vyžaduje, aby si najskôr nainštaloval\n"
+"balíček voices pre lokalizáciu '%s' ! Núdzovo je angličtina!"
+
+#. toggle box
+#: ../src/boards/click_on_letter.c:646 ../src/boards/gletters.c:899
+#: ../src/boards/python/login.py:540
+msgid "Uppercase only text"
+msgstr "Iba text s veľkými písmenkami"
+
+#: ../src/boards/clockgame.c:550 ../src/boards/clockgame.c:560
+msgid "Set the watch to:"
+msgstr "Nastav hodinky na:"
+
+#: ../src/boards/colors.c:54
+msgid "Click on the blue duck"
+msgstr "Klikni na modrú kačičku"
+
+#: ../src/boards/colors.c:55
+msgid "Click on the brown duck"
+msgstr "Klikni na hnedú kačičku"
+
+#: ../src/boards/colors.c:56
+msgid "Click on the green duck"
+msgstr "Klikni na zelenú kačičku"
+
+#: ../src/boards/colors.c:57
+msgid "Click on the grey duck"
+msgstr "Klikni na sivú kačičku"
+
+#: ../src/boards/colors.c:58
+msgid "Click on the orange duck"
+msgstr "Klikni na oranžovú kačičku"
+
+#: ../src/boards/colors.c:59
+msgid "Click on the purple duck"
+msgstr "Klikni na purpurovú kačičku"
+
+#: ../src/boards/colors.c:60
+msgid "Click on the red duck"
+msgstr "Klikni na červenú kačičku"
+
+#: ../src/boards/colors.c:61
+msgid "Click on the yellow duck"
+msgstr "Klikni na žltú kačičku"
+
+#: ../src/boards/colors.c:62
+msgid "Click on the black duck"
+msgstr "Klikni na čiernu kačičku"
+
+#: ../src/boards/colors.c:63
+msgid "Click on the white duck"
+msgstr "Klikni na bielu kačičku"
+
+#. TRANSLATORS: Put here the numbers in your language
+#: ../src/boards/gletters.c:227 ../src/boards/memory.c:849
+msgid "0123456789"
+msgstr "0123456789"
+
+#. TRANSLATORS: Put here the alphabet uppercase in your language
+#: ../src/boards/gletters.c:237 ../src/boards/memory.c:859
+msgid "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+msgstr "AÁÄBCČDĎEÉFGHIÍJKLĽMNŇOÓȎPQRSŠTŤUÚVWXYÝZŽ"
+
+#: ../src/boards/hanoi.c:332 ../src/boards/hanoi.c:343
+msgid ""
+"Build the same tower in the empty area as the one you see on the right-hand "
+"side."
+msgstr "Vytvor v prázdnej oblasti rovnakú vež ako je tá vpravo"
+
+#: ../src/boards/hanoi_real.c:72
+msgid "Tower of Hanoi"
+msgstr "Hanojské veže"
+
+#: ../src/boards/hanoi_real.c:273 ../src/boards/hanoi_real.c:284
+msgid "Move the entire stack to the right peg, one disc at a time"
+msgstr "Presuň celú sadu kruhov na pravú tyč. Naraz prenášaj len jeden kruh."
+
+#: ../src/boards/imageid.c:104 ../src/boards/missingletter.c:102
+msgid "Learn how to read"
+msgstr "Uč sa ako čítať"
+
+#: ../src/boards/leftright.c:277 ../src/boards/leftright.c:287
+#: ../src/boards/python/searace.py:428 ../src/boards/python/searace.py:453
+#: ../src/boards/python/searace.py:543 ../src/boards/python/searace.py:855
+#: ../src/boards/python/searace.py:888 ../src/boards/python/searace.py:985
+msgid "left"
+msgstr "vľavo"
+
+#: ../src/boards/leftright.c:297 ../src/boards/leftright.c:307
+#: ../src/boards/python/searace.py:428 ../src/boards/python/searace.py:453
+#: ../src/boards/python/searace.py:552 ../src/boards/python/searace.py:857
+#: ../src/boards/python/searace.py:890 ../src/boards/python/searace.py:979
+msgid "right"
+msgstr "vpravo"
+
+#: ../src/boards/maze.c:492
+msgid ""
+"Look at your position, then switch back to invisible mode to continue your "
+"moves"
+msgstr ""
+"Pozri sa na svoju polohu a potom sa opäť prepni do nevideného módu a "
+"pokračuj v presunoch."
+
+#: ../src/boards/maze.c:494
+msgid "Look at your position, then switch back to 3D mode to continue your moves"
+msgstr "Pozri sa na svoju polohu a potom sa opäť prepni do 3D módu a pokračuj v ceste"
+
+#: ../src/boards/memory.c:286
+msgid "Memory"
+msgstr "Pamäť"
+
+#: ../src/boards/memory.c:287
+msgid "Find the matching pair"
+msgstr "Hľadanie zhodných párov"
+
+#. TRANSLATORS: Put here the mathematical operators "+-*/" for  your language.
+#: ../src/boards/memory.c:864
+msgid "+-×÷"
+msgstr "+-×÷"
+
+#: ../src/boards/menu2.c:131
+msgid "Main Menu Second Version"
+msgstr "Hlavná ponuka druhej verzie"
+
+#: ../src/boards/menu2.c:132
+msgid "Select a Board"
+msgstr "Voľba tabule"
+
+#. Set here the way to display money. Change only the money sign, and it's place, always keep %.2f, it will be replaced by 0,34 if decimal is ',' in your locale
+#: ../src/boards/money.c:488
+#, c-format
+msgid "$ %.2f"
+msgstr "%.2f Sk"
+
+#: ../src/boards/money.c:501
+#, c-format
+msgid "$ %.0f"
+msgstr "%.0f Sk"
+
+#: ../src/boards/paratrooper.c:437
+msgid "Control fall speed with up and down arrow keys."
+msgstr "Ovládaj rýchlosť pádu šipkou hore a dole na klávesnici."
+
+#: ../src/boards/planegame.c:75
+msgid "Move the plane to catch the clouds in the correct order"
+msgstr "Pohybuj lietadlom tak, aby zachytil oblaky v správnom poradí"
+
+#: ../src/boards/python.c:62 ../src/boards/python.c:86
+msgid "Python Board"
+msgstr "Doska Pythonu"
+
+#: ../src/boards/python.c:63 ../src/boards/python.c:87
+msgid "Special board that embeds python into gcompris."
+msgstr "Špeciálna doska, ktorá vkladá python do gcomprisu."
+
+#: ../src/boards/python/admin/board_list.py:89
+msgid "Select a profile:"
+msgstr "Vyber profil:"
+
+#: ../src/boards/python/admin/board_list.py:145
+msgid "Filter"
+msgstr "Filter"
+
+#: ../src/boards/python/admin/board_list.py:150
+msgid "Select all"
+msgstr "Označ všetko"
+
+#: ../src/boards/python/admin/board_list.py:155
+msgid "Unselect all"
+msgstr "Odznač všetko"
+
+#: ../src/boards/python/admin/board_list.py:160
+msgid "Locales"
+msgstr "Lokalizácie"
+
+#: ../src/boards/python/admin/board_list.py:165
+msgid "Locales sound"
+msgstr "Lokalizačné zvuky"
+
+#: ../src/boards/python/admin/board_list.py:170
+msgid "Wordlist"
+msgstr "Zoznam slov"
+
+#: ../src/boards/python/admin/board_list.py:177
+#: ../src/boards/python/admin/group_user_list.py:144
+#: ../src/boards/python/admin/user_list.py:186
+msgid "Login"
+msgstr "Prezývka"
+
+#: ../src/boards/python/admin/board_list.py:235
+msgid "Main menu"
+msgstr "Hlavná ponuka"
+
+#. columns for Board name
+#. column_pref = gtk.TreeViewColumn(_('Conf'))
+#. image = gtk.image_new_from_stock(gtk.STOCK_PREFERENCES, gtk.ICON_SIZE_MENU)
+#. image.show()
+#. column_pref.set_widget(image)
+#: ../src/boards/python/admin/board_list.py:292
+msgid "Active"
+msgstr "Aktívny"
+
+#: ../src/boards/python/admin/board_list.py:293
+msgid "Board title"
+msgstr "Názov dosky"
+
+#: ../src/boards/python/admin/board_list.py:409
+#, python-format
+msgid "Filter Boards difficulty for profile %s"
+msgstr "Filtruj obtiažnosť aktivít pre profil %s"
+
+#: ../src/boards/python/admin/board_list.py:440
+#, python-format
+msgid ""
+"<span size='x-large'> Select the difficulty range \n"
+"for profile <b>%s</b></span>"
+msgstr "<span size='x-large'> Urči interval obtiažnosti pre profil <b>%s</b></span>"
+
+#. Init configuration window:
+#. all the configuration functions will use it
+#. all the configuration functions returns values for their key in
+#. the dict passed to the apply_callback
+#. the returned value is the main GtkVBox of the window,
+#. we can add what you want in it.
+#: ../src/boards/python/admin/board_list.py:631
+#: ../src/boards/python/admin/board_list.py:649
+#: ../src/boards/python/admin/wordlist.py:50 ../src/boards/python/login.py:535
+#: ../src/boards/python/pythontest.py:409 ../src/boards/python/tuxpaint.py:206
+#, python-format
+msgid ""
+"<b>%s</b> configuration\n"
+" for profile <b>%s</b>"
+msgstr ""
+"<b>%s</b> Konfigurácia\n"
+"pre profil <b>%s</b>"
+
+#: ../src/boards/python/admin/board_list.py:661
+#: ../src/boards/python/pythontest.py:473
+msgid "Select sound locale"
+msgstr "Vyber jazyk zvukov"
+
+#: ../src/boards/python/admin/class_edit.py:60
+msgid "Editing a Class"
+msgstr "Úprava triedy"
+
+#: ../src/boards/python/admin/class_edit.py:65
+msgid "Editing class: "
+msgstr "Upravovaná trieda: "
+
+#: ../src/boards/python/admin/class_edit.py:68
+msgid "Editing a new class"
+msgstr "Vytváranie novej triedy"
+
+#: ../src/boards/python/admin/class_edit.py:90
+msgid "Class:"
+msgstr "Trieda:"
+
+#. FIXME: How to remove the default selection
+#. Label and Entry for the teacher name
+#: ../src/boards/python/admin/class_edit.py:103
+msgid "Teacher:"
+msgstr "Učiteľ(ka):"
+
+#: ../src/boards/python/admin/class_edit.py:113
+msgid "Assign all the users belonging to this class"
+msgstr "Zadaj všetkých užívateľov, ktorí chodia do triedy"
+
+#: ../src/boards/python/admin/class_edit.py:253
+#: ../src/boards/python/admin/group_edit.py:265
+#: ../src/boards/python/admin/group_user_list.py:154
+#: ../src/boards/python/admin/user_list.py:196
+msgid "First Name"
+msgstr "Meno"
+
+#: ../src/boards/python/admin/class_edit.py:264
+#: ../src/boards/python/admin/group_edit.py:276
+#: ../src/boards/python/admin/group_user_list.py:164
+#: ../src/boards/python/admin/user_list.py:206
+msgid "Last Name"
+msgstr "Priezvisko"
+
+#: ../src/boards/python/admin/class_edit.py:341
+msgid "You need to provide at least a name for your class"
+msgstr "Musíš uviesť aspoň meno triedy"
+
+#: ../src/boards/python/admin/class_edit.py:387
+msgid "There is already a class with this name"
+msgstr "Trieda s takýmto menom už existuje"
+
+#: ../src/boards/python/admin/class_list.py:169
+#: ../src/boards/python/admin/profile_edit.py:269
+#: ../src/boards/python/admin/profile_group_list.py:144
+msgid "Class"
+msgstr "Trieda"
+
+#: ../src/boards/python/admin/class_list.py:179
+msgid "Teacher"
+msgstr "Učiteľ(ka)"
+
+#: ../src/boards/python/admin/group_edit.py:60
+msgid "Editing a Group"
+msgstr "Úprava skupiny"
+
+#: ../src/boards/python/admin/group_edit.py:66
+msgid "Editing group: "
+msgstr "Upravovaná skupina: "
+
+#: ../src/boards/python/admin/group_edit.py:67
+msgid " for class: "
+msgstr "  v triede: "
+
+#: ../src/boards/python/admin/group_edit.py:70
+msgid "Editing a new group"
+msgstr "Vytváranie novej skupiny"
+
+#: ../src/boards/python/admin/group_edit.py:90
+msgid "Group:"
+msgstr "Skupina:"
+
+#. FIXME: How to remove the selection
+#. Label and Entry for the first name
+#: ../src/boards/python/admin/group_edit.py:102
+#: ../src/boards/python/admin/profile_edit.py:98
+msgid "Description:"
+msgstr "Popis:"
+
+#. Top message gives instructions
+#: ../src/boards/python/admin/group_edit.py:113
+msgid "Assign all the users belonging to this group"
+msgstr "Zadaj všetkých užívateľov, ktorí patria do skupiny"
+
+#: ../src/boards/python/admin/group_edit.py:359
+msgid "You need to provide at least a name for your group"
+msgstr "Musíš uviesť aspoň meno skupiny"
+
+#: ../src/boards/python/admin/group_edit.py:373
+msgid "There is already a group with this name"
+msgstr "Skupina s takýmto menom už existuje"
+
+#: ../src/boards/python/admin/group_list.py:86
+msgid "Select a class:"
+msgstr "Vyber triedu:"
+
+#: ../src/boards/python/admin/group_list.py:214
+#: ../src/boards/python/admin/profile_edit.py:279
+#: ../src/boards/python/admin/profile_group_list.py:154
+msgid "Group"
+msgstr "Skupina"
+
+#: ../src/boards/python/admin/group_list.py:225
+#: ../src/boards/python/admin/profile_edit.py:289
+#: ../src/boards/python/admin/profile_group_list.py:164
+#: ../src/boards/python/admin/profile_list.py:198
+msgid "Description"
+msgstr "Popis"
+
+#: ../src/boards/python/admin/group_list.py:322
+msgid "You must first select a group in the list"
+msgstr "Najprv musíš vybrať zo zoznamu skupinu"
+
+#: ../src/boards/python/admin/group_user_list.py:174
+#: ../src/boards/python/admin/user_list.py:216
+msgid "Birth Date"
+msgstr "Dátum narodenia"
+
+#: ../src/boards/python/admin/module_boards.py:42
+#: ../src/boards/python/admin/module_boards.py:62
+msgid "Boards"
+msgstr "Dosky"
+
+#: ../src/boards/python/admin/module_groups.py:40
+#: ../src/boards/python/admin/module_groups.py:66
+msgid "Groups"
+msgstr "Skupiny"
+
+#: ../src/boards/python/admin/module_profiles.py:40
+#: ../src/boards/python/admin/module_profiles.py:65
+msgid "Profiles"
+msgstr "Profily"
+
+#: ../src/boards/python/admin/module_users.py:41
+#: ../src/boards/python/admin/module_users.py:67
+msgid "Classes"
+msgstr "Triedy"
+
+#: ../src/boards/python/admin/module_users.py:41
+#: ../src/boards/python/admin/module_users.py:67
+msgid "Users"
+msgstr "Užívatelia"
+
+#: ../src/boards/python/admin/profile_edit.py:59
+msgid "Editing a Profile"
+msgstr "Úprava profilu"
+
+#: ../src/boards/python/admin/profile_edit.py:64
+msgid "Editing profile: "
+msgstr "Upravovaný profil: "
+
+#: ../src/boards/python/admin/profile_edit.py:67
+msgid "Editing a new profile"
+msgstr "Vytváranie nového profilu"
+
+#: ../src/boards/python/admin/profile_edit.py:86
+msgid "Profile:"
+msgstr "Profil:"
+
+#. Top message gives instructions
+#: ../src/boards/python/admin/profile_edit.py:109
+msgid "Assign all the groups belonging to this profile"
+msgstr "Zadaj všetky skupiny, ktoré patria do profilu"
+
+#: ../src/boards/python/admin/profile_edit.py:377
+msgid "You need to provide at least a name for your profile"
+msgstr "Musíš uviesť aspoň meno profilu"
+
+#: ../src/boards/python/admin/profile_edit.py:399
+msgid "There is already a profile with this name"
+msgstr "Profil s takýmto menom už existuje"
+
+#: ../src/boards/python/admin/profile_list.py:121
+#: ../src/boards/wordprocessor.c:53 ../src/gcompris/board_config.c:668
+#: ../src/gcompris/board_config.c:926
+msgid "Default"
+msgstr "Predvolené"
+
+#: ../src/boards/python/admin/profile_list.py:188
+msgid "Profile"
+msgstr "Profil"
+
+#: ../src/boards/python/admin/profile_list.py:315
+msgid "[Default]"
+msgstr "[Predvolené]"
+
+#: ../src/boards/python/admin/user_edit.py:50
+msgid "Editing a User"
+msgstr "Úprava užívateľa"
+
+#: ../src/boards/python/admin/user_edit.py:55
+msgid "Editing a User "
+msgstr "Upravovaný užívateľ: "
+
+#: ../src/boards/python/admin/user_edit.py:61
+msgid "Editing a new user"
+msgstr "Vytváranie nového užívateľa"
+
+#: ../src/boards/python/admin/user_edit.py:78
+msgid "Login:"
+msgstr "Prezývka:"
+
+#. FIXME: How to remove the selection
+#. Label and Entry for the first name
+#: ../src/boards/python/admin/user_edit.py:89
+msgid "First name:"
+msgstr "Meno:"
+
+#. Label and Entry for the last name
+#: ../src/boards/python/admin/user_edit.py:98
+msgid "Last name:"
+msgstr "Priezvisko:"
+
+#. Label and Entry for the birth date
+#: ../src/boards/python/admin/user_edit.py:107
+msgid "Birth date:"
+msgstr "Dátum narodenia:"
+
+#: ../src/boards/python/admin/user_edit.py:159
+msgid "You need to provide at least a login, first name and last name for your users"
+msgstr "Musíš uviesť aspoň prezývku, meno a priezvisko užívateľa"
+
+#: ../src/boards/python/admin/user_edit.py:176
+msgid "There is already a user with this login"
+msgstr "Užívateľ s touto prezývkou už existuje"
+
+#: ../src/boards/python/admin/user_list.py:291
+msgid ""
+"To import a user list from a file, first select a class.\n"
+"FILE FORMAT: Your file must be formatted like this:\n"
+"login;First name;Last name;Date of birth\n"
+"The separator is autodetected and can be one of ',', ';' or ':'"
+msgstr ""
+"Najprv treba vybrať triedu a potom možno načítať zoznam užívateľov zo súboru.\n"
+"FORMÁT SÚBORU: Váš súbor musí mať nasledujúci formát:\n"
+"Prezývka;Meno;Priezvisko;Dátum narodenia\n"
+"Oddeľovač sa automaticky odhadne a môže byť jeden z týchto [, ; :]."
+
+#: ../src/boards/python/admin/user_list.py:370
+#, python-format
+msgid ""
+"One or more logins are not unique !\n"
+"You need to change them: %s !"
+msgstr ""
+"Jedna alebo viac prezýviek je rovnakých !\n"
+"Musíš ich zmeniť: %s !"
+
+#: ../src/boards/python/anim.py:2220
+msgid "SVG is disabled. Install python xml module to enable it"
+msgstr ""
+
+#: ../src/boards/python/anim.py:2376
+msgid "Warning: the following images cannot be accessed on your system.\n"
+msgstr ""
+
+#: ../src/boards/python/anim.py:2378
+msgid "The corresponding items have been skipped."
+msgstr ""
+
+#: ../src/boards/python/chat.py:81
+msgid "All messages will be displayed here.\n"
+msgstr ""
+
+#: ../src/boards/python/chat.py:131
+msgid "Your Friends"
+msgstr "Tvoji priatelia"
+
+#: ../src/boards/python/chat.py:157
+msgid "Type here you message to GCompris users in your local network."
+msgstr "Tu napíš správu pre lokálnych používateľov GComprisu."
+
+#: ../src/boards/python/electric.py:94
+msgid ""
+"Cannot find the 'gnucap' electric simulator.\n"
+"You can download and install it from:\n"
+"<http://geda.seul.org/tools/gnucap/>\n"
+"To be detected, it must be installed in\n"
+"/usr/bin/gnucap or /usr/local/bin/gnucap.\n"
+"You can still use this activity to draw schematics without computer "
+"simulation."
+msgstr ""
+
+#: ../src/boards/python/gnumch.py:96
+#, python-format
+msgid ", %d"
+msgstr ", %d"
+
+#: ../src/boards/python/gnumch.py:97
+#, python-format
+msgid " and %d"
+msgstr " a %d"
+
+#: ../src/boards/python/gnumch.py:117
+#, python-format
+msgid "%d is divisible by %s."
+msgstr "%d je deliteľné s %s."
+
+#: ../src/boards/python/gnumch.py:121
+msgid "1 is not a prime number."
+msgstr "1 nie je prvočíslo"
+
+#: ../src/boards/python/gnumch.py:131
+#, python-format
+msgid "Primes less than %d"
+msgstr "Prvočísla menšie ako %d"
+
+#. Translators: You can swap %(x)y elements in the string.
+#: ../src/boards/python/gnumch.py:153
+#, python-format
+msgid ""
+"Multiples of %(d1)d include %(s)s,\n"
+"but %(d2)d is not a multiple of %(d3)d."
+msgstr ""
+"Násobky %(d1)d zahŕňajú %(s)s,\n"
+"ale %(d2)d nie je násobok %(d3)d."
+
+#: ../src/boards/python/gnumch.py:164
+#, python-format
+msgid "Factors of %d"
+msgstr "Delitele čísla %d"
+
+#: ../src/boards/python/gnumch.py:197
+#, python-format
+msgid "%s are the factors of %d."
+msgstr "%s sú deliteľmi čísla %d."
+
+#: ../src/boards/python/gnumch.py:209
+#, python-format
+msgid "Multiples of %d"
+msgstr "Násobky čísla %d"
+
+#: ../src/boards/python/gnumch.py:243
+#, python-format
+msgid "%s = %d"
+msgstr "%s = %d"
+
+#: ../src/boards/python/gnumch.py:254
+#, python-format
+msgid "%d + %d"
+msgstr "%d + %d"
+
+#: ../src/boards/python/gnumch.py:259
+#, python-format
+msgid "%d − %d"
+msgstr "%d − %d"
+
+#: ../src/boards/python/gnumch.py:264
+#, python-format
+msgid "%d × %d"
+msgstr "%d × %d"
+
+#: ../src/boards/python/gnumch.py:268
+#, python-format
+msgid "%d ÷ %d"
+msgstr "%d ÷ %d"
+
+#: ../src/boards/python/gnumch.py:276
+#, python-format
+msgid "Equal to %d"
+msgstr "Rovné %d"
+
+#: ../src/boards/python/gnumch.py:297
+#, python-format
+msgid "Not equal to %d"
+msgstr "Nerovné %d"
+
+#: ../src/boards/python/gnumch.py:441
+msgid ""
+"You were eaten by a Troggle.\n"
+"Press <Return> to continue."
+msgstr ""
+"Bol si zjedený Troglom.\n"
+"Pre pokračovanie stlač <Return>."
+
+#: ../src/boards/python/gnumch.py:490
+msgid "You ate a wrong number.\n"
+msgstr "Zjedol si nesprávne číslo.\n"
+
+#: ../src/boards/python/gnumch.py:491
+msgid ""
+"\n"
+"Press <Return> to continue."
+msgstr ""
+"\n"
+"Pre pokračovanie stlač <Return>."
+
+#: ../src/boards/python/gnumch.py:784
+msgid ""
+"T\n"
+"R\n"
+"O\n"
+"G\n"
+"G\n"
+"L\n"
+"E"
+msgstr ""
+"T\n"
+"R\n"
+"O\n"
+"G\n"
+"L"
+
+#: ../src/boards/python/guessnumber.py:205
+#, python-format
+msgid "Guess a number between %d and %d"
+msgstr "Hádaj číslo medzi %d a %d"
+
+#: ../src/boards/python/guessnumber.py:318
+#: ../src/boards/python/guessnumber.py:319
+#, python-format
+msgid "Please enter a number between %d and %d"
+msgstr "Prosím napíš číslo medzi %d a %d"
+
+#: ../src/boards/python/guessnumber.py:324
+#: ../src/boards/python/guessnumber.py:325
+msgid "Out of range"
+msgstr "Mimo interval"
+
+#: ../src/boards/python/guessnumber.py:331
+#: ../src/boards/python/guessnumber.py:332
+msgid "Too high"
+msgstr "Príliš vysoké"
+
+#: ../src/boards/python/guessnumber.py:334
+#: ../src/boards/python/guessnumber.py:335
+msgid "Too low"
+msgstr "Príliš nízke"
+
+#: ../src/boards/python/login.py:114
+msgid "Profile: "
+msgstr "Profil:"
+
+#: ../src/boards/python/login.py:268 ../src/boards/python/login.py:277
+msgid "Login: "
+msgstr "Prezývka:"
+
+#. toggle box
+#: ../src/boards/python/login.py:550
+msgid "Enter login to log in"
+msgstr "Napíš prezývku, aby si sa prihlásil"
+
+#: ../src/boards/python/mosaic.py:194
+msgid "Rebuild the same mosaic on the right area"
+msgstr "Vytvor rovnakú mozaiku aká je vpravo"
+
+#: ../src/boards/python/melody.py:118
+msgid ""
+"Error: this activity cannot be played with the\n"
+"sound effects disabled.\n"
+"Go to the configuration dialogue to\n"
+"enable the sound"
+msgstr ""
+"Chyba: túto aktivitu nie je možné hrať\n"
+"bez povolenia zvukových efektov.\n"
+"Zvuk povoľ v dialógu\n"
+"nastavenia"
+
+#: ../src/boards/python/oscar_and_friends.py:116
+msgid ""
+"Below the surface, Oscar the octopus and his friends sat on a rock,\n"
+"watching the bad weather above them."
+msgstr ""
+
+#: ../src/boards/python/oscar_and_friends.py:117
+msgid "They were all happy that the storms never reached all the way down to them."
+msgstr ""
+
+#: ../src/boards/python/oscar_and_friends.py:118
+msgid "No matter how bad it was up there, the bottom was always calm and quiet."
+msgstr ""
+
+#: ../src/boards/python/oscar_and_friends.py:119
+msgid "Oscar's best friends were Charlie the crab and Sandy the sea-star."
+msgstr ""
+
+#: ../src/boards/python/pythontest.py:148
+msgid ""
+"This is the first plugin in gcompris coded in the Python\n"
+"Programming language."
+msgstr ""
+
+#: ../src/boards/python/pythontest.py:157
+msgid ""
+"It is now possible to develop gcompris activities in C or in Python.\n"
+"Thanks to Olivier Samys who makes this possible."
+msgstr ""
+
+#: ../src/boards/python/pythontest.py:166
+msgid "This activity is not playable, just a test"
+msgstr ""
+
+#. toggle box
+#: ../src/boards/python/pythontest.py:414
+msgid "Disable line drawing in circle"
+msgstr ""
+
+#. combo box
+#: ../src/boards/python/pythontest.py:423
+msgid "Color of the line"
+msgstr ""
+
+#. spin button for int
+#: ../src/boards/python/pythontest.py:434
+msgid "Distance between circles"
+msgstr ""
+
+#. radio buttons for circle or rectangle
+#: ../src/boards/python/pythontest.py:445
+msgid "Use circles"
+msgstr ""
+
+#: ../src/boards/python/pythontest.py:446
+msgid "Use rectangles"
+msgstr ""
+
+#: ../src/boards/python/pythontest.py:449
+msgid "Choice of pattern"
+msgstr ""
+
+#: ../src/boards/python/redraw.py:347 ../src/boards/python/redraw.py:357
+msgid "Level"
+msgstr "Úroveň"
+
+#: ../src/boards/python/redraw.py:901 ../src/boards/python/redraw.py:904
+msgid "Coordinate"
+msgstr "Súradnice"
+
+#: ../src/boards/python/searace.py:200 ../src/boards/python/searace.py:205
+#: ../src/boards/python/searace.py:231
+msgid "The race is already being run"
+msgstr "Preteky už bežia"
+
+#. Manage default cases (no params given)
+#. Final move, add an ofset because we loose space in abs()
+#: ../src/boards/python/searace.py:428 ../src/boards/python/searace.py:453
+#: ../src/boards/python/searace.py:534 ../src/boards/python/searace.py:853
+#: ../src/boards/python/searace.py:882 ../src/boards/python/searace.py:977
+#: ../src/boards/python/searace.py:983 ../src/boards/python/searace.py:991
+msgid "forward"
+msgstr "dopredu"
+
+#: ../src/boards/python/searace.py:525
+msgid "COMMANDS ARE"
+msgstr "PRÍKAZY SÚ"
+
+#. The two boat arrived in a close time frame (1s), it's a draw
+#: ../src/boards/python/searace.py:751
+msgid "This is a draw"
+msgstr "To je remíza"
+
+#: ../src/boards/python/searace.py:758
+msgid "The Red boat has won"
+msgstr "Červená loďka vyhrala"
+
+#: ../src/boards/python/searace.py:761
+msgid "The Green boat has won"
+msgstr "Zelená loďka vyhrala"
+
+#: ../src/boards/python/searace.py:779 ../src/boards/python/searace.py:1021
+msgid "Angle:"
+msgstr "Uhol:"
+
+#: ../src/boards/python/searace.py:779
+msgid "Wind:"
+msgstr "Vietor:"
+
+#: ../src/boards/python/searace.py:860
+msgid "Syntax error at line"
+msgstr "Syntaktická chyba na riadku"
+
+#: ../src/boards/python/searace.py:878
+msgid "The command"
+msgstr "Príkaz"
+
+#: ../src/boards/python/searace.py:897
+msgid "Unknown command at line"
+msgstr "Neznámy príkaz na riadku"
+
+#: ../src/boards/python/searace.py:1021
+msgid "Distance:"
+msgstr "Vzdialenosť:"
+
+#: ../src/boards/python/tuxpaint.py:144
+msgid ""
+"Cannot find Tuxpaint.\n"
+"Install it to use this activity !"
+msgstr ""
+
+#: ../src/boards/python/tuxpaint.py:157
+msgid "Waiting for Tuxpaint to finish"
+msgstr "Čakám kým ukončíš aplikáciu Tuxpaint"
+
+#: ../src/boards/python/tuxpaint.py:210
+msgid "Inherit fullscreen setting from GCompris"
+msgstr ""
+
+#: ../src/boards/python/tuxpaint.py:214
+msgid "Inherit size setting from GCompris (800x600, 640x480)"
+msgstr ""
+
+#: ../src/boards/python/tuxpaint.py:218
+msgid "Disable shape rotation"
+msgstr ""
+
+#: ../src/boards/python/tuxpaint.py:222
+msgid "Show Uppercase text only"
+msgstr ""
+
+#: ../src/boards/python/tuxpaint.py:226
+msgid "Disable stamps"
+msgstr ""
+
+#: ../src/boards/railroad.c:91
+msgid "Memory game"
+msgstr "Pamäťová hra"
+
+#: ../src/boards/railroad.c:92
+msgid "Build a train according to the model"
+msgstr "Postav vlak podľa modelu"
+
+#: ../src/boards/reading.c:229 ../src/boards/wordsgame.c:205
+msgid ""
+"Error: We can't find\n"
+"a list of words to play this game.\n"
+msgstr ""
+
+#: ../src/boards/reading.c:381
+msgid "Please, check if the word"
+msgstr "Skontroluj prosím, či sa slovo"
+
+#: ../src/boards/reading.c:401
+msgid "is being displayed"
+msgstr "zobrazí"
+
+#: ../src/boards/reading.c:575
+msgid "I am Ready"
+msgstr "Som pripravený"
+
+#: ../src/boards/reading.c:615
+msgid "Yes, I saw it"
+msgstr "Áno, videl som ho"
+
+#: ../src/boards/reading.c:645
+msgid "No, it was not there"
+msgstr "Nie, nebolo tam"
+
+#. Report what was wrong in the log
+#: ../src/boards/reading.c:683
+#, c-format
+msgid "The word to find was '%s'"
+msgstr "Hladané slovo bolo '%s'"
+
+#: ../src/boards/reading.c:686
+msgid "But it was not displayed"
+msgstr "Ale nebolo zobrazené"
+
+#: ../src/boards/reading.c:688
+msgid "And it was displayed"
+msgstr "a bolo zobrazené"
+
+#: ../src/boards/scale.c:259
+#, c-format
+msgid "Weight = %s"
+msgstr "Váha = %s"
+
+#: ../src/boards/target.c:281 ../src/boards/target.c:546
+#, c-format
+msgid "Points = %s"
+msgstr "Body = %s"
+
+#: ../src/boards/target.c:403
+#, c-format
+msgid ""
+"Wind speed = %d\n"
+"kilometers/hour"
+msgstr ""
+"Rýchlosť vetra = %d km/h\n"
+"kilometrov za hodinu"
+
+#: ../src/boards/target.c:470
+#, c-format
+msgid "Distance to target = %d meters"
+msgstr "Vzdialenosť k cieľu = %d metrov"
+
+#: ../src/boards/wordprocessor.c:64
+msgid "Letter"
+msgstr "List"
+
+#: ../src/boards/wordprocessor.c:75
+msgid "Small"
+msgstr "Malý"
+
+#: ../src/boards/wordprocessor.c:86
+msgid "Text"
+msgstr "Text"
+
+#: ../src/boards/wordprocessor.c:97
+msgid "Big"
+msgstr "Veľký"
+
+#: ../src/boards/wordprocessor.c:114
+msgid "Black"
+msgstr "Čierny"
+
+#: ../src/boards/wordprocessor.c:115
+msgid "Red"
+msgstr "Červený"
+
+#: ../src/boards/wordprocessor.c:116
+msgid "Blue"
+msgstr "Modrý"
+
+#: ../src/boards/wordprocessor.c:117
+msgid "Pink"
+msgstr "Ružový"
+
+#: ../src/boards/wordprocessor.c:354
+msgid "TITLE"
+msgstr "NADPIS"
+
+#: ../src/boards/wordprocessor.c:355
+msgid "TITLE 1"
+msgstr "NADPIS 1"
+
+#: ../src/boards/wordprocessor.c:356
+msgid "TITLE 2"
+msgstr "NADPIS 2"
+
+#: ../src/boards/wordprocessor.c:357
+msgid "TEXT"
+msgstr "TEXT"
+
+#: ../src/gcompris/about.c:57
+msgid ""
+"Author: Bruno Coudoin\n"
+"Contribution: Pascal Georges, Jose Jorge, Yves Combe\n"
+"Graphics: Renaud Blanchard, Franck Doucet\n"
+"Intro Music: Djilali Sebihi\n"
+"Background Music: Rico Da Halvarez\n"
+msgstr ""
+"Autor: Bruno Coudoin\n"
+"Prispievateľ: Pascal Georges, Jose Jorge, Yves Combe\n"
+"Grafika: Renaud Blanchard, Franck Doucet\n"
+"Úvodná hudba: Djilali Sebihi\n"
+"Hudba na pozadí: Rico Da Halvarez\n"
+
+#. TRANSLATORS: Replace this string with your names, one name per line.
+#: ../src/gcompris/about.c:65
+msgid "translator_credits"
+msgstr ""
+"Zdenko Podobný\n"
+"Marek Nagy"
+
+#: ../src/gcompris/about.c:96 ../src/gcompris/about.c:106
+msgid "About GCompris"
+msgstr "O GComprise"
+
+#: ../src/gcompris/about.c:117
+msgid "Translators:"
+msgstr ""
+"Zdenko Podobný\n"
+"Marek Nagy"
+
+#: ../src/gcompris/about.c:193
+msgid ""
+"GCompris Home Page\n"
+"http://gcompris.net"
+msgstr ""
+"Domovská stránka GComprisu\n"
+"http://gcompris.net"
+
+#: ../src/gcompris/about.c:215
+msgid ""
+"This software is a GNU Package and is released under the GNU General Public "
+"License"
+msgstr "Tento softvér je GNU balíček a je vydaný pod licenciou GNU Public Licence"
+
+#: ../src/gcompris/about.c:278 ../src/gcompris/about.c:288
+#: ../src/gcompris/config.c:467 ../src/gcompris/config.c:477
+#: ../src/gcompris/dialog.c:97 ../src/gcompris/help.c:380
+#: ../src/gcompris/help.c:390 ../src/gcompris/images_selector.c:317
+msgid "OK"
+msgstr "OK"
+
+#: ../src/gcompris/bar.c:569
+msgid "GCompris confirmation"
+msgstr "GCompris potvrdenie"
+
+#: ../src/gcompris/bar.c:570
+msgid "Are you sure you want to quit?"
+msgstr "Si si istý, že chceš skončiť?"
+
+#: ../src/gcompris/bar.c:571
+msgid "Yes, I am sure!"
+msgstr "Áno, chcem skončiť!"
+
+#: ../src/gcompris/bar.c:572
+msgid "No, I want to keep going"
+msgstr "Nie, nechcem skončiť"
+
+#: ../src/gcompris/board.c:181
+msgid "Dynamic module loading is not supported. gcompris cannot load.\n"
+msgstr ""
+
+#: ../src/gcompris/board_config.c:700
+msgid ""
+"Select the language\n"
+" to use in the board"
+msgstr "Urči jazyk, ktorý bude použitý v aktivite"
+
+#: ../src/gcompris/board_config.c:763
+msgid "Global GCompris mode"
+msgstr "Globálny GCompris mód"
+
+#: ../src/gcompris/board_config.c:764
+msgid "Normal"
+msgstr "Normálny"
+
+#: ../src/gcompris/board_config.c:765
+msgid "2 clicks"
+msgstr "2 kliky"
+
+#: ../src/gcompris/board_config.c:766
+msgid "both modes"
+msgstr "oba módy"
+
+#: ../src/gcompris/board_config.c:794
+msgid ""
+"Select the drag and drop mode\n"
+" to use in the board"
+msgstr ""
+
+#: ../src/gcompris/config.c:59
+msgid "Your system default"
+msgstr "Štandard podľa systému"
+
+#: ../src/gcompris/config.c:60
+msgid "Amharic"
+msgstr "Amharsky"
+
+#: ../src/gcompris/config.c:61
+msgid "Arabic"
+msgstr "Arabsky"
+
+#: ../src/gcompris/config.c:62
+msgid "Turkish (Azerbaijan)"
+msgstr "Turecky (Azerbajdžan)"
+
+#: ../src/gcompris/config.c:63
+msgid "Bulgarian"
+msgstr "Bulharsky"
+
+#: ../src/gcompris/config.c:64
+msgid "Catalan"
+msgstr "Katalánsky"
+
+#: ../src/gcompris/config.c:66
+msgid "Danish"
+msgstr "Dánsky"
+
+#: ../src/gcompris/config.c:67
+msgid "German"
+msgstr "Nemecky"
+
+#: ../src/gcompris/config.c:68
+msgid "Greek"
+msgstr "Grécky"
+
+#: ../src/gcompris/config.c:69
+msgid "English (Canada)"
+msgstr "Anglicky (Kanada)"
+
+#: ../src/gcompris/config.c:70
+msgid "English (Great Britain)"
+msgstr "Anglicky (Veľká Británia)"
+
+#: ../src/gcompris/config.c:71
+msgid "Spanish"
+msgstr "Španielsky"
+
+#: ../src/gcompris/config.c:72
+msgid "Basque"
+msgstr "Baskicky"
+
+#: ../src/gcompris/config.c:73
+msgid "Finnish"
+msgstr "Fínsky"
+
+#: ../src/gcompris/config.c:74
+msgid "French"
+msgstr "Francúzsky"
+
+#: ../src/gcompris/config.c:75
+msgid "Irish (Gaelic)"
+msgstr "Írsky (Gaelic)"
+
+#: ../src/gcompris/config.c:76
+msgid "Hebrew"
+msgstr "Hebrejsky"
+
+#: ../src/gcompris/config.c:77
+msgid "Hindi"
+msgstr "Hindsky"
+
+#: ../src/gcompris/config.c:78
+msgid "Japanese"
+msgstr "Japonsky"
+
+#: ../src/gcompris/config.c:79
+msgid "Gujarati"
+msgstr "Gujaratisky"
+
+#: ../src/gcompris/config.c:80
+msgid "Punjabi"
+msgstr "Punjabinsky"
+
+#: ../src/gcompris/config.c:81
+msgid "Hungarian"
+msgstr "Maďarsky"
+
+#: ../src/gcompris/config.c:82
+msgid "Croatian"
+msgstr "Chorvátskyy"
+
+#: ../src/gcompris/config.c:83
+msgid "Italian"
+msgstr "Taliansky"
+
+#: ../src/gcompris/config.c:84
+msgid "Georgian"
+msgstr "Gruzínsky"
+
+#: ../src/gcompris/config.c:85
+msgid "Korean"
+msgstr "Kórejsky"
+
+#: ../src/gcompris/config.c:86
+msgid "Lithuanian"
+msgstr "Litovsky"
+
+#: ../src/gcompris/config.c:87
+msgid "Macedonian"
+msgstr "Macedónsky"
+
+#: ../src/gcompris/config.c:88
+msgid "Malayalam"
+msgstr "Malajalamsky"
+
+#: ../src/gcompris/config.c:89
+msgid "Marathi"
+msgstr "Marathinsky"
+
+#: ../src/gcompris/config.c:90
+msgid "Malay"
+msgstr "Malajsky"
+
+#: ../src/gcompris/config.c:91
+msgid "Nepal"
+msgstr "Nepálsky"
+
+#: ../src/gcompris/config.c:92
+msgid "Dutch"
+msgstr "Holandsky"
+
+#: ../src/gcompris/config.c:93
+msgid "Norwegian Bokmal"
+msgstr "Nórsky Bokmal"
+
+#: ../src/gcompris/config.c:94
+msgid "Norwegian Nynorsk"
+msgstr "Nórsky Nynorsk"
+
+#: ../src/gcompris/config.c:95
+msgid "Polish"
+msgstr "Poľsky"
+
+#: ../src/gcompris/config.c:96
+msgid "Portuguese"
+msgstr "Portugalsky"
+
+#: ../src/gcompris/config.c:97
+msgid "Portuguese (Brazil)"
+msgstr "Portugalsky (Brazília)"
+
+#: ../src/gcompris/config.c:98
+msgid "Romanian"
+msgstr "Rumunsky"
+
+#: ../src/gcompris/config.c:99
+msgid "Russian"
+msgstr "Rusky"
+
+#: ../src/gcompris/config.c:100
+msgid "Kinyarwanda"
+msgstr "Kinyarwandansky"
+
+#: ../src/gcompris/config.c:101
+msgid "Slovak"
+msgstr "Slovensky"
+
+#: ../src/gcompris/config.c:102
+msgid "Slovenian"
+msgstr "Slovinsky"
+
+#: ../src/gcompris/config.c:103
+msgid "Somali"
+msgstr "Somalsky"
+
+#: ../src/gcompris/config.c:104
+msgid "Albanian"
+msgstr "Albánsky"
+
+#: ../src/gcompris/config.c:105
+msgid "Serbian (Latin)"
+msgstr "Srbsky (latinka)"
+
+#: ../src/gcompris/config.c:106
+msgid "Serbian"
+msgstr "Srbsky"
+
+#: ../src/gcompris/config.c:107
+msgid "Swedish"
+msgstr "Švédsky"
+
+#. "ta_IN.UTF-8",	N_("Tamil"),
+#: ../src/gcompris/config.c:109
+msgid "Thai"
+msgstr "Thaisky"
+
+#: ../src/gcompris/config.c:110
+msgid "Turkish"
+msgstr "Turecky"
+
+#: ../src/gcompris/config.c:111
+msgid "Vietnamese"
+msgstr "Vietnamsky"
+
+#: ../src/gcompris/config.c:112
+msgid "Walloon"
+msgstr "Walloonsky"
+
+#: ../src/gcompris/config.c:113
+msgid "Chinese (Simplified)"
+msgstr "Čínsky (zjednodušene)"
+
+#: ../src/gcompris/config.c:114
+msgid "Chinese (Traditional)"
+msgstr "Čínsky (tradične)"
+
+#: ../src/gcompris/config.c:119
+msgid "No time limit"
+msgstr "Bez časového limitu"
+
+#: ../src/gcompris/config.c:120
+msgid "Slow timer"
+msgstr "Pomalý časovač"
+
+#: ../src/gcompris/config.c:121
+msgid "Normal timer"
+msgstr "Normálny časovač"
+
+#: ../src/gcompris/config.c:122
+msgid "Fast timer"
+msgstr "Rýchly časovač"
+
+#: ../src/gcompris/config.c:127
+msgid "800x600 (Default for gcompris)"
+msgstr "800x600 (Štandard pre gcompris)"
+
+#: ../src/gcompris/config.c:132
+msgid ""
+"<i>Use Gcompris administration module\n"
+"to filter boards</i>"
+msgstr ""
+
+#: ../src/gcompris/config.c:187 ../src/gcompris/config.c:197
+msgid "GCompris Configuration"
+msgstr "Nastavenie GCompris"
+
+#: ../src/gcompris/config.c:273
+msgid "Fullscreen"
+msgstr "Celá obrazovka"
+
+#: ../src/gcompris/config.c:316
+msgid "Music"
+msgstr "Hudba"
+
+#: ../src/gcompris/config.c:344
+msgid "Effect"
+msgstr "Efekt"
+
+#: ../src/gcompris/config.c:380
+#, c-format
+msgid "Couldn't open skin dir: %s"
+msgstr "Nie je možné otvoriť priečinok povrchov: %s"
+
+#: ../src/gcompris/config.c:411 ../src/gcompris/config.c:862
+#: ../src/gcompris/config.c:876
+#, c-format
+msgid "Skin : %s"
+msgstr "Povrch : %s"
+
+#: ../src/gcompris/config.c:413
+msgid "SKINS NOT FOUND"
+msgstr ""
+
+#: ../src/gcompris/config.c:538
+msgid "English (United State)"
+msgstr "Anglicky (Spojené štáty)"
+
+#: ../src/gcompris/file_selector.c:335
+msgid "CANCEL"
+msgstr "ZRUŠ"
+
+#: ../src/gcompris/file_selector.c:366
+msgid "LOAD"
+msgstr "NAČÍTAJ"
+
+#: ../src/gcompris/file_selector.c:366
+msgid "SAVE"
+msgstr "ULOŽ"
+
+#: ../src/gcompris/gameutil.c:80
+msgid "Couldn't find or load the file"
+msgstr "Nie je možné nájsť súbor"
+
+#: ../src/gcompris/gameutil.c:82
+msgid "This activity is incomplete."
+msgstr ""
+
+#: ../src/gcompris/gameutil.c:83
+msgid ""
+"Exit it and report\n"
+"the problem to the authors."
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:122
+msgid "run gcompris in fullscreen mode."
+msgstr "spustí GCompris na celej obrazovke."
+
+#: ../src/gcompris/gcompris.c:125
+msgid "run gcompris in window mode."
+msgstr "spustí GCompris v okne."
+
+#: ../src/gcompris/gcompris.c:128
+msgid "run gcompris with sound enabled."
+msgstr "spustí GCompris s povoleným zvukom."
+
+#: ../src/gcompris/gcompris.c:131
+msgid "run gcompris without sound."
+msgstr "spustí GCompris bez zvuku."
+
+#: ../src/gcompris/gcompris.c:134
+msgid "run gcompris with the default gnome cursor."
+msgstr "spustí gcompris so štandardným gnome kurzorom."
+
+#: ../src/gcompris/gcompris.c:137
+msgid "display only activities with this difficulty level."
+msgstr "zobrazovať iba aktivity s touto úrovňou obtiažnosti."
+
+#: ../src/gcompris/gcompris.c:140
+msgid "display debug informations on the console."
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:143
+msgid "Print the version of "
+msgstr "Vypíše verziu "
+
+#: ../src/gcompris/gcompris.c:146
+msgid "Use the antialiased canvas (slower)."
+msgstr "Použiť vyhladené plátno (pomalšie)."
+
+#: ../src/gcompris/gcompris.c:149
+msgid "Disable XF86VidMode (No screen resolution change)."
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:152
+msgid ""
+"Run gcompris with local menu (e.g -l /reading will let you play only "
+"activities in the reading directory, -l /strategy/connect4 only the connect4 "
+"activity)"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:155
+msgid "Run GCompris with local activity directory added to menu"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:158
+msgid "Run GCompris in administration and user-management mode"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:161
+msgid "Use alternate database for profiles"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:164
+msgid "Use alternate database for logs"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:167
+msgid "Create the alternate database for profiles"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:170
+msgid "Re-read XML Menus and store them in the database"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:173
+msgid "Set the profile to use. Use 'gcompris -a' to create profiles"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:176
+msgid "List all available profiles. Use 'gcompris -a' to create profiles"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:179
+msgid ""
+"Shared directory location, for profiles and board-configuration data: "
+"[$HOME/.gcompris/shared]"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:182
+msgid "The location of user directories: [$HOME/.gcompris/users]"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:185
+msgid "Run the experimental activities"
+msgstr "Spusti experimentálne aktivity"
+
+#: ../src/gcompris/gcompris.c:188
+msgid "Disable the quit button"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:191
+msgid "Disable the config button"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:194
+msgid "Display the resources on stdout based on the selected activities"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:197
+msgid ""
+"GCompris will get images, sounds and activity data from this server if not "
+"found locally."
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:200
+msgid ""
+"Only when --server is provided, disable check for local resource first. Data "
+"are always taken from the web server."
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:204
+msgid "In server mode, specify the cache directory used to avoid useless downloads."
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:206
+msgid "Global drag and drop mode: normal, 2clicks, both. Default mode is normal."
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:831
+#, c-format
+msgid ""
+"GCompris is free software released under the GPL License. In order to "
+"support its development, the Windows version provides only %d of the %d "
+"activities. You can get the full version for a small fee at\n"
+"<http://gcompris.net>\n"
+"The Linux version does not have this restriction. Note that GCompris is "
+"being developed to free schools from monopolistic software vendors. If you "
+"also believe that we should teach freedom to children, please consider using "
+"GNU/Linux. Get more information at FSF:\n"
+"<http://www.fsf.org/philosophy>"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:1438
+#, c-format
+msgid ""
+"GCompris\n"
+"Version: %s\n"
+"Licence: GPL\n"
+"More info at http://gcompris.net\n"
+msgstr ""
+"GCompris\n"
+"Verzia: %s\n"
+"Licencia: GPL\n"
+"Viac informácií je na http://gcompris.net\n"
+
+#. check the list of possible values for -l, then exit
+#: ../src/gcompris/gcompris.c:1527
+#, c-format
+msgid "Use -l to access an activity directly.\n"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:1528
+#, c-format
+msgid "The list of available activities is :\n"
+msgstr ""
+
+#: ../src/gcompris/gcompris.c:1720
+#, c-format
+msgid "The list of available profiles is:\n"
+msgstr ""
+
+#: ../src/gcompris/gcompris_db.c:255
+msgid "Unaffected"
+msgstr "Neovplyvnený"
+
+#: ../src/gcompris/gcompris_db.c:256
+msgid "Users without a class"
+msgstr "Užívatelia bez triedy"
+
+#: ../src/gcompris/help.c:195
+msgid "Prerequisite"
+msgstr "Požiadavky"
+
+#: ../src/gcompris/help.c:223
+msgid "Goal"
+msgstr "Cieľ"
+
+#: ../src/gcompris/help.c:251
+msgid "Manual"
+msgstr "Manuál"
+
+#: ../src/gcompris/help.c:279
+msgid "Credit"
+msgstr "Kredit"
+
+#: ../src/gcompris/timer.c:250
+msgid "Time Elapsed"
+msgstr "Uplynulý čas"
+
+#: ../src/gcompris/timer.c:339
+#, c-format
+msgid "Remaining Time = %d"
+msgstr "Zostávajúci čas = %d"
+

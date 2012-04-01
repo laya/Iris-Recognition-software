@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="mazeMenu"
+	 type="menu"
+	 section="/discovery"
+	 icon="maze3D.svg"
+	 author="">
+	 <_title>Go to Maze activities</_title>
+	 <_description>Find your way out of different types of mazes</_description>
+  </Board>
+</GCompris>

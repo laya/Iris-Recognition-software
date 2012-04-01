@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="bargame"
+	 type="python:bargame"
+	 section="/strategy"
+	 difficulty="2"
+	 icon="bargame.svg"
+	 author="Yves Combe"
+	 boarddir="bargame"
+	 demo="1">
+	 <_title>bar game</_title>
+	 <_description>Don't use the last ball</_description>
+	 <_prerequisite>Brain</_prerequisite>
+	 <_goal>Logic-training activity</_goal>
+	 <_manual>Place balls in the holes. You win if the computer has to place the last ball. If you want Tux to begin, just click on him.</_manual>
+  </Board>
+</GCompris>
+

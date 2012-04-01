@@ -1,0 +1,13 @@
+
+* More boards both educational and/or recreationnal.
+  see a list at http://gcompris.net/wiki/index.php/Ideas_for_activities
+
+* More feature, see a list at:
+  http://gcompris.net/wiki/index.php/Requested_Features
+
+* Add an independant server side software that can control gcompris
+  behaviour and record the student scoring. It must also include
+  authentication. Already got a name for that : schoolbus
+
+* Add a board to set the current date on a calendar with date/month/year
+  and season (Have fun with season and I18N ;)

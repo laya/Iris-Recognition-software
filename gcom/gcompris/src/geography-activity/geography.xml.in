@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="geography"
+	 type="shapegame"
+	 section="/discovery/miscelaneous"
+	 icon="globe.svg"
+	 mandatory_sound_dir="voices/$LOCALE/geography"
+	 mandatory_sound_file="voices/$LOCALE/geography/peru.ogg"
+	 difficulty="2"
+	 author="Jean-Philippe Ayanides (jp.ayanides@free.fr)"
+	 boarddir="geography"
+	 demo="1">
+	 <_title>Locate the countries</_title>
+	 <_description>Drag and Drop the items to redraw the whole map</_description>
+	<_prerequisite>Mouse manipulation: movement, drag and drop</_prerequisite>
+        <_credit></_credit>
+  </Board>
+</GCompris>

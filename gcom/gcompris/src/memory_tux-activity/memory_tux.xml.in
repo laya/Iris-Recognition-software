@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="memory_tux"
+	 type="memory"
+	 section="/discovery/memory_group"
+	 mode="tux"
+	 difficulty="2"
+	 icon="memory_tux.svg"
+	 author="Yves Combe (yves@ycombe.net)"
+	 boarddir=""
+	 demo="1">
+	 <_title>Memory Game with images, against Tux</_title>
+ 	 <_description>Have a memory competition with Tux.</_description>
+	<_prerequisite>Mouse manipulation, Brain.</_prerequisite>
+	<_goal>Train your memory and remove all the cards</_goal>
+	<_manual>You can see a set of cards that all look the same. Each card has a picture on the other side, and each picture has a twin somewhere in the set. You can only turn over two cards at once, so you need to remember where the pictures are until you can find the twin. When you turn over twins, they disappear! You take turns with Tux, and to win the game, you have to find more pairs of twins than he does.</_manual>
+  </Board>
+  <Data directory=""/>
+</GCompris>

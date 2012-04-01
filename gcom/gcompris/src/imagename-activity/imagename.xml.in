@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="imagename"
+	 type="shapegame"
+	 section="/reading"
+	 icon="imagename.svg"
+	 difficulty="3"
+	 author="Bruno Coudoin (bruno.coudoin@free.fr)"
+	 boarddir="imagename">
+	 <_description>Drag and Drop each item above its name</_description>
+	 <_title>Image Name</_title>
+	<_prerequisite>Reading</_prerequisite>
+	<_goal>Vocabulary and reading</_goal>
+	<_manual>Drag each image from the (vertical) box on the left to its (corresponding) name on the right. Click the OK button to check your answer.</_manual>
+  </Board>
+</GCompris>

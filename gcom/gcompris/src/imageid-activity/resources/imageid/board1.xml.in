@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ImageId>
+  <Board>
+  	<pixmapfile>imageid/cartable.png</pixmapfile>
+  	<_good>satchel</_good>
+	<_bad>cheese</_bad>
+	<_bad>house</_bad>
+  </Board>
+  <Board>
+  	<pixmapfile>imageid/banana.png</pixmapfile>
+  	<_good>banana</_good>
+	<_bad>house</_bad>
+	<_bad>book</_bad>
+  </Board>
+  <Board>
+  	<pixmapfile>imageid/maison.png</pixmapfile>
+  	<_good>house</_good>
+	<_bad>book</_bad>
+	<_bad>bag</_bad>
+  </Board>
+  <Board>
+  	<pixmapfile>imageid/pomme.png</pixmapfile>
+  	<_good>apple</_good>
+	<_bad>pear</_bad>
+	<_bad>cow</_bad>
+  </Board>
+</ImageId>

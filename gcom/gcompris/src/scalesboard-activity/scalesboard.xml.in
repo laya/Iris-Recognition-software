@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="scalesboard"
+	 type="scale"
+	 section="/math/algebramenu"
+	 icon="scalesicon.svg"
+	 mode="count"
+	 difficulty="2"
+	 author="miguel DE IZARRA (miguel2i@free.fr)"
+	 boarddir="scales"
+	 demo="1">
+	 <_title>Balance the scales properly</_title>
+	 <_description>Drag and Drop weights to balance the scales</_description>
+	<_goal>Mental calculation, arithmetic equality</_goal>
+	<_prerequisite></_prerequisite>
+	<_manual>To balance the scales, move the weights on the left or the right side. The weights can be arranged in any order.</_manual>
+	<_credit>The painting is an original painting created by Virginie MOREAU (virginie.moreau@free.fr) in 2001. Its name is 'Spices Seller in Egypt'. It is released under the GPL licence.</_credit>
+  </Board>
+</GCompris>

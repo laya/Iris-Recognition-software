@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+         name="gnumchmenu"
+         type="menu"
+         section="/math/algebramenu"
+         icon="gnumch.svg"
+         author="">
+         <_title>Go to Number Munchers activities</_title>
+         <_description>Number Munchers are games to play with arithmetic.</_description>
+  </Board>
+</GCompris>
