@@ -1,0 +1,1 @@
+package IrisRecog;/** * GUIPanel.java * * Extends the JPanel swing component to provide specific background color. * */import java.awt.*;import javax.swing.*;public class GUIPanel extends JPanel{	/**	 * Default constructor for creating a new GUI panel.	 */	public GUIPanel()	{		super();		this.setBackground(Constants.CLR_DEFAULT_BACKGROUND);	}}
